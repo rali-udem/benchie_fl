@@ -1,0 +1,2221 @@
+sent_id:1	Chilly Gonzales (born Jason Charles Beck; 20 March 1972) is a Grammy-winning Canadian musician who resided in Paris, France for several years, and now lives in Cologne, Germany.
+1--> Cluster 1:
+Chilly Gonzales --> [was] born [as] --> Jason Charles Beck
+1--> Cluster 2:
+Chilly Gonzales --> [was] born on --> 20 March 1972
+1--> Cluster 3:
+Paris --> [is] in --> France
+1--> Cluster 4:
+Cologne --> [is] in --> Germany
+1--> Cluster 5:
+Chilly Gonzales --> [now] lives in --> Cologne
+1--> Cluster 6:
+Chilly Gonzales --> resided --> in Paris
+Chilly Gonzales --> resided in --> Paris
+1--> Cluster 7:
+Chilly Gonzales --> resided in Paris for --> [several] years
+1--> Cluster 8:
+Chilly Gonzales --> is --> Canadian
+1--> Cluster 9:
+Chilly Gonzales --> is --> [a] musician
+Chilly Gonzales --> is [a] --> musician
+1--> Cluster 10:
+Chilly Gonzales --> is --> Grammy-winning
+Chilly Gonzales --> [has] won [a] --> Grammy
+Chilly Gonzales --> [has] won --> [a] Grammy
+1--> Cluster 11:
+Chilly Gonzales --> [now] lives in --> Germany
+1--> Cluster 12:
+Chilly Gonzales --> resided --> in France
+Chilly Gonzales --> resided in --> France
+1--> Cluster 13:
+Chilly Gonzales --> resided in France for --> [several] years
+
+sent_id:2	Known for his albums of classical piano compositions with a pop music sensibility, Solo Piano I and Solo Piano II, as well as his MC and electro albums, he is also a producer and songwriter.
+2--> Cluster 1:
+he --> is [also] --> [a] producer
+he --> is [also] [a] --> producer
+2--> Cluster 2:
+he --> is [also] --> [a] songwriter
+he --> is [also] [a] --> songwriter
+2--> Cluster 3:
+he --> [is] Known for --> Solo Piano II
+2--> Cluster 4:
+he --> [is] Known for --> Solo Piano I
+2--> Cluster 5:
+he --> [is] Known for --> [his] MC albums
+he --> [is] Known for --> [his] MC album
+2--> Cluster 6:
+he --> [is] Known for --> [his] electro albums
+he --> [is] Known for --> [his] electro album
+2--> Cluster 7:
+Solo Piano II --> is --> his album
+Solo Piano II --> is his --> album
+2--> Cluster 8:
+he --> has [a] --> MC album
+he --> has --> MC albums
+2--> Cluster 9:
+he --> has [a] --> electro album
+he --> has [a] --> electro albums
+he --> has --> [a] electro albums
+he --> has [an] --> electro album
+he --> has [an] --> electro albums
+he --> has --> [an] electro albums
+2--> Cluster 10:
+Solo Piano I --> is --> his album
+Solo Piano I --> is his --> album
+2--> Cluster 11:
+Solo Piano I --> is --> [an] album
+Solo Piano I --> is [an] --> album
+Solo Piano I --> is --> [a] album
+Solo Piano I --> is [a] --> album
+2--> Cluster 12:
+Solo Piano I --> is [an] album of --> piano
+2--> Cluster 13:
+Solo Piano I --> is [an] album of --> classical [music]
+2--> Cluster 14:
+Solo Piano I --> is [an] album of --> compositions
+2--> Cluster 15:
+Solo Piano I --> has --> [a] pop music sensibility
+Solo Piano I --> has [a] --> pop music sensibility
+2--> Cluster 16:
+Solo Piano II --> is --> [an] album
+Solo Piano II --> is [an] --> album
+Solo Piano II --> is --> [a] album
+Solo Piano II --> is [a] --> album
+2--> Cluster 17:
+Solo Piano II --> is [an] album of --> piano
+2--> Cluster 18:
+Solo Piano II --> is [an] album of --> classical [music]
+2--> Cluster 19:
+Solo Piano II --> is [an] album of --> compositions
+2--> Cluster 20:
+Solo Piano II --> has --> [a] pop music sensibility
+Solo Piano II --> has [a] --> pop music sensibility
+
+sent_id:3	Gonzales broadcasts a web series Pop Music Masterclass on WDR, the documentary Classical Connections on BBC Radio 1, The History of Music on Arte, and Music's Cool with Chilly Gonzales on Apple Music's Beats1 radio show.
+3--> Cluster 1:
+Gonzales --> broadcasts --> [a] web series
+Gonzales --> broadcasts [a] --> web series
+3--> Cluster 2:
+Gonzales --> broadcasts --> Pop Music Masterclass
+3--> Cluster 3:
+Gonzales --> broadcasts Pop Music Masterclass on --> WDR
+3--> Cluster 4:
+Pop Music Masterclass --> is [a] --> web series
+Pop Music Masterclass --> is --> [a] web series
+3--> Cluster 5:
+Gonzales --> broadcasts --> [a] documentary
+Gonzales --> broadcasts [a] --> documentary
+3--> Cluster 6:
+Gonzales --> broadcasts --> Classical Connections
+3--> Cluster 7:
+Gonzales --> broadcasts Classical Connections on --> BBC Radio 1
+3--> Cluster 8:
+Classical Connections --> is [a] --> documentary
+Classical Connections --> is --> [a] documentary
+3--> Cluster 9:
+Gonzales --> broadcasts --> The History of Music
+3--> Cluster 10:
+Gonzales --> broadcasts The History of Music on --> Arte
+3--> Cluster 11:
+Gonzales --> broadcasts --> Music 's Cool with Chilly Gonzales
+3--> Cluster 12:
+Gonzales --> broadcasts Music's Cool with Chilly Gonzales on --> Apple Music 's Beats1 radio show
+Gonzales --> broadcasts Music's Cool with Chilly Gonzales on --> Beats1 radio show
+Gonzales --> broadcasts Music's Cool with Chilly Gonzales on --> Beats1
+3--> Cluster 13:
+Beats1 --> [is] owned by --> Apple Music
+Beats1 --> is --> Apple Music 's
+Apple Music --> owns --> Beats1
+Apple Music --> has --> Beats1
+Apple Music --> has --> Beats1 radio show
+3--> Cluster 14:
+Beats1 --> is [a] --> radio show
+Beats1 --> is --> [a] radio show
+3--> Cluster 15:
+Gonzales --> broadcasts on --> WDR
+3--> Cluster 16:
+Gonzales --> broadcasts on --> BBC Radio 1
+3--> Cluster 17:
+Gonzales --> broadcasts on --> Arte
+3--> Cluster 18:
+Gonzales --> broadcasts on --> Beats1 radio show
+Gonzales --> broadcasts on --> Apple Music 's Beats1 radio show
+
+sent_id:4	He has written several newspaper and magazine opinion pieces in The Guardian, Vice, Billboard, and others.
+4--> Cluster 1:
+He --> has written in --> The Guardian
+He --> wrote in --> The Guardian
+4--> Cluster 2:
+He --> has written in --> Vice
+He --> wrote in --> Vice
+4--> Cluster 3:
+He --> has written in --> Billboard
+He --> wrote in --> Billboard
+4--> Cluster 4:
+He --> has written --> [several] newspaper [opinion] pieces
+He --> wrote --> [several] newspaper [opinion] pieces
+4--> Cluster 5:
+He --> has written --> [several] magazine [opinion] pieces
+He --> wrote --> [several] magazine [opinion] pieces
+4--> Cluster 6:
+He --> has written --> [several] opinion pieces
+He --> wrote --> [several] opinion pieces
+4--> Cluster 7:
+He --> has written [several] [opinion] pieces in --> [The] Guardian
+He --> wrote [several] [opinion] pieces in --> [The] Guardian
+4--> Cluster 8:
+He --> has written [several] [opinion] pieces in --> Vice
+He --> wrote [several] [opinion] pieces in --> Vice
+4--> Cluster 9:
+He --> has written [several] [opinion] pieces in --> Billboard
+He --> wrote [several] [opinion] pieces in --> Billboard
+4--> Cluster 10:
+He --> has written [several] [opinion] pieces in --> other publications than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written [several] [opinion] pieces in --> publications other than The Guardian , Vice [,] [and] Billboard [,]
+He --> wrote [several] [opinion] pieces in --> other publications than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> wrote [several] [opinion] pieces in --> publications other than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written [[several] opinion] pieces in --> other publications than The Guardian, Vice, [and] Billboard,
+He --> has written [several] [opinion] pieces in --> publications other than The Guardian , Vice [,] [and] Billboard,
+He --> wrote [several] [opinion] pieces in --> other publications than The Guardian [,] Vice [,] [and] Billboard,
+He --> wrote [[several] opinion] pieces in --> publications other than The Guardian [,] Vice [,] [and] Billboard,
+He --> has written [several] [opinion] pieces in --> others publications than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written [several] [opinion] pieces in --> publications others than The Guardian , Vice [,] [and] Billboard [,]
+He --> wrote [several] [opinion] pieces in --> others publications than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> wrote [several] [opinion] pieces in --> publications others than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written [several] [opinion] pieces in --> others publications than The Guardian, Vice, [and] Billboard,
+He --> has written [several] [opinion] pieces in --> publications others than The Guardian , Vice [,] [and] Billboard,
+He --> wrote [several] [opinion] pieces in --> others publications than The Guardian [,] Vice [,] [and] Billboard,
+He --> wrote [several] [opinion] pieces in --> publications others than The Guardian [,] Vice [,] [and] Billboard,
+He --> has written [several] [opinion] pieces in --> publications excluding The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written [several] [opinion] pieces in --> publications excluding The Guardian , Vice [,] [and] Billboard [,]
+He --> wrote [several] [opinion] pieces in --> publications excluding The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written [several] [opinion] pieces in --> publications excluding The Guardian , Vice [,] [and] Billboard,
+He --> wrote [several] [opinion] pieces in --> publications excluding The Guardian [,] Vice [,] [and] Billboard,
+He --> has written [several] [opinion] pieces in --> publications excluding The Guardian , Vice [,] [and] Billboard [,]
+He --> wrote [several] [opinion] pieces in --> publications excluding The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written [several] [opinion] pieces in --> publications excluding The Guardian , Vice [,] [and] Billboard,
+He --> wrote [several] [opinion] pieces in --> publications excluding The Guardian [,] Vice [,] [and] Billboard,
+4--> Cluster 11:
+He --> has written in --> other publications than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written in --> publications other than The Guardian , Vice [,] [and] Billboard [,]
+He --> wrote in --> other publications than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> wrote in --> publications other than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written in --> other publications than The Guardian, Vice, [and] Billboard,
+He --> has written in --> publications other than The Guardian , Vice [,] [and] Billboard,
+He --> wrote in --> other publications than The Guardian [,] Vice [,] [and] Billboard,
+He --> wrote in --> publications other than The Guardian [,] Vice [,] [and] Billboard,
+He --> has written in --> others publications than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written in --> publications others than The Guardian , Vice [,] [and] Billboard [,]
+He --> wrote in --> others publications than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> wrote in --> publications others than The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written in --> others publications than The Guardian, Vice, [and] Billboard,
+He --> has written in --> publications others than The Guardian , Vice [,] [and] Billboard,
+He --> wrote in --> others publications than The Guardian [,] Vice [,] [and] Billboard,
+He --> wrote in --> publications others than The Guardian [,] Vice [,] [and] Billboard,
+He --> has written in --> publications excluding The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written in --> publications excluding The Guardian , Vice [,] [and] Billboard [,]
+He --> wrote in --> publications excluding The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written in --> publications excluding The Guardian , Vice [,] [and] Billboard,
+He --> wrote in --> publications excluding The Guardian [,] Vice [,] [and] Billboard,
+He --> has written in --> publications excluding The Guardian , Vice [,] [and] Billboard [,]
+He --> wrote in --> publications excluding The Guardian [,] Vice [,] [and] Billboard [,]
+He --> has written in --> publications excluding The Guardian , Vice [,] [and] Billboard,
+He --> wrote in --> publications excluding The Guardian [,] Vice [,] [and] Billboard,
+4--> Cluster 12:
+The Guardian --> has --> [opinion] pieces
+The Guardian --> publishes --> [opinion] pieces
+The Guardian --> contains --> [opinion] pieces
+4--> Cluster 13:
+Vice --> has --> [opinion] pieces
+Vice --> publishes --> [opinion] pieces
+Vice --> contains --> [opinion] pieces
+4--> Cluster 14:
+Billboard --> has --> [opinion] pieces
+Billboard --> publishes --> [opinion] pieces
+Billboard --> contains --> [opinion] pieces
+
+sent_id:5	He is the younger brother of the prolific film composer Christophe Beck.
+5--> Cluster 1:
+He --> is [the] younger brother of --> Christophe Beck
+Christophe Beck --> is [the] older brother of --> He
+Christophe Beck --> is [the] older brother of --> Him
+5--> Cluster 2:
+He --> is [the] brother of --> Christophe Beck
+Christophe Beck --> is [the] brother of --> He
+Christophe Beck --> is [the] brother of --> Him
+5--> Cluster 3:
+He --> is younger than --> Christophe Beck
+Christophe Beck --> is older than --> He
+Christophe Beck --> is older than --> Him
+5--> Cluster 4:
+He --> has [a] --> brother
+He --> has --> [a] brother
+5--> Cluster 5:
+He --> has [a] --> older brother
+He --> has --> [a] older brother
+He --> has [an] --> older brother
+He --> has --> [an] older brother
+He --> is --> [a] younger brother
+He --> is [a] --> younger brother
+5--> Cluster 6:
+Christophe Beck --> is [a] --> film composer
+Christophe Beck --> is --> [a] film composer
+5--> Cluster 7:
+Christophe Beck --> is [a] --> prolific [film] composer
+Christophe Beck --> is --> [a] prolific [film] composer
+Christophe Beck --> is --> prolific
+5--> Cluster 8:
+Christophe Beck --> has [a] --> brother
+Christophe Beck --> has --> [a] brother
+5--> Cluster 9:
+Christophe Beck --> has [a] --> younger brother
+Christophe Beck --> has --> [a] younger brother
+
+sent_id:6	Gonzales was born on 20 March 1972.
+6--> Cluster 1:
+Gonzales --> [was] born on --> 20 March 1972
+Gonzales --> [was] born on --> March 20 1972
+
+sent_id:7	His parents are Ashkenazi Jews who had to flee from Hungary during World War II.
+7--> Cluster 1:
+His parents --> are --> Ashkenazi Jews
+7--> Cluster 2:
+His parents --> had to --> flee [from] Hungary during World War II
+His parents --> had --> to flee [from] Hungary during World War II
+His parents --> had to --> flee
+His parents --> had --> to flee
+7--> Cluster 3:
+His parents --> had to flee [from] --> Hungary
+7--> Cluster 4:
+His parents --> had to flee [from] Hungary during --> World War II
+His parents --> had to flee during --> World War II
+7--> Cluster 5:
+His parents --> are --> Jews
+His parents --> are --> Jewish
+8--> Cluster 6:
+He --> has --> parents
+His --> has --> parents
+
+sent_id:8	Gonzales began teaching himself piano at age three, when his older brother Chris began taking lessons.
+8--> Cluster 1:
+Gonzales --> began teaching --> himself
+Gonzales --> taught --> himself
+8--> Cluster 2:
+Gonzales --> began teaching himself --> piano
+Gonzales --> taught himself --> piano
+8--> Cluster 3:
+Gonzales --> began teaching himself [piano] at --> age three
+Gonzales --> taught himself [piano] at --> age three
+Gonzales --> began teaching himself [piano] at --> three years ol
+Gonzales --> taught himself [piano] at --> three years ol
+8--> Cluster 4:
+Chris --> began [taking] --> lessons
+Chris --> began --> [taking] lessons
+Chris --> took --> lessons
+8--> Cluster 5:
+Gonzales --> began teaching himself [piano] when --> Chris began [taking] lessons
+Gonzales --> taught himself [piano] when --> Chris took lessons
+Gonzales --> began teaching himself [piano] when --> Chris took lessons
+Gonzales --> taught himself [piano] when --> Chris began [taking] lessons
+8--> Cluster 6:
+Chris --> is [the] older brother of --> Gonzales
+Gonzales --> is [the] younger brother of --> Chris
+8--> Cluster 7:
+Gonzales --> has [a] --> brother
+Gonzales --> has --> [a] brother
+8--> Cluster 8:
+Gonzales --> has [a] --> older brother
+Gonzales --> has --> [a] older brother
+Gonzales --> has [an] --> older brother
+Gonzales --> has --> [an] older brother
+Gonzales --> is --> [a] younger brother
+8--> Cluster 9:
+Chris --> has [a] --> brother
+Chris --> has --> [a] brother
+8--> Cluster 10:
+Chris --> has [a] --> younger brother
+Chris --> has --> [a] younger brother
+Chris --> is --> [a] older brother
+Chris --> is --> [an] older brother
+8--> Cluster 11:
+Chris --> is older than --> Gonzales
+Gonzales --> is younger than --> Chri
+8--> Cluster 12:
+Chris --> began [taking] lessons when --> Gonzales began teaching himself [piano]
+Chris --> took lessons when --> Gonzales began teaching himself [piano]
+8--> Cluster 13:
+Chris --> began taking lessons when --> Gonzales was three years old
+Chris --> took lessons when --> Gonzales was [age] three
+
+sent_id:9	Gonzales graduated from Crescent School in Toronto, Ontario, Canada.
+9--> Cluster 1:
+Gonzales --> graduated from --> Crescent School
+9--> Cluster 2:
+Crescent School --> is in --> Toronto
+9--> Cluster 3:
+Toronto --> is in --> Ontario
+9--> Cluster 4:
+Ontario --> is in --> Canada
+9--> Cluster 5:
+Toronto --> is in --> Canada
+9--> Cluster 6:
+Crescent School --> is in --> Ontario
+9--> Cluster 7:
+Crescent School --> is in --> Canada
+9--> Cluster 8:
+Gonzales --> graduated from Crescent School in --> Toronto
+Gonzales --> graduated in --> Toronto
+9--> Cluster 9:
+Gonzales --> graduated from Crescent School in --> Ontario
+Gonzales --> graduated in --> Ontario
+9--> Cluster 10:
+Gonzales --> graduated from Crescent School in --> Canada
+Gonzales --> graduated in --> Canada
+9--> Cluster 11:
+Gonzales --> graduated --> XXX
+
+sent_id:10	He was classically trained as a pianist at McGill University, where he began both his composing career, co-authoring several musicals with his brother, and his performing career, as a jazz virtuoso.
+10--> Cluster 1:
+He --> was --> classically trained
+He --> was --> trained classically
+He --> was trained --> classically
+10--> Cluster 2:
+He --> was [classically] trained as --> [a] pianist
+He --> was [classically] trained as [a] --> pianist
+10--> Cluster 3:
+He --> was [classically] trained at --> McGill University
+10--> Cluster 4:
+he --> began --> [his] composing career
+he --> began [his] --> composing career
+10--> Cluster 5:
+he --> began [his] composing career at --> McGill University
+10--> Cluster 6:
+he --> began --> [his] performing career
+he --> began [his] --> performing career
+10--> Cluster 7:
+he --> began [his] performing career at --> McGill University
+10--> Cluster 8:
+he --> co-authoring --> [several] musicals
+he --> co-authored --> [several] musicals
+he --> authored --> [several] musicals
+he --> was the author of --> [several] musicals
+he --> was one of the authors of --> [several] musicals
+10--> Cluster 9:
+he --> co-authoring [several] musicals with --> his brother
+he --> co-authored [several] musicals with --> his brother
+he --> authored [several] musicals with --> his brother
+he --> was the author of [several] musicals with --> his brother
+10--> Cluster 10:
+he --> began [his] performing career as --> [a] jazz virtuoso
+10--> Cluster 11:
+he --> began his composing career --> co-authoring [several] musicals
+he --> began his composing career --> being [the] co-author of [several] musicals
+10--> Cluster 12:
+McGill --> is [a] --> University
+McGill --> is --> [a] University
+10--> Cluster 12:
+he --> has [a] --> brother
+he --> has --> [a] brother
+
+sent_id:11	Tokyo (/ˈtoʊkioʊ/, Japanese: [toːkʲoː]), officially Tokyo Metropolis, is the capital city of Japan and one of its 47 prefectures.
+11--> Cluster 1:
+Tokyo --> [is] in Japanese --> toːkʲoː
+Tokyo --> in Japanese is --> toːkʲoː
+Tokyo --> [is] in Japanese --> [ toːkʲoː ]
+Tokyo --> in Japanese is --> [ toːkʲoː ]
+11--> Cluster 2:
+Tokyo --> is officially [named] --> Tokyo Metropolis
+Tokyo --> is [officially] named --> Tokyo Metropolis
+Tokyo --> [is] [officially] refered [to] as --> Tokyo Metropolis
+11--> Cluster 3:
+Tokyo --> is [a] --> capital [city]
+Tokyo --> is --> [a] capital [city]
+11--> Cluster 4:
+Tokyo --> is [a] --> [city]
+Tokyo --> is --> [a] [city]
+11--> Cluster 5:
+Tokyo --> is [the] capital [city] of --> Japan
+11--> Cluster 6:
+Tokyo --> is [a] city of --> Japan
+Tokyo --> is [a] city in --> Japan
+11--> Cluster 7:
+Tokyo --> is [a] --> prefecture
+Tokyo --> is --> [a] prefecture
+Tokyo --> is [a] --> prefectures
+Tokyo --> is --> [a] prefectures
+11--> Cluster 8:
+Japan --> has --> 47 prefectures
+Japan --> includes --> 47 prefectures
+11--> Cluster 9:
+Tokyo --> is [a] prefecture of --> Japan
+Tokyo --> is [a] prefectures of --> Japan
+Tokyo --> is one of [the] [47] prefecture of --> Japan
+Tokyo --> is one of [the] [47] prefectures of --> Japan
+11--> Cluster 10:
+Tokyo --> is in --> Japan
+11--> Cluster 11:
+Japan --> has [a] --> capital city
+Japan --> has --> [a] capital city
+
+sent_id:12	The Greater Tokyo Area is the most populous metropolitan area in the world.
+12--> Cluster 1:
+[The] Greater Tokyo Area --> is [a] --> metropolitan area
+[The] Greater Tokyo Area --> is --> [a] metropolitan area
+12--> Cluster 2:
+[The] Greater Tokyo Area --> is --> [the] most populous metropolitan area in [the] world
+[The] Greater Tokyo Area --> is [the] --> most populous metropolitan area in [the] world
+[The] Greater Tokyo Area --> is [the] most populous --> metropolitan area in [the] world
+[The] Greater Tokyo Area --> is [the] most populous metropolitan area in --> [the] world
+
+sent_id:13	It is the seat of the Emperor of Japan and the Japanese government.
+13--> Cluster 1:
+It --> is [the] seat of --> [the] Emperor of Japan
+It --> is --> [the] seat of [the] Emperor of Japan
+13--> Cluster 2:
+It --> is [the] seat of --> [the] Japanese government
+It --> is --> [the] seat of [the] Japanese government
+13--> Cluster 3:
+Japan --> has [a] --> Emperor
+Japan --> has [an] --> Emperor
+Japan --> has --> [a] Emperor
+Japan --> has --> [an] Emperor
+13--> Cluster 4:
+Japan --> has [a] --> government
+Japan --> has --> [a] government
+13--> Cluster 5:
+It --> is --> [a] seat
+It --> is [a] --> seat
+
+sent_id:14	Tokyo is in the Kantō region on the southeastern side of the main island Honshu and includes the Izu Islands and Ogasawara Islands.
+14--> Cluster 1:
+Tokyo --> is [included] in --> [the] Kantō region
+14--> Cluster 2:
+Tokyo --> is on --> [the] southeastern side of Honshu
+14--> Cluster 3:
+Tokyo --> includes --> [the] Izu Islands
+[the] Izu Islands --> is [included] in --> Tokyo
+[the] Izu Islands --> are [included] in --> Tokyo
+14--> Cluster 4:
+Tokyo --> includes --> [the] Ogasawara Islands
+[the] Ogasawara Islands --> is [included] in --> Tokyo
+[the] Ogasawara Islands --> are [included] in --> Tokyo
+14--> Cluster 5:
+Tokyo --> includes --> Islands
+14--> Cluster 6:
+Honshu --> is --> [the] main island of Tokyo
+Honshu --> is [the] --> main island of Tokyo
+14--> Cluster 7:
+Kantō --> is --> [a] region
+Kantō --> is [a] --> region
+14--> Cluster 8:
+Honshu --> has [a] --> southeastern side
+Honshu --> has --> [a] southeastern side
+14--> Cluster 9:
+Honshu --> is [an] --> island
+Honshu --> is --> [an] island
+Honshu --> is [a] --> island
+Honshu --> is --> [a] island
+14--> Cluster 10:
+Honshu --> is [included] in --> [the] Kantō region
+[the] Kantō region --> includes --> Honshu
+[the] Kantō region --> includes --> [the] [main] island Honshu
+14--> Cluster 11:
+[the] Izu Islands --> is [included] in --> [the] Kantō region
+[the] Izu Islands --> are [included] in --> [the] Kantō region
+[the] Kantō region --> includes --> [the] Izu Islands
+14--> Cluster 12:
+[the] Ogasawara Islands --> is [included] in --> [the] Kantō region
+[the] Ogasawara Islands --> are [included] in --> [the] Kantō region
+[the] Kantō region --> includes --> [the] Ogasawara Islands
+14--> Cluster 13:
+Tokyo --> is on --> [an] island
+Tokyo --> is on --> [a] island
+
+sent_id:15	Formerly known as Edo, it has been the de facto seat of government since 1603 when Shogun Tokugawa Ieyasu made the city his headquarters.
+15--> Cluster 1:
+it --> [was] Formerly known as --> Edo
+it --> [is] Formerly known as --> Edo
+15--> Cluster 2:
+it --> has been --> [the] de facto seat of government
+it --> has been [the] de facto seat of --> government
+it --> has been --> [the] seat of government
+it --> has been [the] seat of --> government
+15--> Cluster 3:
+it --> has been [the] de facto seat of government since --> 1603
+it --> has been [the] de facto seat since --> 1603
+it --> has been [the] seat of government since --> 1603
+it --> has been [the] seat since --> 1603
+15--> Cluster 4:
+it --> has been [the] de facto seat of government since --> Tokugawa Ieyasu made the city his headquarters
+it --> has been [the] seat of government since --> Tokugawa Ieyasu made the city his headquarters
+15--> Cluster 5:
+[Shogun] Tokugawa Ieyasu --> made the city his headquarters in --> 1603
+15--> Cluster 6:
+Tokugawa Ieyasu --> is [a] --> Shogun
+Tokugawa Ieyasu --> is --> [a] Shogun
+15--> Cluster 7:
+[Shogun] Tokugawa Ieyasu --> has --> headquarters
+[Shogun] Tokugawa Ieyasu --> owns --> headquarters
+15--> Cluster 8:
+[Shogun] Tokugawa Ieyasu --> made the city his --> headquarters
+[Shogun] Tokugawa Ieyasu --> made it his --> headquarters
+15--> Cluster 9:
+it --> is [a] --> city
+it --> is --> [a] city
+Edo --> was --> [a] city
+Edo --> was [a] --> city
+
+sent_id:16	It officially became the capital after Emperor Meiji moved his seat to the city from the old capital of Kyoto in 1868; at that time Edo was renamed Tokyo.
+16--> Cluster 1:
+It --> [officially] became [the] --> capital
+It --> [officially] became --> [the] capital
+It --> [officially] became [a] --> capital
+It --> [officially] became --> [a] capital
+16--> Cluster 2:
+It --> [officially] became [the] capital after --> [Emperor] Meiji moved his seat to the city from the [old] capital of Kyoto
+It --> [officially] became [the] capital after --> [Emperor] Meiji moved his seat to the city from Kyoto
+It --> [officially] became [a] capital after --> [Emperor] Meiji moved his seat to the city from the [old] capital of Kyoto
+It --> [officially] became [a] capital after --> [Emperor] Meiji moved his seat to the city from Kyoto
+16--> Cluster 3:
+It --> [officially] became [the] capital in --> 1868
+It --> [officially] became [a] capital in --> 1868
+16--> Cluster 4:
+[Emperor] Meiji --> moved --> [his] seat
+[Emperor] Meiji --> moved [his] --> seat
+16--> Cluster 5:
+[Emperor] Meiji --> moved [his] seat to --> [the] city
+16--> Cluster 6:
+[Emperor] Meiji --> moved [his] seat to [the] city from --> [the] [old] capital of Kyoto
+[Emperor] Meiji --> moved [his] seat to [the] city from --> Kyoto
+[Emperor] Meiji --> moved [his] seat from --> [the] [old] capital of Kyoto
+[Emperor] Meiji --> moved [his] seat from --> Kyoto
+16--> Cluster 7:
+[Emperor] Meiji --> moved [his] seat to [the] city from [the] [old] capital of Kyoto in --> 1868
+[Emperor] Meiji --> moved [his] seat to [the] city from of Kyoto in --> 1868
+[Emperor] Meiji --> moved [his] seat to [the] city in --> 1868
+[Emperor] Meiji --> moved [his] seat in --> 1868
+16--> Cluster 8:
+Edo --> was renamed [to] --> Tokyo
+16--> Cluster 9:
+Edo --> was renamed [to] Tokyo when --> [Emperor] Meiji moved his seat to the city from [the] [old] capital of Kyoto
+Edo --> was renamed [to] Tokyo when --> [Emperor] Meiji moved his seat to the city from Kyoto
+Edo --> was renamed [to] Tokyo at the same time that --> [Emperor] Meiji moved his seat to the city from [the] [old] capital of Kyoto
+Edo --> was renamed [to] Tokyo at the same time that --> [Emperor] Meiji moved his seat to the city from Kyoto
+Edo --> was renamed [to] Tokyo when --> [Emperor] Meiji moved his seat from [the] [old] capital of Kyoto
+Edo --> was renamed [to] Tokyo when --> [Emperor] Meiji moved his seat from Kyoto
+Edo --> was renamed [to] Tokyo at the same time that --> [Emperor] Meiji moved his seat from [the] [old] capital of Kyoto
+Edo --> was renamed [to] Tokyo at the same time that --> [Emperor] Meiji moved his seat from Kyoto
+Edo --> was renamed [to] Tokyo when --> [Emperor] Meiji moved his seat
+Edo --> was renamed [to] Tokyo when --> [Emperor] Meiji moved his seat
+Edo --> was renamed [to] Tokyo at the same time that --> [Emperor] Meiji moved his seat
+Edo --> was renamed [to] Tokyo at the same time that --> [Emperor] Meiji moved his seat
+Edo --> was renamed [to] Tokyo when --> [Emperor] Meiji moved his seat to the city
+Edo --> was renamed [to] Tokyo when --> [Emperor] Meiji moved his seat to the city
+Edo --> was renamed [to] Tokyo at the same time that --> [Emperor] Meiji moved his seat to the city
+Edo --> was renamed [to] Tokyo at the same time that --> [Emperor] Meiji moved his seat to the city
+16--> Cluster 10:
+Edo --> was renamed [to] Tokyo in --> 1868
+16--> Cluster 11:
+[Emperor] Meiji --> has [a] --> seat
+[Emperor] Meiji --> has --> [a] seat
+[Emperor] Meiji --> owns --> [a] seat
+[Emperor] Meiji --> owns --> [a] seat
+[Emperor] Meiji --> had [a] --> seat
+[Emperor] Meiji --> had --> [a] seat
+[Emperor] Meiji --> owned [a] --> seat
+[Emperor] Meiji --> owned --> [a] seat
+16--> Cluster 12:
+Kyoto --> was [the] --> [old] capital
+Kyoto --> was --> [the] [old] capital
+Kyoto --> was [a] --> capital
+Kyoto --> was --> [a] capital
+16--> Cluster 13:
+Kyoto --> was [the] [old] capital before --> 1868
+Kyoto --> was [the] [old] capital until --> 1868
+16--> Cluster 14:
+Kyoto --> was [the] [old] capital before --> [Emperor] Meiji moved his seat
+Kyoto --> was [the] [old] capital until --> [Emperor] Meiji moved his seat
+Kyoto --> was a capital before --> [Emperor] Meiji moved his seat
+Kyoto --> was a capital until --> [Emperor] Meiji moved his seat
+Kyoto --> was [the] [old] capital before --> [Emperor] Meiji moved his seat to the city
+Kyoto --> was [the] [old] capital until --> [Emperor] Meiji moved his seat to the city
+Kyoto --> was a capital before --> [Emperor] Meiji moved his seat to the city
+Kyoto --> was a capital until --> [Emperor] Meiji moved his seat to the city
+Kyoto --> was [the] [old] capital before --> [Emperor] Meiji moved his seat from Kyoto
+Kyoto --> was [the] [old] capital until --> [Emperor] Meiji moved his seat from Kyoto
+Kyoto --> was a capital before --> [Emperor] Meiji moved his seat from Kyoto
+Kyoto --> was a capital until --> [Emperor] Meiji moved his seat from Kyoto
+Kyoto --> was [the] [old] capital before --> [Emperor] Meiji moved his seat to the city from Kyoto
+Kyoto --> was [the] [old] capital until --> [Emperor] Meiji moved his seat to the city from Kyoto
+Kyoto --> was a capital before --> [Emperor] Meiji moved his seat to the city from Kyoto
+Kyoto --> was a capital until --> [Emperor] Meiji moved his seat to the city from Kyoto
+16--> Cluster 15:
+Meiji --> is --> [an] Emperor
+Meiji --> is [an] --> Emperor
+Meiji --> is --> [a] Emperor
+Meiji --> is [a] --> Emperor
+
+sent_id:17	Tokyo Metropolis was formed in 1943 from the merger of the former Tokyo Prefecture (東京府 Tōkyō-fu) and the city of Tokyo (東京市 Tōkyō-shi).
+17--> Cluster 1:
+Tokyo Metropolis --> was --> formed
+17--> Cluster 2:
+Tokyo Metropolis --> [was] formed in --> 1943
+17--> Cluster 3:
+Tokyo Metropolis --> [was] formed from --> [the] merger
+Tokyo Metropolis --> [was] formed from --> [a] merger
+Tokyo Metropolis --> [was] formed from [a] --> merger
+17--> Cluster 4:
+Tokyo Metropolis --> was formed from the merger of --> [the] [former] Tokyo Prefecture and [the] city of Tokyo
+17--> Cluster 5:
+[the] [former] Tokyo Prefecture --> merged with --> [the] city of Tokyo
+[the] [former] Tokyo Prefecture --> [was] in [a] merger with --> [the] city of Tokyo
+[the] [former] Tokyo Prefecture --> [was] in [the] merger with --> [the] city of Tokyo
+17--> Cluster 6:
+[the] [former] Tokyo Prefecture --> merged with [the] city of Tokyo in --> 1943
+[the] [former] Tokyo Prefecture --> [was] in [a] merger with [the] city of Tokyo in --> 1943
+[the] city of Tokyo --> merged with [the] [former] Tokyo Prefecture in --> 1943
+[the] city of Tokyo --> [was] in [a] merger with [the] [former] Tokyo Prefecture in --> 1943
+[the] city of Tokyo --> [was] in [the] merger with [the] [former] Tokyo Prefecture in --> 1943
+[the] [former] Tokyo Prefecture --> [was] in [the] merger with [the] city of Tokyo in --> 1943
+17--> Cluster 7:
+Tokyo --> is [a] --> city
+Tokyo --> is --> [a] city
+17--> Cluster 8:
+[the] [former] Tokyo Prefecture --> [is] equal to --> [東京府] 	Tōkyō-fu
+[the] [former] Tokyo Prefecture --> is --> [東京府] Tōkyō-fu
+17--> Cluster 9:
+[the] city of Tokyo --> [is] equal to --> [東京市] Tōkyō-shi
+[the] city of Tokyo --> is --> [東京市] Tōkyō-shi
+
+sent_id:18	Tokyo is often referred to as a city, but is officially known and governed as a "metropolitan prefecture", which differs from and combines elements of a city and a prefecture, a characteristic unique to Tokyo.
+18--> Cluster 1:
+Tokyo --> is [often] referred to as --> [a] city
+Tokyo --> is [often] referred to as [a] --> city
+18--> Cluster 2:
+Tokyo --> is [officially] known as --> a ["] metropolitan prefecture ["]
+18--> Cluster 3:
+Tokyo --> is [officially] governed as --> a ["] metropolitan prefecture ["]
+18--> Cluster 4:
+Tokyo --> differs from --> [a] city
+Tokyo --> differs from [a] --> city
+18--> Cluster 5:
+Tokyo --> differs from --> [a] prefecture
+Tokyo --> differs from [a] --> prefecture
+18--> Cluster 6:
+Tokyo --> combines elements of --> [a] city
+Tokyo --> combines --> elements of [a] city
+Tokyo --> combines elements of --> [a] city and [a] prefecture
+Tokyo --> combines --> elements of [a] city and [a] prefecture
+18--> Cluster 7:
+Tokyo --> combines elements of --> [a] prefecture
+Tokyo --> combines --> elements of [a] prefecture
+Tokyo --> combines elements of --> [a] city and [a] prefecture
+Tokyo --> combines --> elements of [a] city and [a] prefecture
+18--> Cluster 8:
+[a] ["] metropolitan prefecture ["] --> combines elements of --> [a] city
+[a] ["] metropolitan prefecture ["] --> combines --> elements of [a] city
+[a] ["] metropolitan prefecture ["] --> combines elements of --> [a] city and [a] prefecture
+[a] ["] metropolitan prefecture ["] --> combines --> elements of [a] city and [a] prefecture
+18--> Cluster 9:
+[a] ["] metropolitan prefecture ["] --> combines elements of --> [a] prefecture
+[a] ["] metropolitan prefecture ["] --> combines --> elements of [a] prefecture
+[a] ["] metropolitan prefecture ["] --> combines elements of --> [a] city and [a] prefecture
+[a] ["] metropolitan prefecture ["] --> combines --> elements of [a] city and [a] prefecture
+18--> Cluster 10:
+[a] ["] metropolitan prefecture ["] --> differs from --> [a] city
+[a] ["] metropolitan prefecture ["] --> differs from [a] --> city
+18--> Cluster 11:
+[a] ["] metropolitan prefecture ["] --> differs from --> [a] prefecture
+[a] ["] metropolitan prefecture ["] --> differs from [a] --> prefecture
+18--> Cluster 12:
+[being] known and governed as [a] ["] metropolitan prefecture ["] --> is [a] characteristic unique to --> Tokyo
+[being] known and governed as [a] ["] metropolitan prefecture ["] --> is [characteristic] unique to --> Tokyo
+18--> Cluster 13:
+[both] differing from and [also] combining elements of [a] city and [a] prefecture --> is [a] characteristic unique to --> Tokyo
+[both] being different from and [also] combining elements of [a] city and [a] prefecture --> is [a] characteristic unique to --> Tokyo
+[both] differs from and [also] combines elements of [a] city and [a] prefecture --> is [a] characteristic unique to --> Tokyo
+[both] differing from and [also] combining elements of [a] city and [a] prefecture --> is [characteristic] unique to --> Tokyo
+[both] being different from and [also] combining elements of [a] city and [a] prefecture --> is [characteristic] unique to --> Tokyo
+[both] differs from and [also] combines elements of [a] city and [a] prefecture --> is [characteristic] unique to --> Tokyo
+18--> Cluster 14:
+Tokyo --> has --> [a] unique characteristic
+Tokyo --> has [a] --> unique characteristic 
+
+sent_id:19	The Tokyo metropolitan government administers the 23 Special Wards of Tokyo (each governed as an individual city), which cover the area that was the City of Tokyo before it merged and became the metropolitan prefecture in 1943.
+19--> Cluster 1:
+Tokyo --> has [a] --> metropolitan government
+Tokyo --> has --> [a] metropolitan government
+19--> Cluster 2:
+[The] Tokyo [metropolitan] government --> administers --> Special Wards
+[The] [metropolitan] government [of] Tokyo --> administers --> Special Wards
+19--> Cluster 3:
+[The] Tokyo [metropolitan] government --> administers --> 23 Special Wards
+[The] [metropolitan] government [of] Tokyo --> administers --> 23 Special Wards
+19--> Cluster 4:
+[The] Tokyo [metropolitan] government --> administers [the] [23] Special Wards of --> Tokyo
+[The] [metropolitan] government [of] Tokyo --> administers [the] [23] Special Wards of --> Tokyo
+[The] Tokyo [metropolitan] government --> administers --> [the] [23] Special Wards of Tokyo
+[The] [metropolitan] government [of] Tokyo --> administers --> [the] [23] Special Wards of Tokyo
+19--> Cluster 5:
+Tokyo --> has --> Special Wards
+19--> Cluster 6:
+Tokyo --> has --> 23 Special Wards
+19--> Cluster 7:
+[The] [23] Special Wards of Tokyo are [each] --> governed as --> [an] individual city
+[The] [23] Special Wards of Tokyo are [each] --> governed as [an] --> individual city
+[The] [23] Special Wards of Tokyo are [each] --> governed as --> [a] individual city
+[The] [23] Special Wards of Tokyo are [each] --> governed as [a] --> individual city
+19--> Cluster 8:
+[the] City of Tokyo --> merged --> XXX
+Tokyo --> merged --> XXX
+it --> merged --> XXX
+19--> Cluster 9:
+[the] City of Tokyo --> merged in --> 1943
+Tokyo --> merged in --> 1943
+it --> merged in --> 1943
+19--> Cluster 10:
+[the] City of Tokyo --> became --> [the] metropolitan prefecture
+Tokyo --> became --> [the] metropolitan prefecture
+it --> became --> [the] metropolitan prefecture
+19--> Cluster 11:
+[the] City of Tokyo --> became [the] metropolitan prefecture in --> 1943
+Tokyo --> became [the] metropolitan prefecture in --> 1943
+it --> became [the] metropolitan prefecture in --> 1943
+19--> Cluster 12:
+[the] [23] Special Wards of Tokyo --> cover --> [the] area that was [the] City of Tokyo
+[the] [23] Special Wards of Tokyo --> cover --> [the] area
+19--> Cluster 13:
+[the] City of Tokyo --> has [a] --> government
+[the] City of Tokyo --> has --> [a] government
+Tokyo --> has [a] --> government
+Tokyo --> has --> [a] government
+19--> Cluster 14:
+[the] area --> was --> [the] City of Tokyo
+[the] area --> was --> Tokyo
+19--> Cluster 15:
+[the] area --> was [the] City of Tokyo before --> it merged
+[the] area --> was [the] City of Tokyo before --> [the] City of Tokyo merged
+[the] area --> was Tokyo before --> it merged
+[the] area --> was Tokyo before --> [the] City of Tokyo merged
+[the] area --> was Tokyo before --> Tokyo merged
+19--> Cluster 16:
+[the] area --> was [the] City of Tokyo before --> it became [the] metropolitan prefecture
+[the] area --> was [the] City of Tokyo before --> [the] City of Tokyo became [the] metropolitan prefecture
+19--> Cluster 17:
+Tokyo --> is [a] --> city
+Tokyo --> is --> [a] city
+
+sent_id:20	The metropolitan government also administers 39 municipalities in the western part of the prefecture and the two outlying island chains.
+20--> Cluster 1:
+[The] metropolitan government --> [also] administers --> municipalities
+20--> Cluster 2:
+[The] metropolitan government --> [also] administers --> 39 municipalities
+20--> Cluster 3:
+[The] metropolitan government --> [also] administers [39] municipalities in --> [the] western part of [the] prefecture
+20--> Cluster 4:
+[The] metropolitan government --> [also] administers [39] municipalities in --> [the] [two] outlying island chains
+20--> Cluster 5:
+[the] prefecture --> has --> [a] western part
+[the] prefecture --> has [a] --> western part
+20--> Cluster 6:
+[the] [two] island chains --> are --> outlying
+
+sent_id:21	The population of the special wards is over 9 million people, with the total population of the prefecture exceeding 13 million.
+21--> Cluster 1:
+[the] special wards --> have [a] --> population
+[the] special wards --> have --> [a] population
+[the] special wards --> has [a] --> population
+[the] special wards --> has --> [a] population
+21--> Cluster 2:
+[The] population of [the] special wards --> is over --> 9 million [people]
+21--> Cluster 3:
+[the] [total] population of [the] prefecture --> [is] exceeding --> 13 million
+[the] [total] population of [the] prefecture --> exceeds --> 13 million
+21--> Cluster 4:
+[the] prefecture --> have [a] --> population
+[the] prefecture --> have --> [a] population
+[the] prefecture --> has [a] --> population
+[the] prefecture --> has --> [a] population
+
+sent_id:22	The prefecture is part of the world's most populous metropolitan area with upwards of 37.8 million people and the world's largest urban agglomeration economy.
+22--> Cluster 1:
+[The] prefecture --> is [a] --> metropolitan area
+[The] prefecture --> is --> [a] metropolitan area
+22--> Cluster 2:
+[The] prefecture --> has upwards of --> 37.8 million people
+[The] prefecture --> has more than --> 37.8 million people
+[The] prefecture --> has [a] population of more than --> 37.8 million people
+22--> Cluster 3:
+[The] prefecture --> is --> [the] world ['s] largest urban agglomeration economy
+22--> Cluster 4:
+[The] prefecture --> is part of --> [the] world ['s] most populous metropolitan area
+[The] prefecture --> is --> part of [the] world ['s] most populous metropolitan area
+22--> Cluster 5:
+[the] world ['s] most populous metropolitan area --> with upwards of --> 37.8 million people
+[the] world ['s] most populous metropolitan area --> has upwards of --> 37.8 million people
+[the] world ['s] most populous metropolitan area --> has more than --> 37.8 million people
+[the] world ['s] most populous metropolitan area --> has [a] population of more than --> 37.8 million [people]
+22--> Cluster 6:
+[the] world --> has [a] --> metropolitan area
+[the] world --> has --> [a] metropolitan area
+22--> Cluster 7:
+[the] world --> has [a] --> most populous metropolitan area
+[the] world --> has --> [a] most populous metropolitan area
+22--> Cluster 8:
+[the] world --> has [a] --> urban agglomeration economy
+[the] world --> has --> [a] urban agglomeration economy
+[the] world --> has [an] --> urban agglomeration economy
+[the] world --> has --> [an] urban agglomeration economy
+22--> Cluster 9:
+[the] world --> has [a] --> largest urban agglomeration economy
+[the] world --> has --> [a] largest urban agglomeration economy
+22--> Cluster 10:
+urban agglomeration --> have --> economy
+urban agglomeration --> has [a] --> economy
+urban agglomeration --> has --> [a] economy
+urban agglomeration --> has [an] --> economy
+urban agglomeration --> has --> [an] economy
+
+sent_id:23	In 2011, the city hosted 51 of the Fortune Global 500 companies, the highest number of any city in the world, at that time.
+23--> Cluster 1:
+[the] city --> hosted --> Fortune Global 500 companies
+23--> Cluster 2:
+[the] city --> hosted --> 51 of the Fortune Global 500 companies
+[the] city --> hosted --> 51 Fortune Global 500 companies
+23--> Cluster 3:
+[the] city --> hosted 51 Fortune Global 500 companies in --> 2011
+[the] city --> hosted 51 Fortune Global 500 companies In --> 2011
+[the] city --> hosted 51 of the Fortune Global 500 companies in --> 2011
+[the] city --> hosted 51 of the Fortune Global 500 companies In --> 2011
+23--> Cluster 4:
+[the] city --> hosted Fortune Global 500 companies in --> 2011
+[the] city --> hosted Fortune Global 500 companies In --> 2011
+23--> Cluster 5:
+[the] city --> hosted --> [the] highest number of Fortune Global 500 companies of any city in the world
+23--> Cluster 6:
+[the] highest number of Fortune Global 500 companies of any city in [the] world --> was in 2011 --> 51
+[the] highest number of Fortune Global 500 companies of any city in [the] world --> in 2011 was equal to --> 51
+[the] highest number of Fortune Global 500 companies of any city in [the] world --> in 2011 was --> 51
+
+sent_id:24	Tokyo ranked third (twice) in the International Financial Centres Development IndexEdit.
+24--> Cluster 1:
+Tokyo --> ranked third in --> [the] International Financial Centres Development IndexEdit
+Tokyo --> ranked --> third in [the] International Financial Centres Development IndexEdit
+24--> Cluster 2:
+Tokyo --> ranked third [(] twice [)] in --> [the] International Financial Centres Development IndexEdit
+Tokyo --> ranked third (twice) in --> [the] International Financial Centres Development IndexEdit
+Tokyo --> ranked --> third [(] twice [)] in [the] International Financial Centres Development IndexEdit
+Tokyo --> ranked --> third (twice) in [the] International Financial Centres Development IndexEdit
+24--> Cluster 3:
+[the] International Financial Centres --> has [a] --> Development IndexEdit
+[the] International Financial Centres --> has --> [a] Development IndexEdit
+[the] International Financial Centres --> owns [a] --> Development IndexEdit
+[the] International Financial Centres --> owns --> [a] Development IndexEdit
+24--> Cluster 4:
+Tokyo --> ranked --> third
+24--> Cluster 5:
+Tokyo --> ranked third --> twice
+Tokyo --> ranked --> third twice
+
+sent_id:25	The city is also home to various television networks such as Fuji TV, Tokyo MX, TV Tokyo, TV Asahi, Nippon Television, NHK and the Tokyo Broadcasting System.
+25--> Cluster 1:
+The city --> is [also] home to --> [various] television networks
+25--> Cluster 2:
+The city --> is [also] home to --> Fuji TV
+25--> Cluster 3:
+The city --> is [also] home to --> Tokyo MX
+25--> Cluster 4:
+The city --> is [also] home to --> TV Tokyo
+25--> Cluster 5:
+The city --> is [also] home to --> TV Asahi
+25--> Cluster 6:
+The city --> is [also] home to --> Nippon Television
+25--> Cluster 7:
+The city --> is [also] home to --> NHK
+25--> Cluster 8:
+The city --> is [also] home to --> the Tokyo Broadcasting System
+25--> Cluster 9:
+Fuji TV --> is [a] --> [various] television networks
+Fuji TV --> is [a] --> [various] television network
+Fuji TV --> is --> [a] [various] television networks
+Fuji TV --> is --> [a] t[various] elevision network
+25--> Cluster 10:
+Tokyo MX --> is [a] --> [various] television networks
+Tokyo MX --> is [a] --> [various] television network
+Tokyo MX --> is --> [a] [various] television networks
+Tokyo MX --> is --> [a] [various] television network
+25--> Cluster 11:
+TV Tokyo --> is [a] --> [various] television networks
+TV Tokyo --> is [a] --> [various] television network
+TV Tokyo --> is --> [a] [various] television networks
+TV Tokyo --> is --> [a] [various] television network
+25--> Cluster 12:
+TV Asahi --> is [a] --> [various] television networks
+TV Asahi --> is [a] --> [various] television network
+TV Asahi --> is --> [a] [various] television networks
+TV Asahi --> is --> [a] [various] television network
+25--> Cluster 13:
+Nippon Television --> is [a] --> [various] television networks
+Nippon Television --> is [a] --> [various] television network
+Nippon Television --> is --> [a] [various] television networks
+Nippon Television --> is --> [a] [various] television network
+25--> Cluster 14:
+NHK --> is [a] --> [various] television networks
+NHK --> is [a] --> [various] television network
+NHK --> is --> [a] [various] television networks
+NHK --> is --> [a] [various] television network
+25--> Cluster 15:
+[the] Tokyo Broadcasting System --> is [a] --> [various] television networks
+[the] Tokyo Broadcasting System --> is [a] --> [various] television network
+[the] Tokyo Broadcasting System --> is --> [a] [various] television networks
+[the] Tokyo Broadcasting System --> is --> [a] [various] television network
+
+sent_id:26	In statistics, an expectation–maximization (EM) algorithm is an iterative method to find maximum likelihood or maximum a posteriori (MAP) estimates of parameters in statistical models, where the model depends on unobserved latent variables.
+26--> Cluster 1:
+EM --> stands for --> expectation [–] maximization
+EM --> [is] equal [to] --> expectation [–] maximization
+expectation [–] maximization --> [is] equal [to] --> EM
+26--> Cluster 2:
+[an] expectation [–] maximization algorithm --> is --> [an] iterative method
+[an] expectation [–] maximization algorithm --> In statistics is --> [an] iterative method
+[an] expectation [–] maximization algorithm --> is In statistics --> [an] iterative method
+[an] expectation [–] maximization algorithm --> In statistics is [an] --> iterative method
+[an] expectation [–] maximization algorithm --> is In statistics [an] --> iterative method
+[an] expectation [–] maximization algorithm --> in statistics is --> [an] iterative method
+[an] expectation [–] maximization algorithm --> is in statistics --> [an] iterative method
+[an] expectation [–] maximization algorithm --> in statistics is [an] --> iterative method
+[an] expectation [–]– maximization algorithm --> is in statistics [an] --> iterative method
+[an] EM algorithm --> is --> [an] iterative method
+[an] EM algorithm --> In statistics is --> [an] iterative method
+[an] EM algorithm --> is In statistics --> [an] iterative method
+[an] EM algorithm --> In statistics is [an] --> iterative method
+[an] EM algorithm --> is In statistics [an] --> iterative method
+[an] EM algorithm --> in statistics is --> [an] iterative method
+[an] EM algorithm --> is in statistics --> [an] iterative method
+[an] EM algorithm --> in statistics is [an] --> iterative method
+[an] EM algorithm --> is in statistics [an] --> iterative method
+26--> Cluster 3:
+[an] expectation [–] maximization algorithm --> is [an] [iterative] method In --> statistics
+[an] expectation [–] maximization algorithm --> is [an] [iterative] method in --> statistics
+[an] EM algorithm --> is [an] [iterative] method In --> statistics
+[an] EM algorithm --> is [an] [iterative] method in --> statistics
+26--> Cluster 4:
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to --> find maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to --> find maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to --> find maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to --> find maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method to --> find maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to --> find maximum likelihood estimates
+[an] EM algorithm --> In statistics is an [iterative] method to --> find maximum likelihood estimates
+[an] EM algorithm --> is an [iterative] method In statistics to --> find maximum likelihood estimates
+[an] EM algorithm --> in statistics is an [iterative] method to --> find maximum likelihood estimates
+[an] EM algorithm --> is an [iterative] method in statistics to --> find maximum likelihood estimates
+[an] EM algorithm --> is an [iterative] method to --> find maximum likelihood estimates
+[an] EM algorithm --> is used [in] [statistics] to --> find maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find --> maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find --> maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find --> maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find --> maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find --> maximum likelihood estimates
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find --> maximum likelihood estimates
+[an] EM algorithm --> In statistics is an [iterative] method to find --> maximum likelihood estimates
+[an] EM algorithm --> is an [iterative] method In statistics to find --> maximum likelihood estimates
+[an] EM algorithm --> in statistics is an [iterative] method to find --> maximum likelihood estimates
+[an] EM algorithm --> is an [iterative] method in statistics to find --> maximum likelihood estimates
+[an] EM algorithm --> is an [iterative] method to find --> maximum likelihood estimates
+[an] EM algorithm --> is used [in] [statistics] to find --> maximum likelihood estimates
+26--> Cluster 5:
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to --> find maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to --> find maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to --> find maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to --> find maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method to --> find maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to --> find maximum a posteriori estimates
+[an] EM algorithm --> In statistics is an [iterative] method to --> find maximum a posteriori estimates
+[an] EM algorithm --> is an [iterative] method In statistics to --> find maximum a posteriori estimates
+[an] EM algorithm --> in statistics is an [iterative] method to --> find maximum a posteriori estimates
+[an] EM algorithm --> is an [iterative] method in statistics to --> find maximum a posteriori estimates
+[an] EM algorithm --> is an [iterative] method to --> find maximum a posteriori estimates
+[an] EM algorithm --> is used [in] [statistics] to --> find maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to --> find MAP estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to --> find MAP estimates
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to --> find MAP estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to --> find MAP estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method to --> find MAP estimates
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to --> find MAP estimates
+[an] EM algorithm --> In statistics is an [iterative] method to --> find MAP estimates
+[an] EM algorithm --> is an [iterative] method In statistics to --> find MAP estimates
+[an] EM algorithm --> in statistics is an [iterative] method to --> find MAP estimates
+[an] EM algorithm --> is an [iterative] method in statistics to --> find MAP estimates
+[an] EM algorithm --> is an [iterative] method to --> find MAP estimates
+[an] EM algorithm --> is used [in] [statistics] to --> find MAP estimates
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find --> maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find --> maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find --> maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find --> maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find --> maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find --> maximum a posteriori estimates
+[an] EM algorithm --> In statistics is an [iterative] method to find --> maximum a posteriori estimates
+[an] EM algorithm --> is an [iterative] method In statistics to find --> maximum a posteriori estimates
+[an] EM algorithm --> in statistics is an [iterative] method to find --> maximum a posteriori estimates
+[an] EM algorithm --> is an [iterative] method in statistics to find --> maximum a posteriori estimates
+[an] EM algorithm --> is an [iterative] method to find --> maximum a posteriori estimates
+[an] EM algorithm --> is used [in] [statistics] to find --> maximum a posteriori estimates
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find --> MAP estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find --> MAP estimates
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find --> MAP estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find --> MAP estimates
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find --> MAP estimates
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find --> MAP estimates
+[an] EM algorithm --> In statistics is an [iterative] method to find --> MAP estimates
+[an] EM algorithm --> is an [iterative] method In statistics to find --> MAP estimates
+[an] EM algorithm --> in statistics is an [iterative] method to find --> MAP estimates
+[an] EM algorithm --> is an [iterative] method in statistics to find --> MAP estimates
+[an] EM algorithm --> is an [iterative] method to find --> MAP estimates
+[an] EM algorithm --> is used [in] [statistics] to find --> MAP estimates
+26--> Cluster 6:
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find maximum likelihood estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find maximum likelihood estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find maximum likelihood estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find maximum likelihood estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find maximum likelihood estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find maximum likelihood estimates of --> parameters in statistical models
+[an] EM algorithm --> In statistics is an [iterative] method to find maximum likelihood estimates of --> parameters in statistical models
+[an] EM algorithm --> is an [iterative] method In statistics to find maximum likelihood estimates of --> parameters in statistical models
+[an] EM algorithm --> in statistics is an [iterative] method to find maximum likelihood estimates of --> parameters in statistical models
+[an] EM algorithm --> is an [iterative] method in statistics to find maximum likelihood estimates of --> parameters in statistical models
+[an] EM algorithm --> is an [iterative] method to find maximum likelihood estimates of --> parameters in statistical models
+[an] EM algorithm --> is used [in] [statistics] to find maximum likelihood estimates of --> parameters in statistical models
+26--> Cluster 7:
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find maximum a posteriori estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find maximum a posteriori estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find maximum a posteriori estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find maximum a posteriori estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find maximum a posteriori estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find maximum a posteriori estimates of --> parameters in statistical models
+[an] EM algorithm --> In statistics is an [iterative] method to find maximum a posteriori estimates of --> parameters in statistical models
+[an] EM algorithm --> is an [iterative] method In statistics to find maximum a posteriori estimates of --> parameters in statistical models
+[an] EM algorithm --> in statistics is an [iterative] method to find maximum a posteriori estimates of --> parameters in statistical models
+[an] EM algorithm --> is an [iterative] method in statistics to find maximum a posteriori estimates of --> parameters in statistical models
+[an] EM algorithm --> is an [iterative] method to find maximum a posteriori estimates of --> parameters in statistical models
+[an] EM algorithm --> is used [in] [statistics] to find maximum a posteriori estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find MAP estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find MAP estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find MAP estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find MAP estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find MAP estimates of --> parameters in statistical models
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find MAP estimates of --> parameters in statistical models
+[an] EM algorithm --> In statistics is an [iterative] method to find MAP estimates of --> parameters in statistical models
+[an] EM algorithm --> is an [iterative] method In statistics to find MAP estimates of --> parameters in statistical models
+[an] EM algorithm --> in statistics is an [iterative] method to find MAP estimates of --> parameters in statistical models
+[an] EM algorithm --> is an [iterative] method in statistics to find MAP estimates of --> parameters in statistical models
+[an] EM algorithm --> is an [iterative] method to find MAP estimates of --> parameters in statistical models
+[an] EM algorithm --> is used [in] [statistics] to find MAP estimates of --> parameters in statistical models
+26--> Cluster 8:
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> In statistics is an [iterative] method to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method In statistics to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> in statistics is an [iterative] method to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method in statistics to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is used [in] [statistics] to find maximum a posteriori estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> In statistics is an [iterative] method to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method In statistics to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> in statistics is an [iterative] method to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method in statistics to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is used [in] [statistics] to find maximum a posteriori estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> In statistics is an [iterative] method to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method In statistics to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> in statistics is an [iterative] method to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method in statistics to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is used [in] [statistics] to find MAP estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find MAPestimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> In statistics is an [iterative] method to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method In statistics to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> in statistics is an [iterative] method to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method in statistics to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is used [in] [statistics] to find MAP estimates in [statistical] models where --> [the] model depends on unobserved latent variables
+26--> Cluster 9:
+[an] expectation [–] maximization algorithm --> In statistics is an [iterative] method to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method In statistics to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> in statistics is an [iterative] method to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method in statistics to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is an [iterative] method to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] expectation [–] maximization algorithm --> is used [in] [statistics] to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> In statistics is an [iterative] method to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method In statistics to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> in statistics is an [iterative] method to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method in statistics to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is an [iterative] method to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+[an] EM algorithm --> is used [in] [statistics] to find maximum likelihood estimates of parameters in [statistical] models where --> [the] model depends on unobserved latent variables
+26--> Cluster 10:
+MAP --> stands for --> maximum a posteriori
+MAP --> [is] equal [to] --> maximum a posteriori
+maximum a posteriori --> [is] equal [to] --> MAP
+
+sent_id:27	The EM iteration alternates between performing an expectation (E) step, which creates a function for the expectation of the log-likelihood evaluated using the current estimate for the parameters, and a maximization (M) step, which computes parameters maximizing the expected log-likelihood found on the E step.
+27--> Cluster 1:
+The EM iteration --> alternates between --> performing [an] expectation step and [a] maximization step
+The EM iteration --> alternates between --> performing [an] E step and [a] M step
+27--> Cluster 2:
+E [step] --> stands for --> expectation [step]
+E [step] --> [is] equal [to] --> expectation [step]
+expectation [step] --> [is] equal [to] --> E [step]
+27--> Cluster 3:
+M [step] --> stands for --> maximization [step]
+M [step] --> [is] equal [to] --> maximization [step]
+maximization [step] --> [is] equal [to] --> M [step]
+27--> Cluster 4:
+[an] expectation step --> creates --> [a] function for [the] expectation of [the] log-likelihood
+[an] expectation step --> creates [a] --> function for [the] expectation of [the] log-likelihood
+[an] E step --> creates --> [a] function for [the] expectation of [the] log-likelihood
+[an] E step --> creates [a] --> function for [the] expectation of [the] log-likelihood
+27--> Cluster 5:
+[the] expectation of [the] log-likelihood --> [is] evaluated using --> [the] current estimate for [the] parameters
+27--> Cluster 6:
+[an] expectation step --> creates --> [a] function
+[an] expectation step --> creates [a] --> function
+27--> Cluster 7:
+[the] log-likelihood --> has an --> expectation
+[the] log-likelihood --> has --> an expectation
+[the] log-likelihood --> has a --> expectation
+[the] log-likelihood --> has --> a expectation
+27--> Cluster 8:
+[the] parameters --> have --> [a] current estimate
+[the] parameters --> have [a] --> current estimate
+27--> Cluster 9:
+[The] EM iteration --> [is] performing --> [a] maximization step
+[The] EM iteration --> performs --> [a] maximization step
+27--> Cluster 10:
+[The] EM iteration --> [is] performing --> [a] expectation step
+[The] EM iteration --> performs --> [a] expectation step
+27--> Cluster 11:
+[a] maximization step --> computes --> parameters
+[the] maximization step --> computes --> parameters
+[a] M step --> computes --> parameters
+[the] M step --> computes --> parameters
+27--> Cluster 12:
+[a] maximization step --> computes parameters maximizing --> [the] expected log - likelihood
+[the] maximization step --> computes parameters maximizing --> [the] expected log - likelihood
+[a] M step --> computes parameters maximizing --> [the] expected log - likelihood
+[the] M step --> computes parameters maximizing --> [the] expected log - likelihood
+27--> Cluster 13:
+[a] maximization step --> computes parameters maximizing [the] expected log - likelihood found on --> [the] E step
+[the] maximization step --> computes parameters maximizing [the] expected log - likelihood found on --> [the] E step
+[a] M step --> computes parameters maximizing [the] expected log - likelihood found on --> [the] E step
+[the] M step --> computes parameters maximizing [the] expected log - likelihood found on --> [the] E step
+[a] maximization step --> computes parameters maximizing [the] expected log - likelihood found on --> [the] expectation step
+[the] maximization step --> computes parameters maximizing [the] expected log - likelihood found on --> [the] expectation step
+[a] M step --> computes parameters maximizing [the] expected log - likelihood found on --> [the] expectation step
+[the] M step --> computes parameters maximizing [the] expected log - likelihood found on --> [the] expectation step
+27--> Cluster 14:
+parameters --> [be] maximizing --> [the] expected log - likelihood found on the E step
+parameters --> [can] maximize --> [the] expected log - likelihood found on the E step
+parameters --> [be] maximizing --> [the] expected log - likelihood
+parameters --> [can] maximize --> [the] expected log - likelihood
+27--> Cluster 15:
+[the] expected log-likelihood --> [is] found on --> [the] E step
+[the] expected log-likelihood --> [is] found on --> [the] expectation step
+[the] expected log-likelihood --> [be] found on --> [the] E step
+[the] expected log-likelihood --> [be] found on --> [the] expectation step
+
+sent_id:28	These parameter-estimates are then used to determine the distribution of the latent variables in the next E step.
+28--> Cluster 1:
+These parameter-estimates --> are [then] used to --> determine [the] distribution of [the] latent variables
+These parameter-estimates --> are [then] used to determine [the] distribution of --> [the] latent variables
+These parameter-estimates --> are [then] used to determine --> [the] distribution of [the] latent variables
+28--> Cluster 2:
+These parameter-estimates --> are [then] used to determine [the] distribution of [the] latent variables in --> [the] next E step
+These parameter-estimates --> are [then] used in --> [the] next E step
+28--> Cluster 3:
+[the] latent variables --> have [a] --> distribution
+[the] latent variables --> have --> [a] distribution
+28--> Cluster 4:
+E step --> are --> multiple
+E step --> follows --> [another] E step
+
+sent_id:29	The EM algorithm was explained and given its name in a classic 1977 paper by Arthur Dempster, Nan Laird, and Donald Rubin.
+29--> Cluster 1:
+[The] EM algorithm --> was --> explained
+29--> Cluster 2:
+[The] EM algorithm --> [was] explained in --> [a] [classic] paper
+[The] EM algorithm --> [was] explained in 1977 in --> [a] [classic] paper
+29--> Cluster 3:
+[The] EM algorithm --> [was] explained in --> 1977
+[The] EM algorithm --> [was] explained in a [classic] paper in --> 1977
+[The] EM algorithm --> [was] explained in --> [a] [classic] 1977 [paper]
+29--> Cluster 4:
+[The] EM algorithm --> [was] explained by --> Arthur Dempster
+[The] EM algorithm --> [was] explained in 1977 by --> Arthur Dempster
+[The] EM algorithm --> [was] explained in a [classic] paper by --> Arthur Dempster
+[The] EM algorithm --> [was] explained in 1977 in a [classic] paper by --> Arthur Dempster
+[The] EM algorithm --> [was] explained by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] explained in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+29--> Cluster 5:
+[The] EM algorithm --> [was] explained by --> Nan Laird
+[The] EM algorithm --> [was] explained in 1977 by --> Nan Laird
+[The] EM algorithm --> [was] explained in a [classic] paper by --> Nan Laird
+[The] EM algorithm --> [was] explained in 1977 in a [classic] paper by --> Nan Laird
+[The] EM algorithm --> [was] explained by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] explained in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+29--> Cluster 6:
+[The] EM algorithm --> [was] explained by --> Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 by --> Donald Rubin
+[The] EM algorithm --> [was] explained in a [classic] paper by --> Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 in a [classic] paper by --> Donald Rubin
+[The] EM algorithm --> [was] explained by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] explained by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] explained in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] explained in 1977 in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+29--> Cluster 7:
+[The] EM algorithm --> was --> given [its] name
+[The] EM algorithm --> [was] given --> [its] name
+29--> Cluster 8:
+[The] EM algorithm --> [was] given [its] name in --> [a] [classic] paper
+[The] EM algorithm --> [was] given [its] name in 1977 in --> [a] [classic] paper
+29--> Cluster 9:
+[The] EM algorithm --> [was] given [its] name in --> 1977
+[The] EM algorithm --> [was] given [its] name in a [classic] paper in --> 1977
+[The] EM algorithm --> [was] given [its] name in --> a [classic] 1977 paper
+29--> Cluster 10:
+[The] EM algorithm --> [was] given [its] name by --> Arthur Dempster
+[The] EM algorithm --> [was] given [its] name in 1977 by --> Arthur Dempster
+[The] EM algorithm --> [was] given [its] name in a [classic] paper by --> Arthur Dempster
+[The] EM algorithm --> [was] given [its] name in 1977 in a [classic] paper by --> Arthur Dempster
+[The] EM algorithm --> [was] given [its] name by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+29--> Cluster 11:
+[The] EM algorithm --> [was] given [its] name by --> Nan Laird
+[The] EM algorithm --> [was] given [its] name in 1977 by --> Nan Laird
+[The] EM algorithm --> [was] given [its] name in a [classic] paper by --> Nan Laird
+[The] EM algorithm --> [was] given [its] name in 1977 in a [classic] paper by --> Nan Laird
+[The] EM algorithm --> [was] given [its] name by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+29--> Cluster 12:
+[The] EM algorithm --> [was] given [its] name by --> Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 by --> Donald Rubin
+[The] EM algorithm --> [was] given [its] name in a [classic] paper by --> Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 in a [classic] paper by --> Donald Rubin
+[The] EM algorithm --> [was] given [its] name by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 in a [classic] paper by --> Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+[The] EM algorithm --> [was] given [its] name in 1977 in a [classic] paper by --> Arthur Dempster, Nan Laird, [and] Donald Rubin
+29--> Cluster 13:
+Arthur Dempster --> wrote --> [a] [classic] paper
+Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin --> wrote --> [a] [classic] paper
+Arthur Dempster, Nan Laird, [and] Donald Rubin --> wrote --> [a] [classic] paper
+29--> Cluster 14:
+Nan Laird --> wrote --> [a] [classic] paper
+Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin --> wrote --> [a] [classic] paper
+Arthur Dempster, Nan Laird, [and] Donald Rubin --> wrote --> [a] [classic] paper
+29--> Cluster 15:
+Donald Rubin --> wrote --> [a] [classic] paper
+Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin --> wrote --> [a] [classic] paper
+Arthur Dempster, Nan Laird, [and] Donald Rubin --> wrote --> [a] [classic] paper
+29--> Cluster 16:
+Arthur Dempster --> wrote [a] [classic] paper in --> 1977
+Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin --> wrote [a] [classic] paper in --> 1977
+Arthur Dempster, Nan Laird, [and] Donald Rubin --> wrote [a] [classic] paper in --> 1977
+29--> Cluster 17:
+Nan Laird --> wrote [a] [classic] paper in --> 1977
+Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin --> wrote [a] [classic] paper in --> 1977
+Arthur Dempster, Nan Laird, [and] Donald Rubin --> wrote [a] [classic] paper in --> 1977
+29--> Cluster 18:
+Donald Rubin --> wrote [a] [classic] paper in --> 1977
+Arthur Dempster [,] Nan Laird [,] [and] Donald Rubin --> wrote [a] [classic] paper in --> 1977
+Arthur Dempster, Nan Laird, [and] Donald Rubin --> wrote [a] [classic] paper in --> 1977
+
+sent_id:30	They pointed out that the method had been "proposed many times in special circumstances" by earlier authors.
+30--> Cluster 1:
+earlier authors --> ["] proposed ["] --> [the] method
+[the] method --> had been ["] proposed ["] by --> earlier authors
+30--> Cluster 2:
+earlier authors --> ["] proposed ["] [the] method ["] in ["] --> ["] special circumstances ["]
+[the] method --> had been ["] proposed ["] by earlier authors ["] in ["] --> ["] special circumstances ["]
+[the] method --> had been ["] proposed ["] ["] in ["] --> ["] special circumstances ["]
+30--> Cluster 3:
+earlier authors --> ["] proposed ["] [the] method --> ["] many times ["]
+[the] method --> had been ["] proposed ["] by earlier authors --> ["] many times ["]
+[the] method --> had been ["] proposed ["] --> ["] many times ["]
+30--> Cluster 4:
+They --> pointed out that --> [the] method had been ["] proposed ["]
+30--> Cluster 5:
+They --> pointed out that [the] method had been ["] proposed ["] --> ["] many times ["]
+30--> Cluster 6:
+They --> pointed out that [the] method had been ["] proposed ["] ["] in ["] --> ["] special circumstances ["]
+30--> Cluster 7:
+They --> pointed out that [the] method had been ["] proposed ["] by --> earlier authors
+
+sent_id:31	A very detailed treatment of the EM method for exponential families was published by Rolf Sundberg in his thesis and several papers following his collaboration with Per Martin-Löf and Anders Martin-Löf.
+31--> Cluster 1:
+[the] EM method --> has --> [a] treatment
+[the] EM method --> has [a] --> treatment
+31--> Cluster 2:
+[the] EM method --> has --> [a] [very] detailed treatment
+[the] EM method --> has [a] --> [very] detailed treatment
+31--> Cluster 3:
+[the] EM method --> has [a] treatment for --> exponential families
+[the] EM method --> has [a] very detailed treatment for --> exponential families
+31--> Cluster 4:
+[the] very detailed treatment of [the] EM method for exponential families --> was published by --> Rolf Sundberg
+[a] very detailed treatment of [the] EM method for exponential families --> was published by --> Rolf Sundberg
+[the] treatment of [the] EM method for exponential families --> was published by --> Rolf Sundberg
+[a] treatment of [the] EM method for exponential families --> was published by --> Rolf Sundberg
+[the] very detailed treatment of [the] EM method --> was published by --> Rolf Sundberg
+[a] very detailed treatment of [the] EM method --> was published by --> Rolf Sundberg
+[the] treatment of [the] EM method --> was published by --> Rolf Sundberg
+[a] treatment of [the] EM method --> was published by --> Rolf Sundberg
+Rolf Sundberg --> published --> [the] very detailed treatment of [the] EM method for exponential families
+Rolf Sundberg --> published --> [a] very detailed treatment of [the] EM method for exponential families
+Rolf Sundberg --> published --> [the] treatment of [the] EM method for exponential families
+Rolf Sundberg --> published --> [a] treatment of [the] EM method for exponential families
+Rolf Sundberg --> published --> [the] very detailed treatment of [the] EM method
+Rolf Sundberg --> published --> [a] very detailed treatment of [the] EM method
+Rolf Sundberg --> published --> [the] treatment of [the] EM method
+Rolf Sundberg --> published --> [a] treatment of [the] EM method
+31--> Cluster 5:
+[the] very detailed treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[a] very detailed treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[the] treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[a] treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[the] very detailed treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[a] very detailed treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[the] treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[a] treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[the] very detailed treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[a] very detailed treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[the] treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[a] treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[the] very detailed treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[a] very detailed treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[the] treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[a] treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[the] very detailed treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis and several papers
+[a] very detailed treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis and several papers
+[the] treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis and several papers
+[a] treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis and several papers
+[the] very detailed treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis and several papers
+[a] very detailed treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis and several papers
+[the] treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis and several papers
+[a] treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis and several papers
+[the] very detailed treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis
+[a] very detailed treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis
+[the] treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis
+[a] treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis
+[the] very detailed treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis
+[a] very detailed treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis
+[the] treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis
+[a] treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis
+[the] very detailed treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg
+[a] very detailed treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg
+[the] treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg
+[a] treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg
+[the] very detailed treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg
+[a] very detailed treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg
+[the] treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg
+[a] treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg
+[the] very detailed treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis
+[a] very detailed treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis
+[the] treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis
+[a] treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis
+[the] very detailed treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis
+[a] very detailed treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis
+[the] treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis
+[a] treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis
+31--> Cluster 6:
+[the] very detailed treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[a] very detailed treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[the] treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[a] treatment of [the] EM method for exponential families --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[the] very detailed treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[a] very detailed treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[the] treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[a] treatment of [the] EM method --> was published in --> Rolf Sundberg ['s] thesis and several papers
+[the] very detailed treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[a] very detailed treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[the] treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[a] treatment of [the] EM method for exponential families --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[the] very detailed treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[a] very detailed treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[the] treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[a] treatment of [the] EM method --> was published in --> [the] thesis of Rolf Sundberg and several papers
+[the] very detailed treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis and several papers
+[a] very detailed treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis and several papers
+[the] treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis and several papers
+[a] treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in --> his thesis and several papers
+[the] very detailed treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis and several papers
+[the] very detailed treatment of [the] EM method --> was published by Rolf Sundberg in --> several papers
+[a] very detailed treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis and several papers
+[the] treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis and several papers
+[a] treatment of [the] EM method --> was published by Rolf Sundberg in --> his thesis and several papers
+[the] very detailed treatment of [the] EM method for exponential families --> was published in --> several papers
+[a] very detailed treatment of [the] EM method for exponential families --> was published in --> several papers
+[the] treatment of [the] EM method for exponential families --> was published in --> several papers
+[a] treatment of [the] EM method for exponential families --> was published in --> several papers
+[the] very detailed treatment of [the] EM method --> was published in --> several papers
+[a] very detailed treatment of [the] EM method --> was published in --> several papers
+[the] treatment of [the] EM method --> was published in --> several papers
+[a] treatment of [the] EM method --> was published in --> several papers
+[the] very detailed treatment of [the] EM method for exponential families --> was published in --> several papers
+[a] very detailed treatment of [the] EM method for exponential families --> was published in --> several papers
+[the] treatment of [the] EM method for exponential families --> was published in --> several papers
+[a] treatment of [the] EM method for exponential families --> was published in --> several papers
+[the] very detailed treatment of [the] EM method --> was published in --> several papers
+[a] very detailed treatment of [the] EM method --> was published in --> several papers
+[the] treatment of [the] EM method --> was published in --> several papers
+[a] treatment of [the] EM method --> was published in --> several papers
+[the] very detailed treatment of [the] EM method for exponential families --> was published in --> several papers
+[a] very detailed treatment of [the] EM method for exponential families --> was published in --> several papers
+[the] treatment of [the] EM method for exponential families --> was published in --> several papers
+[a] treatment of [the] EM method for exponential families --> was published in --> several papers
+[the] very detailed treatment of [the] EM method --> was published in --> several papers
+[a] very detailed treatment of [the] EM method --> was published in --> several papers
+[the] treatment of [the] EM method --> was published in --> several papers
+[a] treatment of [the] EM method --> was published in --> several papers
+31--> Cluster 7:
+[the] very detailed treatment of [the] EM method for exponential families --> was published in Rolf Sundberg ['s] thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] very detailed treatment of [the] EM method for exponential families --> was published in Rolf Sundberg ['s] thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] treatment of [the] EM method for exponential families --> was published in Rolf Sundberg ['s] thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] treatment of [the] EM method for exponential families --> was published in Rolf Sundberg ['s] thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] very detailed treatment of [the] EM method --> was published in Rolf Sundberg ['s] thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] very detailed treatment of [the] EM method --> was published in Rolf Sundberg ['s] thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] treatment of [the] EM method --> was published in Rolf Sundberg ['s] thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] treatment of [the] EM method --> was published in Rolf Sundberg ['s] thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] very detailed treatment of [the] EM method for exponential families --> was published in [the] thesis of Rolf Sundberg and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] very detailed treatment of [the] EM method for exponential families --> was published in [the] thesis of Rolf Sundberg and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] treatment of [the] EM method for exponential families --> was published in [the] thesis of Rolf Sundberg and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] treatment of [the] EM method for exponential families --> was published in [the] thesis of Rolf Sundberg and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] very detailed treatment of [the] EM method --> was published in [the] thesis of Rolf Sundberg and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] very detailed treatment of [the] EM method --> was published in [the] thesis of Rolf Sundberg and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] treatment of [the] EM method --> was published in [the] thesis of Rolf Sundberg and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] treatment of [the] EM method --> was published in [the] thesis of Rolf Sundberg and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] very detailed treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in his thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] very detailed treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in his thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in his thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] treatment of [the] EM method for exponential families --> was published by Rolf Sundberg in his thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] very detailed treatment of [the] EM method --> was published by Rolf Sundberg in his thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] very detailed treatment of [the] EM method --> was published by Rolf Sundberg in his thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] treatment of [the] EM method --> was published by Rolf Sundberg in his thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] treatment of [the] EM method --> was published by Rolf Sundberg in his thesis and several papers following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] very detailed treatment of [the] EM method for exponential families --> was published by Rolf Sundberg following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] very detailed treatment of [the] EM method for exponential families --> was published by Rolf Sundberg following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] treatment of [the] EM method for exponential families --> was published by Rolf Sundberg following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] treatment of [the] EM method for exponential families --> was published by Rolf Sundberg following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] very detailed treatment of [the] EM method --> was published by Rolf Sundberg following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] very detailed treatment of [the] EM method --> was published by Rolf Sundberg following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] treatment of [the] EM method --> was published by Rolf Sundberg following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] treatment of [the] EM method --> was published by Rolf Sundberg following --> [his] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] very detailed treatment of [the] EM method for exponential families --> was published following --> Rolf Sundberg ['s] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] very detailed treatment of [the] EM method for exponential families --> was published following --> Rolf Sundberg ['s] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] treatment of [the] EM method for exponential families --> was published following --> Rolf Sundberg ['s] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] treatment of [the] EM method for exponential families --> was published following --> Rolf Sundberg ['s] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] very detailed treatment of [the] EM method --> was published following --> Rolf Sundberg ['s] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] very detailed treatment of [the] EM method --> was published following --> Rolf Sundberg ['s] collaboration with Per Martin-Löf and Anders Martin-Löf
+[the] treatment of [the] EM method --> was published following --> Rolf Sundberg ['s] collaboration with Per Martin-Löf and Anders Martin-Löf
+[a] treatment of [the] EM method --> was published following --> Rolf Sundberg ['s] collaboration with Per Martin-Löf and Anders Martin-Löf
+31--> Cluster 8:
+Rolf Sundberg --> [has] collaboration [with] --> Anders Martin-Löf
+Rolf Sundberg --> [was] collaborating with --> Anders Martin-Löf
+Rolf Sundberg --> has collaborated with --> Anders Martin-Löf
+31--> Cluster 9:
+Rolf Sundberg --> [has] collaboration [with] --> Per Martin-Löf
+Rolf Sundberg --> [was] collaborating with --> Per Martin-Löf
+Rolf Sundberg --> has collaborated with --> Per Martin-Löf
+31--> Cluster 10:
+Rolf Sundberg --> published [a] --> thesis
+Rolf Sundberg --> published --> [a] thesis
+31--> Cluster 11:
+Rolf Sundberg --> published --> [several] papers
+
+sent_id:32	The Dempster–Laird–Rubin paper in 1977 generalized the method and sketched a convergence analysis for a wider class of problems.
+32--> Cluster 1:
+[The] Dempster [–] Laird [–] Rubin paper --> generalized --> the method
+32--> Cluster 2:
+[The] Dempster [–] Laird [–] Rubin paper --> generalized the method in --> 1977
+32--> Cluster 3:
+[The] Dempster [–] Laird [–] Rubin paper --> generalized the method for --> [a] wider class of problems
+[The] Dempster [–] Laird [–] Rubin paper --> generalized the method for [a] --> wider class of problems
+32--> Cluster 4:
+[The] Dempster [–] Laird [–] Rubin paper --> sketched --> [a] convergence analysis
+[The] Dempster [–] Laird [–] Rubin paper --> sketched [a] --> convergence analysis
+32--> Cluster 5:
+[The] Dempster [–] Laird [–] Rubin paper --> sketched [a] convergence analysis for --> [a] wider class of problems
+32--> Cluster 6:
+[The] Dempster [–] Laird [–] Rubin paper --> sketched [a] convergence analysis in --> 1977
+32--> Cluster 7:
+[The] Dempster [–] Laird [–] Rubin paper --> [was] published in --> 1977
+[The] Dempster [–] Laird [–] Rubin paper --> [was] written in --> 1977
+
+sent_id:33	Regardless of earlier inventions, the innovative Dempster–Laird–Rubin paper in the Journal of the Royal Statistical Society received an enthusiastic discussion at the Royal Statistical Society meeting with Sundberg calling the paper "brilliant".
+33--> Cluster 1:
+[the] Dempster [–] Laird [–] Rubin paper --> is --> innovative
+[the] Dempster [–] Laird [–] Rubin paper --> was --> innovative
+[the] Dempster-Laird-Rubin paper --> is --> innovative
+[the] Dempster–Laird–Rubin paper --> was --> innovative
+33--> Cluster 2:
+[the] [innovative] Dempster [–] Laird [–] Rubin paper --> was published in --> the Journal of the Royal Statistical Society
+[the] [innovative] Dempster [–] Laird [–] Rubin paper --> was written in --> the Journal of the Royal Statistical Society
+[the] [innovative] Dempster–Laird–Rubin paper --> was published in --> the Journal of the Royal Statistical Society
+[the] [innovative] Dempster–Laird–Rubin paper --> was written in --> the Journal of the Royal Statistical Society
+33--> Cluster 3:
+[the] [innovative] Dempster [–] Laird [–] Rubin paper --> received --> an enthusiastic discussion
+[the] [innovative] Dempster–Laird–Rubin paper --> received --> an enthusiastic discussion
+33--> Cluster 4:
+[the] [innovative] Dempster [–] Laird [–] Rubin paper --> received an enthusiastic discussion at --> [the] Royal Statistical Society meeting
+[the] [innovative] Dempster [–] Laird [–] Rubin paper --> received a discussion at --> [the] Royal Statistical Society meeting
+[the] [innovative] Dempster [–] Laird [–] Rubin paper --> was [enthusiasticly] discussed at --> [the] Royal Statistical Society meeting
+[the] [innovative] Dempster [–] Laird [–] Rubin paper --> was discussed [enthusiasticly] at --> [the] Royal Statistical Society meeting
+[the] [innovative] Dempster–Laird–Rubin paper --> received an enthusiastic discussion at --> [the] Royal Statistical Society meeting
+[the] [innovative] Dempster–Laird–Rubin paper --> received a discussion at --> [the] Royal Statistical Society meeting
+[the] [innovative] Dempster–Laird–Rubin paper --> was [enthusiasticly] discussed at --> [the] Royal Statistical Society meeting
+[the] [innovative] Dempster–Laird–Rubin paper --> was discussed [enthusiasticly] at --> [the] Royal Statistical Society meeting
+33--> Cluster 5:
+Sundberg --> [was] calling the [innovative] paper --> ["] brilliant ["]
+Sundberg --> called the [innovative] paper --> ["] brilliant ["]
+Sundberg --> [was] calling the [innovative] Dempster [–] Laird [–] Rubin paper --> ["] brilliant ["]
+Sundberg --> called the [innovative] Dempster [–] Laird [–] Rubin paper --> ["] brilliant ["]
+Sundberg --> [was] calling the [innovative] Dempster–Laird–Rubin paper --> ["] brilliant ["]
+Sundberg --> called the [innovative] Dempster–Laird–Rubin paper --> ["] brilliant ["]
+33--> Cluster 6:
+Sundberg --> calling [the] [innovative] paper ["] brilliant ["] at --> [the] Royal Statistical Society meeting
+Sundberg --> called [the] [innovative] paper ["] brilliant ["] at --> [the] Royal Statistical Society meeting
+Sundberg --> calling [the] [innovative] Dempster [–] Laird [–] Rubin paper ["] brilliant ["] at --> [the] Royal Statistical Society meeting
+Sundberg --> called [the] [innovative] Dempster [–] Laird [–] Rubin paper ["] brilliant ["] at --> [the] Royal Statistical Society meeting
+Sundberg --> calling [the] [innovative] Dempster–Laird–Rubin paper ["] brilliant ["] at --> [the] Royal Statistical Society meeting
+Sundberg --> called [the] [innovative] Dempster–Laird–Rubin paper ["] brilliant ["] at --> [the] Royal Statistical Society meeting
+33--> Cluster 7:
+[the] Royal Statistical Society --> has --> meeting
+[the] Royal Statistical Society --> holds --> meeting
+[the] Royal Statistical Society --> held --> meeting
+[the] Royal Statistical Society --> has --> meetings
+[the] Royal Statistical Society --> holds --> meetings
+[the] Royal Statistical Society --> held --> meetings
+33--> Cluster 8:
+[the] Royal Statistical Society --> has --> [a] Journal
+[the] Royal Statistical Society --> has --> [a] journal
+[the] Royal Statistical Society --> has [a] --> Journal
+[the] Royal Statistical Society --> has [a] --> journal
+[the] Royal Statistical Society --> publishes --> [a] Journal
+[the] Royal Statistical Society --> publishes --> [a] journal
+[the] Royal Statistical Society --> publishes [a] --> Journal
+[the] Royal Statistical Society --> publishes [a] --> journal
+[the] Royal Statistical Society --> published --> [a] Journal
+[the] Royal Statistical Society --> published --> [a] journal
+[the] Royal Statistical Society --> published [a] --> Journal
+[the] Royal Statistical Society --> published [a] --> journal
+33--> Cluster 9:
+[the] [innovative] paper --> received an enthusiastic discussion Regardless of --> earlier inventions
+[the] [innovative] paper --> received an enthusiastic discussion regardless of --> earlier inventions
+[the] [innovative] Dempster–Laird–Rubin paper --> received an enthusiastic discussion Regardless of --> earlier inventions
+[the] [innovative] Dempster–Laird–Rubin paper --> received an enthusiastic discussion regardless of --> earlier inventions
+[the] [innovative] Dempster [–] Laird [–] Rubin paper --> received an enthusiastic discussion Regardless of --> earlier inventions
+[the] [innovative] Dempster [–] Laird [–] Rubin paper --> received an enthusiastic discussion regardless of --> earlier inventions
+33--> Cluster 10:
+Sundberg --> [was] calling [the] [innovative] Dempster [–] Laird [–] Rubin paper ["] brilliant ["] Regardless of --> earlier inventions
+Sundberg --> [was] calling the [innovative] paper ["] brilliant ["] Regardless of --> earlier inventions
+Sundberg --> [was] calling [the] [innovative] Dempster [–] Laird [–] Rubin paper ["] brilliant ["] regardless of --> earlier inventions
+Sundberg --> [was] calling the [innovative] paper ["] brilliant ["] regardless of --> earlier inventions
+Sundberg --> called [the] [innovative] Dempster [–] Laird [–] Rubin paper ["] brilliant ["] Regardless of --> earlier inventions
+Sundberg --> called the [innovative] paper ["] brilliant ["] Regardless of --> earlier inventions
+Sundberg --> called [the] [innovative] Dempster [–] Laird [–] Rubin paper ["] brilliant ["] regardless of --> earlier inventions
+Sundberg --> called the [innovative] paper ["] brilliant ["] regardless of --> earlier inventions
+Sundberg --> [was] calling [the] [innovative] Dempster–Laird–Rubin paper ["] brilliant ["] Regardless of --> earlier inventions
+Sundberg --> [was] calling the [innovative] paper ["] brilliant ["] Regardless of --> earlier inventions
+Sundberg --> [was] calling [the] [innovative] Dempster–Laird–Rubin paper ["] brilliant ["] regardless of --> earlier inventions
+Sundberg --> [was] calling the [innovative] paper ["] brilliant ["] regardless of --> earlier inventions
+Sundberg --> called [the] [innovative] Dempster–Laird–Rubin paper ["] brilliant ["] Regardless of --> earlier inventions
+Sundberg --> called the [innovative] paper ["] brilliant ["] Regardless of --> earlier inventions
+Sundberg --> called [the] [innovative] Dempster–Laird–Rubin paper ["] brilliant ["] regardless of --> earlier inventions
+Sundberg --> called the [innovative] paper ["] brilliant ["] regardless of --> earlier inventions
+
+sent_id:34	The Dempster–Laird–Rubin paper established the EM method as an important tool of statistical analysis.
+34--> Cluster 1:
+[The] Dempster [–] Laird [–] Rubin paper --> established [the] EM method as --> an important tool
+[The] Dempster [–] Laird [–] Rubin paper --> established [the] EM method as --> a tool
+[The] Dempster [–] Laird [–] Rubin paper --> established [the] EM method as [a] --> tool
+[The] Dempster–Laird–Rubin paper --> established [the] EM method as --> an important tool
+[The] Dempster–Laird–Rubin paper --> established [the] EM method as --> a tool
+[The] Dempster–Laird–Rubin paper --> established [the] EM method as [a] --> tool
+34--> Cluster 2:
+[The] Dempster [–] Laird [–] Rubin paper --> established [the] EM method as [an] important tool of --> statistical analysis
+[The] Dempster [–] Laird [–] Rubin paper --> established [the] EM method as [a] tool of --> statistical analysis
+[The] Dempster–Laird–Rubin paper --> established [the] EM method as [an] important tool of --> statistical analysis
+[The] Dempster–Laird–Rubin paper --> established [the] EM method as [a] tool of --> statistical analysis
+34--> Cluster 3:
+[the] EM method --> is --> [an] [important] tool
+[the] EM method --> is --> a tool
+[the] EM method --> is [a] --> tool
+34--> Cluster 4:
+[the] EM method --> is [an] [important] tool of --> statistical analysis
+[the] EM method --> is [a] [important] tool of --> statistical analysis
+34--> Cluster 5:
+[The] Dempster [–] Laird [–] Rubin paper --> established --> [the] EM method
+[The] Dempster–Laird–Rubin paper --> established --> [the] EM method
+
+sent_id:35	HELSINKI (Reuters) - Finnish police reprimanded a man for traveling in a car boot to hide his meeting with Prime Minister Juha Sipila during a government crisis last summer, saying this was breach of the traffic code.
+35--> Cluster 1:
+Finnish police --> reprimanded --> [a] man
+35--> Cluster 2:
+Finnish police --> reprimanded [a] man for --> traveling in [a] car boot
+35--> Cluster 3:
+Finnish police --> reprimanded [a] man during --> [a] government crisis
+Finnish police --> reprimanded [a] man during [a] --> government crisis
+35--> Cluster 4:
+Finnish police --> reprimanded [a] man [during] --> last summer
+35--> Cluster 5:
+Finnish police --> reprimanded [a] man saying --> this was breach of [the] traffic code
+Finnish police --> reprimanded [a] man saying --> traveling in a car boot was breach of [the] traffic code
+35--> Cluster 6:
+a man --> [was] traveling in --> [a] car boot
+a man --> traveled in --> [a] car boot
+35--> Cluster 7:
+a man --> [was] traveling in [a] car boot to --> hide [his] meeting with Juha Sipila
+a man --> traveled in [a] car boot to --> hide [his] meeting with Juha Sipila
+35--> Cluster 8:
+a man --> [was] traveling in [a] car boot during --> [a] government crisis
+a man --> traveled in [a] car boot during --> [a] government crisis
+35--> Cluster 9:
+a man --> [was] traveling in [a] car boot [during] --> last summer
+a man --> traveled in [a] car boot [during] --> last summer
+35--> Cluster 10:
+a man --> [was] meeting with --> Juha Sipila
+a man --> had a meeting with --> Juha Sipila
+a man --> met with --> Juha Sipila
+35--> Cluster 11:
+Juha Sipila --> is --> Prime Minister
+Juha Sipila --> was --> Prime Minister
+35--> Cluster 12:
+a man --> [was] meeting with Juha Sipila during --> [a] government crisis
+a man --> had a meeting with Juha Sipila during --> [a] government crisis
+a man --> met with Juha Sipila during --> [a] government crisis
+35--> Cluster 13:
+a man --> [was] meeting with Juha Sipila [during] --> last summer
+a man --> had a meeting with Juha Sipila [during] --> last summer
+a man --> met with Juha Sipila [during] --> last summer
+35--> Cluster 14:
+a man --> hide --> [his] meeting with Juha Sipila
+a man --> tried to hide --> [his] meeting with Juha Sipila
+a man --> hid --> [his] meeting with Juha Sipila
+35--> Cluster 15:
+a man --> hide [his] meeting with Juha Sipila during --> [a] government crisis
+a man --> tried to hide [his] meeting with Juha Sipila during --> [a] government crisis
+a man --> hid [his] meeting with Juha Sipila during --> [a] government crisis
+35--> Cluster 16:
+a man --> hide [his] meeting with Juha Sipila [during] --> last summer
+a man --> tried to hide [his] meeting with Juha Sipila [during] --> last summer
+a man --> hid [his] meeting with Juha Sipila [during] --> last summer
+35--> Cluster 17:
+[a] government crisis --> happened [during] --> last summer
+35--> Cluster 18:
+[a] government --> had [a] --> crisis
+35--> Cluster 19:
+Finnish police --> [was] saying --> traveling in [a] car boot was breach of [the] traffic code
+Finnish police --> said --> traveling in [a] car boot was breach of [the] traffic code
+Finnish police --> says --> traveling in [a] car boot was breach of [the] traffic code
+Finnish police --> [was] saying --> traveling in [a] car boot is breach of [the] traffic code
+Finnish police --> said --> traveling in [a] car boot is breach of [the] traffic code
+Finnish police --> says --> traveling in [a] car boot is breach of [the] traffic code
+
+sent_id:36	A police statement did not name the man in the boot, but in effect indicated the traveler was State Secretary Samuli Virtanen, who is also the deputy to Foreign Minister Timo Soini.
+36--> Cluster 1:
+[A] police statement --> did not name --> [the] man in the boot
+36--> Cluster 2:
+[A] police statement --> in effect indicated the traveler was --> Samuli Virtanen
+[A] police statement --> indicated the traveler was --> Samuli Virtanen
+[A] police statement --> indicated --> the traveler was Samuli Virtanen
+36--> Cluster 3:
+Samuli Virtanen --> was --> State Secretary
+Samuli Virtanen --> is --> State Secretary
+36--> Cluster 4:
+Samuli Virtanen --> is [also] --> [the] deputy
+36--> Cluster 5:
+Samuli Virtanen --> is [also] [the] deputy to --> Timo Soini
+36--> Cluster 6:
+Timo Soini --> is --> Foreign Minister
+36--> Cluster 7:
+Timo Soini --> has [a] --> deputy
+Timo Soini --> has --> [a] deputy
+
+sent_id:37	The meeting took place in June, a day after Virtanen’s co-ruling Finns party had elected anti-immigration hardliners as its new leaders.
+37--> Cluster 1:
+[The] meeting --> took place in --> June
+37--> Cluster 2:
+[The] meeting --> took place a day after --> Finns party [had] elected anti [-] immigration hardliners as [its] new leaders
+37--> Cluster 3:
+Virtanen --> co-ruling [that] Finns party had elected --> anti [-] immigration hardliners as its new leaders
+Virtanen --> co-ruled [that] Finns party had elected --> anti [-] immigration hardliners as its new leaders
+Virtanen --> co-ruling [that] --> Finns party had elected anti [-] immigration hardliners as its new leaders
+Virtanen --> co-ruled [that] --> Finns party had elected anti [-] immigration hardliners as its new leaders
+37--> Cluster 4:
+Finns party --> had --> leaders
+Finns party --> has --> leaders
+
+sent_id:38	The government was close to collapse until a group of politicians, including Virtanen and Soini, in the following week walked out of the Finns party and announced they would form a new group.
+38--> Cluster 1:
+[The] government --> [was] close to --> collapse
+[The] government --> was --> close to collapse
+38--> Cluster 2:
+[The] government --> [was] close to collapse until --> [a] group of politicians walked out of [the] Finns party and announced they would form [a] new group
+[The] government --> [was] close to collapse until --> politicians walked out of [the] Finns party and announced they would form [a] new group
+38--> Cluster 3:
+[a] group of politicians --> [was] including --> Virtanen
+politicians --> [was] including --> Virtanen
+[a] group of politicians --> included --> Virtanen
+politicians --> included --> Virtanen
+38--> Cluster 4:
+[a] group of politicians --> [was] including --> Soini
+politicians --> [was] including --> Soini
+[a] group of politicians --> included --> Soini
+politicians --> included --> Soini
+38--> Cluster 5:
+[a] group of politicians --> walked out of --> [the] Finns party
+politicians --> walked out of --> [the] Finns party
+38--> Cluster 6:
+[a] group of politicians --> announced --> [they] would form [a] new group
+politicians --> announced --> [they] would form [a] new group
+38--> Cluster 7:
+Virtanen --> walked out of --> [the] Finns party
+38--> Cluster 8:
+Soini --> walked out of --> [the] Finns party
+38--> Cluster 9:
+Virtanen --> is [a] part of --> politicians
+Virtanen --> is [a] --> politicians
+Virtanen --> is --> [a] politicians
+Virtanen --> is [a] part of --> politician
+Virtanen --> is [a] --> politician
+Virtanen --> is --> [a] politician
+38--> Cluster 10:
+Soini --> is [a] part of --> politicians
+Soini --> is [a] --> politicians
+Soini --> is --> [a] politicians
+Soini --> is [a] part of --> politician
+Soini --> is [a] --> politician
+Soini --> is --> [a] politician
+
+sent_id:39	The Finns party was thrown out of the government and the new “Blue Reform” group kept its cabinet seat. 
+39--> Cluster 1:
+[The] Finns party --> was --> thrown out of [the] government
+[The] Finns party --> was thrown out of --> [the] government
+[The] Finns party --> was thrown out --> of [the] government
+39--> Cluster 2:
+[The] Finns party --> was in --> [the] government
+[The] Finns party --> was [a] part of --> [the] government
+39--> Cluster 3:
+[“] Blue Reform [”] --> is --> [the] new group
+[“] Blue Reform [”] --> is --> [a] new group
+[“] Blue Reform [”] --> is [a] --> new group
+39--> Cluster 4:
+[the] new group --> kept --> its cabinet seat
+[the] new group --> kept --> [it] ['s] cabinet seat
+[the] new group --> kept [it] ['s] --> cabinet seat
+[the] new group --> kept its --> cabinet seat
+[the] [new] “Blue Reform” group --> kept --> its cabinet seat
+[the] [new] “Blue Reform” group --> kept --> [it] ['s] cabinet seat
+[the] [new] “Blue Reform” group --> kept [it] ['s] --> cabinet seat
+[the] [new] “Blue Reform” group --> kept its --> cabinet seat
+[the] [new] Blue Reform [group] --> kept --> its cabinet seat
+[the] [new] Blue Reform [group] --> kept --> [it] ['s] cabinet seat
+[the] [new] Blue Reform [group] --> kept [it] ['s] --> cabinet seat
+[the] [new] Blue Reform [group] --> kept its --> cabinet seat
+[the] [new] [`] [`] Blue Reform [”] [group] --> kept --> its cabinet seat
+[the] [new] [`] [`] Blue Reform [”] [group] --> kept --> [it] ['s] cabinet seat
+[the] [new] [`] [`] Blue Reform [”] [group] --> kept [it] ['s] --> cabinet seat
+[the] [new] [`] [`] Blue Reform [”] [group] --> kept its --> cabinet seat
+39--> Cluster 5:
+[the] new group --> had [a] --> cabinet seat
+[the] new group --> had --> [a] cabinet seat
+[the] new “Blue Reform” group --> had [a] --> cabinet seat
+[the] new “Blue Reform” group --> had --> [a] cabinet seat
+[the] “Blue Reform” [group] --> had [a] --> cabinet seat
+[the] “Blue Reform” [group] --> had --> [a] cabinet seat
+
+sent_id:40	Virtanen has not commented on the case, but lawmaker Tiina Elovaara from Blue Reform said in a blog that Virtanen climbed into the boot to keep the meeting secret at a critical moment.
+40--> Cluster 1:
+Virtanen --> has not commented [on] --> [the] case
+Virtanen --> has not commented --> [on] [the] case
+40--> Cluster 2:
+Tiina Elovaara --> is [a] --> lawmaker
+Tiina Elovaara --> is --> [a] lawmaker
+40--> Cluster 3:
+Tiina Elovaara --> [is] from --> Blue Reform
+Tiina Elovaara --> [is] in --> Blue Reform
+40--> Cluster 4:
+Tiina Elovaara --> said [that] --> Virtanen climbed into the boot
+Tiina Elovaara --> said --> [that] Virtanen climbed into the boot
+40--> Cluster 5:
+Tiina Elovaara --> said [that] Virtanen climbed into the boot to --> keep the meeting secret
+40--> Cluster 6:
+Tiina Elovaara --> said [that] Virtanen climbed into the boot at --> [a] critical moment
+Tiina Elovaara --> said [that] Virtanen climbed into the boot at [a] --> critical moment
+40--> Cluster 7:
+Tiina Elovaara --> said [that] Virtanen climbed into the boot in --> [a] blog
+Tiina Elovaara --> said [that] Virtanen climbed into the boot in [a] --> blog
+
+sent_id:41	“He avoided media attention when the situation was most serious, and the risk of leakage about the parliamentarians’ transition was too big,” Elovaara said.
+41--> Cluster 1:
+Elovaara --> said --> [“] He avoided media attention [”]
+[“] He avoided media attention [”] --> said --> Elovaara
+41--> Cluster 2:
+Elovaara --> said [“] He avoided media attention [“] when [“] --> [“] the situation was most serious [“]
+41--> Cluster 3:
+Elovaara --> said [“] He avoided media attention [“] when [“] --> [“] [the] risk of leakage about [the] parliamentarians ’ transition was too big [“]
+Elovaara --> said [“] He avoided media attention [“] when [“] --> [“] [the] risk of leakage about [the] parliamentarian [s] [’] transition was too big [“]
+Elovaara --> said [“] He avoided media attention [“] when [“] --> [“] [the] risk of leakage about [the] parliamentarian [’] transition was too big [“]
+Elovaara --> said [“] He avoided media attention [“] when [“] --> [“] [the] risk of leakage about [the] parliamentarian [s’] transition was too big [“]
+
+sent_id:42	LONDON(Reuters) - After a year of relatively healthy global economic growth, economists are predicting pretty much the same for 2018 -- a neither too-hot nor too-cold Goldilocks scenario, but with little sight of the three bears.
+42--> Cluster 1:
+economists --> [are] predicting --> [a] neither too [-] hot nor too [-] cold Goldilocks scenario
+economists --> [are] predicting --> [a] neither too-hot nor too-cold Goldilocks scenario
+economists --> [are] predicting --> [a] Goldilocks scenario
+42--> Cluster 2:
+economists --> [are] predicting --> little sight of the three bears
+42--> Cluster 3:
+a year --> was of --> [relatively] healthy global economic growth
+2017 --> was of --> [relatively] healthy global economic growth
+42--> Cluster 4:
+economists --> [are] predicting --> [relatively] healthy global economic growth
+42--> Cluster 5:
+economists --> are predicting [relatively] healthy global economic growth for --> 2018
+economists --> are predicting [relatively] healthy global economic growth in --> 2018
+42--> Cluster 6:
+economists --> [are] predicting a neither too [-] hot nor too [-] cold Goldilocks scenario in --> 2018
+economists --> [are] predicting a neither too-hot nor too-cold Goldilocks scenario in --> 2018
+economists --> [are] predicting a neither too [-] hot nor too [-] cold Goldilocks scenario for --> 2018
+economists --> [are] predicting a neither too-hot nor too-cold Goldilocks scenario for --> 2018
+42--> Cluster 7:
+economists --> [are] predicting little sight of the three bears in --> 2018
+economists --> [are] predicting little sight of the three bears for --> 2018
+42--> Cluster 8:
+[relatively] healthy global economic growth --> is pretty much the same [as] --> a neither too [-] hot nor too [-] cold Goldilocks scenario
+[relatively] healthy global economic growth --> is pretty much the same [as] --> a neither too-hot nor too-cold Goldilocks scenario
+[relatively] healthy global economic growth --> is pretty much the same [as] --> a Goldilocks scenario
+[relatively] healthy global economic growth --> is --> a neither too [-] hot nor too [-] cold Goldilocks scenario
+[relatively] healthy global economic growth --> is --> a neither too-hot nor too-cold Goldilocks scenario
+[relatively] healthy global economic growth --> is --> a Goldilocks scenario
+[relatively] healthy global economic growth --> is the same [as] --> a neither too [-] hot nor too [-] cold Goldilocks scenario
+[relatively] healthy global economic growth --> is the same [as] --> a neither too-hot nor too-cold Goldilocks scenario
+[relatively] healthy global economic growth --> is the same [as] --> a Goldilocks scenario
+[relatively] healthy global economic growth --> is equal [to] --> a neither too [-] hot nor too [-] cold Goldilocks scenario
+[relatively] healthy global economic growth --> is equal [to] --> a neither too-hot nor too-cold Goldilocks scenario
+[relatively] healthy global economic growth --> is equal [to] --> a Goldilocks scenario
+
+sent_id:43	The idea is that all is pretty much on track for growth that will be stronger than in 2017.
+43--> Cluster 1:
+[The] idea --> is [that] --> all is pretty much on track
+[The] idea --> is --> [that] all is pretty much on track
+[The] idea --> is [that] --> all is on track
+[The] idea --> is --> [that] all is on track
+43--> Cluster 2:
+[The] idea --> is [that] all is pretty much on track for --> [stronger] growth
+[The] idea --> is [that] all is pretty much on track for --> [strong] growth
+[The] idea --> is [that] all is on track for --> [stronger] growth
+[The] idea --> is [that] all is on track for --> [strong] growth
+[The] idea --> is [that] --> all is pretty much on track for [stronger] growth
+[The] idea --> is --> [that] all is pretty much on track for [strong] growth
+[The] idea --> is [that] --> all is on track for [stronger] growth
+[The] idea --> is --> [that] all is on track for [strong] growth
+43--> Cluster 3:
+[The] idea --> is [that] all is pretty much on track for growth that will be --> stronger than [in] 2017
+[The] idea --> is [that] all is on track for growth that will be --> stronger than [in] 2017
+[The] idea --> is [that] all is pretty much on track for growth that is --> stronger than [in] 2017
+[The] idea --> is [that] all is on track for growth that is --> stronger than [in] 2017
+[The] idea --> is [that] growth [that] will be --> stronger than [in] 2017
+
+sent_id:44	Part of this may come from the fact that forecasters generally got it wrong last year, underclubbing this year’s economic performance, particularly for the euro zone and Japan.
+44--> Cluster 1:
+Part of this --> [may] come from --> [the] fact that forecasters [generally] got it wrong last year
+Part of this --> comes from --> [the] fact that forecasters [generally] got it wrong last year
+Part of this --> [may] come from --> forecasters [generally] got it wrong last year
+Part of this --> comes from --> forecasters [generally] got it wrong last year
+Part of this --> [may] come from --> forecasters [generally] getting it wrong last year
+Part of this --> comes from --> forecasters [generally] getting it wrong last year
+44--> Cluster 2:
+Part of this --> [may] come from --> [the] fact that forecasters underclubbing this year [’s] economic performance
+Part of this --> [may] come from --> forecasters underclubbing this year [’s] economic performance
+Part of this --> [may] come from --> [the] fact that forecasters underclubbed this year [’s] economic performance
+Part of this --> [may] come from --> forecasters underclubbed this year [’s] economic performance
+Part of this --> comes from --> [the] fact that forecasters underclubbing this year [’s] economic performance
+Part of this --> comes from --> forecasters underclubbing this year [’s] economic performance
+Part of this --> comes from --> [the] fact that forecasters underclubbed this year [’s] economic performance
+Part of this --> comes from --> forecasters underclubbed this year [’s] economic performance
+Part of this --> [may] come from --> [the] fact that forecasters [were] underestimating this year [’s] economic performance
+Part of this --> [may] come from --> forecasters [were] underestimating this year [’s] economic performance
+Part of this --> [may] come from --> [the] fact that forecasters underestimated this year [’s] economic performance
+Part of this --> [may] come from --> forecasters underestimated this year [’s] economic performance
+Part of this --> comes from --> [the] fact that forecasters [were] underestimating this year [’s] economic performance
+Part of this --> comes from --> forecasters [were] underestimating this year [’s] economic performance
+Part of this --> comes from --> [the] fact that forecasters underestimated this year [’s] economic performance
+Part of this --> comes from --> forecasters underestimated this year [’s] economic performance
+44--> Cluster 3:
+Part of this --> [may] come from --> [the] fact that forecasters underclubbing this year [’s] economic performance particularly [for] [the] euro zone
+Part of this --> [may] come from --> [the] fact that forecasters underclubbed this year [’s] economic performance particularly [for] [the] euro zone
+Part of this --> [may] come from --> [the] fact that forecasters underclubbing this year [’s] economic performance [particularly] for [the] euro zone
+Part of this --> [may] come from --> [the] fact that forecasters underclubbed this year [’s] economic performance [particularly] for [the] euro zone
+Part of this --> [may] come from --> forecasters [were] underestimating this year [’s] economic performance particularly [for] [the] euro zone
+Part of this --> [may] come from --> forecasters underestimated this year [’s] economic performance particularly [for] [the] euro zone
+Part of this --> [may] come from --> forecasters [were] underestimating this year [’s] economic performance [particularly] for [the] euro zone
+Part of this --> [may] come from --> forecasters underestimated this year [’s] economic performance [particularly] for [the] euro zone
+Part of this --> [may] come from --> forecasters underclubbing this year [’s] economic performance particularly [for] [the] euro zone
+Part of this --> [may] come from --> forecasters underclubbed this year [’s] economic performance particularly [for] [the] euro zone
+Part of this --> [may] come from --> forecasters underclubbing this year [’s] economic performance [particularly] for [the] euro zone
+Part of this --> [may] come from --> forecasters underclubbed this year [’s] economic performance [particularly] for [the] euro zone
+Part of this --> [may] come from --> [the] fact that forecasters [were] underestimating this year [’s] economic performance particularly [for] [the] euro zone
+Part of this --> [may] come from --> [the] fact that forecasters underestimated this year [’s] economic performance particularly [for] [the] euro zone
+Part of this --> [may] come from --> [the] fact that forecasters [were] underestimating this year [’s] economic performance [particularly] for [the] euro zone
+Part of this --> [may] come from --> [the] fact that forecasters underestimated this year [’s] economic performance [particularly] for [the] euro zone
+44--> Cluster 4:
+Part of this --> [may] come from --> [the] fact that forecasters underclubbing this year [’s] economic performance particularly [for] Japan
+Part of this --> [may] come from --> [the] fact that forecasters underclubbed this year [’s] economic performance particularly [for] Japan
+Part of this --> [may] come from --> [the] fact that forecasters underclubbing this year [’s] economic performance [particularly] for Japan
+Part of this --> [may] come from --> [the] fact that forecasters underclubbed this year [’s] economic performance [particularly] for Japan
+Part of this --> [may] come from --> forecasters [were] underestimating this year [’s] economic performance particularly [for] Japan
+Part of this --> [may] come from --> forecasters underestimated this year [’s] economic performance particularly [for] Japan
+Part of this --> [may] come from --> forecasters [were] underestimating this year [’s] economic performance [particularly] for Japan
+Part of this --> [may] come from --> forecasters underestimated this year [’s] economic performance [particularly] for Japan
+Part of this --> [may] come from --> forecasters underclubbing this year [’s] economic performance particularly [for] Japan
+Part of this --> [may] come from --> forecasters underclubbed this year [’s] economic performance particularly [for] Japan
+Part of this --> [may] come from --> forecasters underclubbing this year [’s] economic performance [particularly] for Japan
+Part of this --> [may] come from --> forecasters underclubbed this year [’s] economic performance [particularly] for Japan
+Part of this --> [may] come from --> [the] fact that forecasters [were] underestimating this year [’s] economic performance particularly [for] Japan
+Part of this --> [may] come from --> [the] fact that forecasters underestimated this year [’s] economic performance particularly [for] Japan
+Part of this --> [may] come from --> [the] fact that forecasters [were] underestimating this year [’s] economic performance [particularly] for Japan
+Part of this --> [may] come from --> [the] fact that forecasters underestimated this year [’s] economic performance [particularly] for Japan
+44--> Cluster 5:
+forecasters --> [generally] got it wrong --> last year
+forecasters --> got it [generally] wrong --> last year
+forecasters --> got it wrong [generally] --> last year
+44--> Cluster 6:
+forecasters --> [be] underclubbing --> this year [’s] economic performance
+forecasters --> [were] underestimating --> this year [’s] economic performance
+forecasters --> understimated --> this year [’s] economic performance
+forecasters --> [generally] got it wrong underclubbing --> this year [’s] economic performance
+forecasters --> [generally] got it wrong by underestimating --> this year [’s] economic performance
+forecasters --> [generally] got it wrong having understimated --> this year [’s] economic performance
+44--> Cluster 7:
+forecasters --> underclubbing this year [’s] economic performance [particularly] for --> [the] euro zone
+forecasters --> underclubbing this year [’s] economic performance particularly [for] --> [the] euro zone
+forecasters --> [were] underestimating this year [’s] economic performance [particularly] for --> [the] euro zone
+forecasters --> [were] underestimating this year [’s] economic performance particularly [for] --> [the] euro zone
+forecasters --> understimated this year [’s] economic performance [particularly] for --> [the] euro zone
+forecasters --> understimated this year [’s] economic performance particularly [for] --> [the] euro zone
+forecasters --> [generally] got it wrong underclubbing this year [’s] economic performance [particularly] for --> [the] euro zone
+forecasters --> [generally] got it wrong underclubbing this year [’s] economic performance particularly [for] --> [the] euro zone
+44--> Cluster 8:
+forecasters --> underclubbing this year [’s] economic performance [particularly] for --> Japan
+forecasters --> underclubbing this year [’s] economic performance particularly [for] --> Japan
+forecasters --> [were] underestimating this year [’s] economic performance [particularly] for --> Japan
+forecasters --> [were] underestimating this year [’s] economic performance particularly [for] --> Japan
+forecasters --> understimated this year [’s] economic performance [particularly] for --> Japan
+forecasters --> understimated this year [’s] economic performance particularly [for] --> Japan
+
+sent_id:45	The International Monetary Fund, for example, saw 2017 global growth at 3.4 percent with advanced economies advancing 1.8 percent.
+45--> Cluster 1:
+[The] International Monetary Fund --> saw 2017 global growth at --> 3.4 percent
+[The] International Monetary Fund --> saw global growth of 2017 at --> 3.4 percent
+[The] International Monetary Fund --> saw global growth in 2017 at --> 3.4 percent
+[The] International Monetary Fund --> saw --> 2017 global growth at 3.4 percent
+[The] International Monetary Fund --> saw --> global growth of 2017 at 3.4 percent
+[The] International Monetary Fund --> saw --> global growth in 2017 at 3.4 percent
+45--> Cluster 2:
+[The] International Monetary Fund --> saw 2017 advanced economies advancing --> 1.8 percent
+[The] International Monetary Fund --> saw advanced economies of 2017 advancing --> 1.8 percent
+[The] International Monetary Fund --> saw advanced economies in 2017 advancing --> 1.8 percent
+
+sent_id:46	It now reckons them at 3.6 percent and 2.2 percent.
+46--> Cluster 1:
+It --> [now] reckons them at --> 3.6 percent
+46--> Cluster 2:
+It --> [now] reckons them at --> 2.2 percent
+
+sent_id:47	It had the euro zone and Japan growing 1.5 percent and 0.6 percent, respectively.
+47--> Cluster 1:
+It --> had [the] euro zone growing --> 1.5 percent
+It --> had --> [the] euro zone growing 1.5 percent
+47--> Cluster 2:
+It --> had Japan growing --> 0.6 percent
+It --> had --> Japan growing 0.6 percent
+
+sent_id:48	It now has them at 2.1 percent and 1.5 percent.
+48--> Cluster 1:
+It --> [now] has them at --> 2.1 percent
+48--> Cluster 2:
+It --> [now] has them at --> 1.5 percent
+
+sent_id:49	“Faster growth is reaching roughly two-thirds of the world’s population,” the IMF said in a December blog post.
+49--> Cluster 1:
+the IMF --> said --> [“] Faster growth is reaching [roughly] two-thirds of [the] world [’s] population [”]
+49--> Cluster 2:
+[the] IMF --> said [“] Faster growth is reaching [roughly] two-thirds of [the] world [’s] population [”] in --> December
+49--> Cluster 3:
+[the] IMF --> said [“] Faster growth is reaching [roughly] two-thirds of the world [’s] population [”] in --> [a] blog [post]
+
+sent_id:50	This performance has made some economists optimistic.
+50--> Cluster 1:
+This performance --> [has] made [some] economists --> optimistic
+
+sent_id:51	Nomura is among the more bullish: “Global growth has far more self-reinforcing characteristics at present than at any time over the last 20-30 years.”
+51--> Cluster 1:
+Nomura --> is among --> the [more] bullish
+Nomura --> is --> among the [more] bullish
+Nomura --> is --> bullish
+51--> Cluster 2:
+Nomura --> said --> [“] Global growth has [far] more self-reinforcing characteristics [at] present than [at] any time over [the] last 20 [-] 30 years. [”]
+Nomura --> said --> [“] Global growth has [far] more self-reinforcing characteristics [at] present than [at] any time over [the] last 20 [-] 30 years [.] [”]
+Nomura --> said --> [“] Global growth has [far] more self-reinforcing characteristics [at] present than [at] any time over [the] last 20-30 years. [”]
+Nomura --> said --> [“] Global growth has [far] more self-reinforcing characteristics [at] present than [at] any time over [the] last 20-30 years [.] [”]
+Nomura --> says --> [“] Global growth has [far] more self-reinforcing characteristics [at] present than [at] any time over [the] last 20 [-] 30 years. [”]
+Nomura --> says --> [“] Global growth has [far] more self-reinforcing characteristics [at] present than [at] any time over [the] last 20 [-] 30 years [.] [”]
+Nomura --> says --> [“] Global growth has [far] more self-reinforcing characteristics [at] present than [at] any time over [the] last 20-30 years. [”]
+Nomura --> says --> [“] Global growth has [far] more self-reinforcing characteristics [at] present than [at] any time over [the] last 20-30 years [.] [”]
+
+sent_id:52	But Goldilock’s bears do have a habit of showing up.
+52--> Cluster 1:
+Goldilock [’s] bears --> [do] have [a] habit of --> showing up
+Goldilock [’s] bears --> [do] have --> [a] habit of showing up
+
+sent_id:53	There are huge numbers of potential political and economic risks to the status quo.
+53--> Cluster 1:
+[huge] numbers of [potential] political risks --> [There] are to --> [the] status quo
+[huge] numbers of [potential] political risks --> are [related] to --> [the] status quo
+[huge] numbers of [potential] political risks --> threaten --> [the] status quo
+[the] status quo --> has [a] --> [huge] numbers of [potential] political risks
+[the] status quo --> [is] threntened by --> [huge] numbers of [potential] political risks
+[the] status quo --> has [a] --> [potential] political risks
+[the] status quo --> [is] threntened by --> [potential] political risks
+53--> Cluster 2:
+[huge] numbers of [potential] economic risks --> [There] are to --> [the] status quo
+[huge] numbers of [potential] economic risks --> are [related] to --> [the] status quo
+[huge] numbers of [potential] economic risks --> threaten --> [the] status quo
+[the] status quo --> has [a] --> [huge] numbers of [potential] economic risks
+[the] status quo --> [is] threntened by --> [huge] numbers of [potential] economic risks
+[the] status quo --> has [a] --> [potential] economic risks
+[the] status quo --> [is] threntened by --> [potential] economic risks
+53--> Cluster 3:
+[huge] numbers of [potential] risks --> are [related] to --> [the] status quo
+[huge] numbers of [potential] risks --> threaten --> [the] status quo
+[the] status quo --> has [a] --> [huge] numbers of [potential] risks
+[the] status quo --> [is] threntened by --> [huge] numbers of [potential] risks
+[the] status quo --> has [a] --> risks
+[the] status quo --> [is] threntened by --> risks
+
+sent_id:54	But as in the fairy tale, let’s go with just three: central banks, trade, and bubbles.
+54--> Cluster 1:
+[the] fairy tale --> go with --> [just] three
+[the] fairy tale --> goes with --> [just] three
+
+sent_id:55	In the first case, the danger is that there will be a policy mistake, squeezing debtors.
+55--> Cluster 1:
+In [the] first case --> [the] danger is [that] --> there will be [a] policy mistake
+In [the] first case --> [the] danger is --> [that] there will be [a] policy mistake
+In [the] first case --> [the] danger is --> [a] policy mistake
+In [the] first case --> [the] danger is [a] --> policy mistake
+55--> Cluster 2:
+[the] danger is that [a] policy mistake --> [be] squeezing --> debtors
+[the] danger is that [a] policy mistake --> will squeeze --> debtors
+
+sent_id:56	The second relates to renewed U.S. protectionism or anger over Chinese exports triggering tit-for-tat, growth-stifling trade barriers.
+56--> Cluster 1:
+The second --> relates to --> renewed U.S. protectionism
+56--> Cluster 2:
+The second --> relates to --> anger over Chinese exports
+56--> Cluster 3:
+The second --> relates to --> anger over Chinese exports triggering [tit-for-tat] [,] [growth-stifling] trade barriers
+The second --> relates to --> anger over Chinese exports triggering tit [-] for [-] tat [,] growth [-] stifling trade barriers
+The second --> relates to --> anger over Chinese exports triggering tit [-] for [-] tat [,] [growth-stifling] trade barriers
+The second --> relates to --> anger over Chinese exports triggering [tit-for-tat] [,] growth [-] stifling trade barriers
+56--> Cluster 4:
+The second --> relates to --> renewed U.S. protectionism triggering [tit-for-tat] [,] [growth-stifling] trade barriers
+The second --> relates to --> renewed U.S. protectionism triggering tit [-] for [-] tat [,] growth [-] stifling trade barriers
+The second --> relates to --> renewed U.S. protectionism triggering tit [-] for [-] tat [,] [growth-stifling] trade barriers
+The second --> relates to --> renewed U.S. protectionism triggering [tit-for-tat] [,] growth [-] stifling trade barriers
+56--> Cluster 5:
+renewed U.S. protectionism --> triggering --> [tit-for-tat] [,] [growth-stifling] trade barriers
+renewed U.S. protectionism --> triggering --> tit [-] for [-] tat [,] growth [-] stifling trade barriers
+renewed U.S. protectionism --> triggering --> tit [-] for [-] tat [,] [growth-stifling] trade barriers
+renewed U.S. protectionism --> triggering --> [tit-for-tat] [,] growth [-] stifling trade barriers
+renewed U.S. protectionism --> [could] trigger --> [tit-for-tat] [,] [growth-stifling] trade barriers
+renewed U.S. protectionism --> [could] trigger --> tit [-] for [-] tat [,] growth [-] stifling trade barriers
+renewed U.S. protectionism --> [could] trigger --> tit [-] for [-] tat [,] [growth-stifling] trade barriers
+renewed U.S. protectionism --> [could] trigger --> [tit-for-tat] [,] growth [-] stifling trade barriers
+56--> Cluster 6:
+anger over Chinese exports --> triggering --> [tit-for-tat] [,] [growth-stifling] trade barriers
+anger over Chinese exports --> triggering --> tit [-] for [-] tat [,] growth [-] stifling trade barriers
+anger over Chinese exports --> triggering --> tit [-] for [-] tat [,] [growth-stifling] trade barriers
+anger over Chinese exports --> triggering --> [tit-for-tat] [,] growth [-] stifling trade barriers
+anger over Chinese exports --> [could] trigger --> [tit-for-tat] [,] [growth-stifling] trade barriers
+anger over Chinese exports --> [could] trigger --> tit [-] for [-] tat [,] growth [-] stifling trade barriers
+anger over Chinese exports --> [could] trigger --> tit [-] for [-] tat [,] [growth-stifling] trade barriers
+anger over Chinese exports --> [could] trigger --> [tit-for-tat] [,] growth [-] stifling trade barriers
+
+sent_id:57	The third is about sudden market losses that dry up spending and demand.
+57--> Cluster 1:
+The third --> is about --> sudden market losses
+The third --> is --> about sudden market losses
+57--> Cluster 2:
+The third --> is about [sudden] market losses that --> dry up spending
+The third --> is about [sudden] market losses that dry up --> spending
+[sudden] market losses --> dry up --> spending
+57--> Cluster 3:
+The third --> is about [sudden] market losses that --> dry up demand
+The third --> is about [sudden] market losses that dry up --> demand
+[sudden] market losses --> dry up --> demand

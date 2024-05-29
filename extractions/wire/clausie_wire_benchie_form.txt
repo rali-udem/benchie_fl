@@ -1,0 +1,318 @@
+1	Chilly Gonzales born Jason Charles Beck 20 March 1972	is	a Grammy-winning Canadian musician
+1	a Grammy-winning Canadian musician	resided	in Paris France for several years
+1	a Grammy-winning Canadian musician	lives	in Cologne Germany now
+1	a Grammy-winning Canadian musician	lives	in Cologne Germany
+2	his	has	albums of classical piano compositions
+2	his	has	MC
+2	he	is	a producer Known for his albums of classical piano compositions with a pop music sensibility
+2	he	is	a producer Known for his albums of classical piano compositions with Solo Piano I
+2	he	is	a producer Known for his albums of classical piano compositions with Solo Piano II
+2	he	is	a producer Known for his albums of classical piano compositions with his MC
+2	he	is	a producer Known for his albums of classical piano compositions with electro albums
+2	he	is	a songwriter Known for his albums of classical piano compositions with a pop music sensibility
+2	he	is	a songwriter Known for his albums of classical piano compositions with Solo Piano I
+2	he	is	a songwriter Known for his albums of classical piano compositions with Solo Piano II
+2	he	is	a songwriter Known for his albums of classical piano compositions with his MC
+2	he	is	a songwriter Known for his albums of classical piano compositions with electro albums
+2	he	is	a producer also
+2	he	is	a songwriter also
+2	he	is	a producer
+2	he	is	a songwriter
+2	also a producer	be Known	for his albums of classical piano compositions with a pop music sensibility
+2	also a producer	be Known	for his albums of classical piano compositions with Solo Piano I
+2	also a producer	be Known	for his albums of classical piano compositions with Solo Piano II
+2	also a producer	be Known	for his albums of classical piano compositions with his MC
+2	also a producer	be Known	for his albums of classical piano compositions with electro albums
+2	also a songwriter	be Known	for his albums of classical piano compositions with a pop music sensibility
+2	also a songwriter	be Known	for his albums of classical piano compositions with Solo Piano I
+2	also a songwriter	be Known	for his albums of classical piano compositions with Solo Piano II
+2	also a songwriter	be Known	for his albums of classical piano compositions with his MC
+2	also a songwriter	be Known	for his albums of classical piano compositions with electro albums
+2	also a producer	be Known	for his albums of classical piano compositions
+2	also a songwriter	be Known	for his albums of classical piano compositions
+3	Gonzales	broadcasts	a web series Pop Music Masterclass on WDR
+3	Gonzales	broadcasts	the documentary Classical Connections on BBC Radio 1
+3	Gonzales	broadcasts	The History of Music on Arte
+3	Gonzales	broadcasts	Music 's Cool with Chilly Gonzales on Apple Music 's Beats1 radio show
+3	Music	has	Cool with Chilly Gonzales on Apple Music 's Beats1 radio show
+3	Apple Music	has	Beats1 radio show
+4	He	has written	several newspaper in The Guardian
+4	He	has written	several newspaper in Vice
+4	He	has written	several newspaper in Billboard
+4	He	has written	several newspaper in others
+4	He	has written	magazine opinion pieces in The Guardian
+4	He	has written	magazine opinion pieces in Vice
+4	He	has written	magazine opinion pieces in Billboard
+4	He	has written	magazine opinion pieces in others
+4	He	has written	several newspaper
+4	He	has written	magazine opinion pieces
+5	He	is	the younger brother of the prolific film composer Christophe Beck
+5	He	is	the younger brother
+6	Gonzales	was born	on 20 March 1972
+6	Gonzales	was born	on 20
+7	His	has	parents
+7	His parents	are	Ashkenazi Jews
+7	Ashkenazi Jews	had	to flee from Hungary during World War II
+7	Ashkenazi Jews	had	to flee from Hungary
+8	Gonzales	began	teaching himself piano at age three when his older brother Chris began taking lessons
+8	Gonzales	began	teaching himself piano at age three
+8	himself	piano	at age three
+8	his	has	older brother Chris
+8	his older brother Chris	began	taking lessons when
+8	his older brother Chris	began	taking lessons
+9	Gonzales	graduated	from Crescent School in Toronto
+9	Gonzales	graduated	from Crescent School
+9	Toronto	is	Ontario Canada
+10	He	was	trained classically
+10	He	was	trained as a pianist
+10	He	was	trained at McGill University
+10	He	was	trained as a jazz virtuoso
+10	He	was	trained
+10	he	began	both his composing career McGill University where
+10	he	began	co-authoring several musicals with his brother McGill University where
+10	he	began	his performing career McGill University where
+10	he	began	both his composing career McGill University
+10	he	began	co-authoring several musicals with his brother McGill University
+10	he	began	his performing career McGill University
+10	his	has	composing career
+10	his	has	brother
+10	his	has	performing career
+11	ʊ kio ʊ \/ to ː k ʲ o ː	is	Japanese
+11	Tokyo \/ ˈ to ʊ kio ʊ \/ to ː k ʲ o ː officially Tokyo Metropolis	is	the capital city of Japan
+11	Tokyo \/ ˈ to ʊ kio ʊ \/ to ː k ʲ o ː officially Tokyo Metropolis	is	one of its 47 prefectures of Japan
+11	Tokyo \/ ˈ to ʊ kio ʊ \/ to ː k ʲ o ː officially Tokyo Metropolis	is	the capital city
+11	Tokyo \/ ˈ to ʊ kio ʊ \/ to ː k ʲ o ː officially Tokyo Metropolis	is	one of its 47 prefectures
+11	its	has	47 prefectures
+12	The Greater Tokyo Area	is	the most populous metropolitan area in the world
+12	The Greater Tokyo Area	is	the most populous metropolitan area
+13	It	is	the seat of the Emperor of Japan
+13	It	is	the seat of the Emperor of the Japanese government
+13	It	is	the seat
+14	Tokyo	is	in the Kant ō region on the southeastern side of the main island Honshu
+14	Tokyo	includes	the Izu Islands
+14	Tokyo	includes	Ogasawara Islands
+15	has the de facto seat of government since 1603 when Shogun Tokugawa Ieyasu made the city his headquarters	be known	Formerly as Edo
+15	has the de facto seat of government since 1603 when Shogun Tokugawa Ieyasu made the city his headquarters	be known	Formerly
+15	it	has been	the de facto seat Formerly known as Edo
+15	it	has been	the de facto seat of government since 1603
+15	it	has been	the de facto seat when Shogun Tokugawa Ieyasu made the city his headquarters
+15	it	has been	the de facto seat
+15	Shogun Tokugawa Ieyasu	made	the city his headquarters when
+15	Shogun Tokugawa Ieyasu	made	the city his headquarters
+15	his	has	headquarters
+16	It	became	the capital after Emperor Meiji moved his seat to the city from the old capital of Kyoto in 1868 officially
+16	It	became	the capital after Emperor Meiji moved his seat to the city from the old capital of Kyoto in 1868
+16	Emperor Meiji	moved	his seat to the city from the old capital of Kyoto
+16	Emperor Meiji	moved	his seat in 1868
+16	Emperor Meiji	moved	his seat
+16	his	has	seat
+16	Edo	at that time was renamed	Tokyo
+17	Tokyo Metropolis	was formed	in 1943 from the merger of the former Tokyo Prefecture 東 京 府 T ō ky ō fu
+17	Tokyo Metropolis	was formed	in 1943 from the city of Tokyo 東 京 市 T ō ky ō shi
+17	Tokyo Metropolis	was formed	in 1943
+18	Tokyo	is referred	to as a city often
+18	Tokyo	is referred	to as a city
+18	Tokyo	is known	as a metropolitan prefecture officially
+18	Tokyo	is governed	as a metropolitan prefecture officially
+18	Tokyo	is known	as a metropolitan prefecture
+18	Tokyo	is governed	as a metropolitan prefecture
+18	a metropolitan prefecture	differs	from elements of a city
+18	a metropolitan prefecture	differs	from elements of a prefecture
+18	a metropolitan prefecture	differs	elements of a city
+18	a metropolitan prefecture	differs	elements of a prefecture
+18	a metropolitan prefecture	combines	elements of a city
+18	a metropolitan prefecture	combines	elements of a prefecture
+18	a characteristic	unique	to Tokyo
+19	The Tokyo metropolitan government	administers	the 23 Special Wards of Tokyo each governed as an individual city
+19	each	be governed	as an individual city
+19	the 23 Special Wards of Tokyo each governed as an individual city	cover	the area
+19	the area	was	the City of Tokyo
+19	the area	was	the City before it merged
+19	the area	was	the City before it became the metropolitan prefecture in 1943
+19	the area	was	the City
+19	it	became	the metropolitan prefecture in 1943
+19	it	became	the metropolitan prefecture
+20	The metropolitan government	administers	39 municipalities in the western part of the prefecture also
+20	The metropolitan government	administers	39 municipalities in the western part of the two outlying island chains also
+20	The metropolitan government	administers	39 municipalities in the western part of the prefecture
+20	The metropolitan government	administers	39 municipalities in the western part of the two outlying island chains
+21	The population of the special wards	is	over 9 million people with the total population of the prefecture exceeding 13 million
+21	The population of the special wards	is	over 9 million people
+21	the prefecture	be exceeding	13 million
+22	The prefecture	is	part of the world 's most populous metropolitan area
+22	The prefecture	is	part with upwards of 37.8 million people
+22	The prefecture	is	part with upwards of the world 's largest urban agglomeration economy
+22	The prefecture	is	part
+22	the world	has	most populous metropolitan area
+22	the world	has	largest urban agglomeration economy
+23	the city	hosted	51 of the Fortune Global 500 companies In 2011
+23	the city	hosted	51 of the Fortune Global 500 companies at that time
+23	the city	hosted	51 of the Fortune Global 500 companies
+23	the Fortune Global 500 companies	is	the highest number of any city in the world
+24	Tokyo	ranked	third twice in the International Financial Centres Development IndexEdit
+24	Tokyo	ranked	third twice
+25	The city	is	home also
+25	The city	is	home to various television networks such as Fuji TV
+25	The city	is	home to various television networks such as Tokyo MX
+25	The city	is	home to various television networks such as TV Tokyo
+25	The city	is	home to various television networks such as TV Asahi
+25	The city	is	home to various television networks such as Nippon Television
+25	The city	is	home to various television networks such as NHK
+25	The city	is	home to various television networks such as the Tokyo Broadcasting System
+25	The city	is	home
+26	statistics EM algorithm	is	an expectation maximization
+26	a posteriori MAP estimates of parameters in statistical models	is	an iterative method to find maximum likelihood In statistics EM algorithm
+26	a posteriori MAP estimates of parameters in statistical models	is	an iterative method to find maximum maximum In statistics EM algorithm
+26	a posteriori MAP estimates of parameters in statistical models	is	an iterative method to find maximum likelihood
+26	a posteriori MAP estimates of parameters in statistical models	is	an iterative method to find maximum maximum
+26	the model	depends	statistical models where
+26	the model	depends	on unobserved latent variables statistical models
+26	the model	depends	statistical models
+27	The EM iteration	alternates	between performing an expectation step
+27	The EM iteration	alternates	between performing a maximization step
+27	an expectation step	is	E
+27	a maximization step	is	E
+27	an expectation step	creates	a function for the expectation of the log-likelihood evaluated using the current estimate for the parameters
+27	a maximization step	creates	a function for the expectation of the log-likelihood evaluated using the current estimate for the parameters
+27	the log-likelihood	be evaluated	using the current estimate for the parameters
+27	the log-likelihood	be evaluated	using the current estimate
+27	a maximization step	is	M
+27	a maximization step	computes	parameters maximizing the expected log-likelihood found on the E step
+27	parameters	be maximizing	the expected log-likelihood found on the E step
+27	the expected log-likelihood	be found	on the E step
+28	These parameter-estimates	are used	to determine the distribution of the latent variables in the next E step
+28	These parameter-estimates	are used	to determine the distribution of the latent variables
+29	The EM algorithm	was explained	its name in a classic 1977 paper by Arthur Dempster
+29	The EM algorithm	was explained	its name in a classic 1977 paper by Nan Laird
+29	The EM algorithm	was explained	its name in a classic 1977 paper by Donald Rubin
+29	The EM algorithm	was explained	its name in a classic 1977 paper
+29	The EM algorithm	was given	its name in a classic 1977 paper by Arthur Dempster
+29	The EM algorithm	was given	its name in a classic 1977 paper by Nan Laird
+29	The EM algorithm	was given	its name in a classic 1977 paper by Donald Rubin
+29	The EM algorithm	was given	its name in a classic 1977 paper
+29	its	has	name in a classic 1977 paper
+30	They	pointed out	that the method had been proposed many times in special circumstances by earlier authors
+30	the method	had been proposed	many times in special circumstances
+30	the method	had been proposed	many times by earlier authors
+30	the method	had been proposed	many times
+31	A very detailed treatment of the EM method for exponential families	was published	by Rolf Sundberg in his thesis
+31	A very detailed treatment of the EM method for exponential families	was published	by several papers following his collaboration with Per Martin-L f
+31	A very detailed treatment of the EM method for exponential families	was published	by several papers following his collaboration with Anders Martin-L f.
+31	his	has	thesis
+31	his	has	collaboration with Per Martin-L f
+31	his	has	collaboration with Anders Martin-L f.
+32	The Dempster Laird Rubin paper in 1977	generalized	the method
+32	The Dempster Laird Rubin paper in 1977	sketched	a convergence analysis for a wider class of problems
+32	The Dempster Laird Rubin paper in 1977	sketched	a convergence analysis
+33	the innovative Dempster Laird Rubin paper in the Journal of the Royal Statistical Society	received	an enthusiastic discussion Regardless of earlier inventions
+33	the innovative Dempster Laird Rubin paper in the Journal of the Royal Statistical Society	received	an enthusiastic discussion at the Royal Statistical Society meeting
+33	the innovative Dempster Laird Rubin paper in the Journal of the Royal Statistical Society	received	an enthusiastic discussion with Sundberg calling the paper brilliant
+33	the innovative Dempster Laird Rubin paper in the Journal of the Royal Statistical Society	received	an enthusiastic discussion
+34	The Dempster Laird Rubin paper	established	the EM method as an important tool of statistical analysis
+34	The Dempster Laird Rubin paper	established	the EM method
+35	HELSINKI Finnish police reprimanded a man for traveling in a car boot to hide his meeting with Prime Minister Juha Sipila during a government crisis last summer saying this was breach of the traffic code	is	Reuters
+35	Finnish police	be reprimanded	a man for traveling in a car boot to hide his meeting with Prime Minister Juha Sipila during a government crisis last summer saying this was breach of the traffic code
+35	his	has	meeting
+35	this	was	breach of the traffic code
+35	this	was	breach
+36	A police statement	did not name	the man in the boot
+36	A police statement	indicated	the traveler in effect
+36	A police statement	indicated	the traveler
+36	State Secretary Samuli Virtanen	is	the deputy also
+36	State Secretary Samuli Virtanen	is	the deputy to Foreign Minister Timo Soini
+36	State Secretary Samuli Virtanen	is	the deputy
+37	The meeting	took	place in June
+37	Virtanen	s	a day after co-ruling Finns
+37	party	had elected	anti-immigration hardliners as its new leaders a day after co-ruling Finns
+37	party	had elected	anti-immigration hardliners a day after co-ruling Finns
+37	its	has	new leaders
+38	The government	was	close to collapse until a group of politicians including Virtanen in the following week walked out of the Finns party
+38	The government	was	close to collapse until a group of politicians including Soini in the following week walked out of the Finns party and announced they would form a new group
+38	The government	was	close to collapse until a group of politicians including Virtanen in the following week announced they would form a new group
+38	a group of politicians including Virtanen in the following week	walked out	of the Finns party
+38	a group of politicians including Soini in the following week	walked out	of the Finns party
+38	a group of politicians including Virtanen in the following week	announced	they would form a new group
+38	a group of politicians including Soini in the following week	announced	they would form a new group
+38	they	would form	a new group
+39	The Finns party	was thrown out	of the government
+39	the new Blue Reform group	kept	its cabinet seat
+39	its	has	cabinet seat
+40	Virtanen	has not commented	on the case
+40	lawmaker Tiina Elovaara from Blue Reform	said	in a blog that Virtanen climbed into the boot to keep the meeting secret at a critical moment
+40	lawmaker Tiina Elovaara from Blue Reform	said	that Virtanen climbed into the boot to keep the meeting secret at a critical moment
+40	Virtanen	climbed	into the boot to keep the meeting secret at a critical moment
+40	Virtanen	climbed	to keep the meeting secret at a critical moment
+41	He	avoided	media attention when the situation was most serious
+41	He	avoided	media attention
+41	the situation	was	serious when
+41	the situation	was	serious most
+41	the situation	was	serious
+41	the risk of leakage about the parliamentarians transition	was	big too
+41	the risk of leakage about the parliamentarians transition	was	big
+41	Elovaara	said	He avoided media attention when the situation was most serious
+41	Elovaara	said	the risk of leakage about the parliamentarians transition was too big
+42	LONDON After a year of relatively healthy global economic growth economists are predicting pretty much the same for 2018 a too-hot Goldilocks scenario	is	Reuters
+42	LONDON After a year of relatively healthy global economic growth economists are predicting pretty much the same for 2018 a too-cold Goldilocks scenario but with little sight of the three bears	is	Reuters
+42	LONDON After a year of relatively healthy global economic growth economists are predicting pretty much with little sight of the three bears	is	Reuters
+42	economists	are predicting	pretty much After a year of relatively healthy global economic growth
+42	economists	are predicting	pretty much the same for 2018 a too-hot Goldilocks scenario
+42	economists	are predicting	pretty much the same for 2018 a too-cold Goldilocks scenario but with little sight of the three bears
+42	economists	are predicting	pretty much with little sight of the three bears
+42	economists	are predicting	pretty much
+43	The idea	is	that all is pretty much on track for growth
+43	all	is	much pretty
+43	all	is	much on track for growth
+43	all	is	much
+43	track for growth	will be	stronger than in 2017
+43	track for growth	will be	stronger
+44	Part of this	may come	from the fact that forecasters generally got it wrong last year underclubbing this year s economic performance particularly for the euro zone
+44	Part of this	may come	from the fact that forecasters generally got it wrong last year underclubbing this year s economic performance particularly for Japan
+44	Part of this	may come	that forecasters generally got it wrong last year underclubbing this year s economic performance particularly for the euro zone
+44	Part of this	may come	that forecasters generally got it wrong last year underclubbing this year s economic performance particularly for Japan
+44	forecasters	be underclubbing	this year s economic performance
+44	forecasters	got	it wrong last year generally
+44	forecasters	got	it wrong last year underclubbing this year s economic performance
+44	forecasters	got	it wrong last year particularly
+44	forecasters	got	it wrong last year for the euro zone
+44	forecasters	got	it wrong last year for Japan
+44	forecasters	got	it wrong last year
+44	this year	s	economic performance
+45	The International Monetary Fund for example	saw	2017 global growth at 3.4 percent
+45	The International Monetary Fund for example	saw	2017 global growth with advanced economies advancing 1.8 percent
+45	The International Monetary Fund for example	saw	2017 global growth
+45	advanced economies	be advancing	1.8 percent
+46	It	reckons	them now
+46	It	reckons	them at 3.6 percent
+46	It	reckons	them at 2.2 percent
+46	It	reckons	them
+47	It	had	the euro zone respectively
+47	It	had	Japan growing 1.5 percent respectively
+47	It	had	Japan growing 0.6 percent respectively
+47	It	had	the euro zone
+47	It	had	Japan growing 1.5 percent
+47	It	had	Japan growing 0.6 percent
+47	Japan	be growing	1.5 percent
+47	Japan	be growing	0.6 percent
+48	It	has	them now
+48	It	has	them at 2.1 percent
+48	It	has	them at 1.5 percent
+48	It	has	them
+49	Faster growth	is reaching	roughly two-thirds of the world s population
+49	the IMF	said	Faster growth is reaching roughly two-thirds of the world s population in a December blog post
+49	the IMF	said	Faster growth is reaching roughly two-thirds of the world s population
+50	This performance	has made	some economists optimistic
+51	Nomura	is	among the more bullish
+51	Global growth	has	far more self-reinforcing characteristics at present than at any time over the last 20-30 years
+51	Global growth	has	far more self-reinforcing characteristics at present
+52	Goldilock s bears	do have	a habit of showing up
+53	huge numbers of potential political	There are	to the status quo
+53	huge numbers of economic risks	There are	to the status quo
+54	s	go	with just three central banks
+54	s	go	with just three trade
+54	s	go	with just three bubbles
+56	The second	relates	to renewed U.S. protectionism
+56	The second	anger over	Chinese exports triggering tit-for-tat growth-stifling trade barriers
+56	Chinese exports	be triggering	tit-for-tat growth-stifling trade barriers
+57	The third	is	about sudden market losses
+57	sudden market losses	dry up	spending
+57	sudden market losses	dry up	demand

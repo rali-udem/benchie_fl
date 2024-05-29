@@ -1,0 +1,244 @@
+1	Chilly Gonzales	is	Grammy-winning Canadian musician
+1	Grammy-winning Canadian musician	resided in Paris for	several years
+1	Grammy-winning Canadian musician	resided in	Paris
+1	Grammy-winning Canadian musician	lives in	Cologne
+1	Paris	is in	France
+1	Cologne	is in	Germany
+2	his	has	albums of classical piano compositions with pop music sensibility
+2	his	has	MC
+2	he	is	producer MC
+2	he	is	producer electro albums
+2	he	is	songwriter MC
+2	he	is	songwriter electro albums
+3	Gonzales	broadcasts web series Pop Music Masterclass on	WDR
+3	web series Pop Music Masterclass on WDR	is	documentary
+3	Apple Music	has	Beats1 radio show
+4	He	has written several newspaper in	Guardian
+4	He	has written	magazine opinion pieces
+4	Guardian	is	Vice
+4	Guardian	is	Billboard
+4	Guardian	is	others
+5	Christophe Beck	is	prolific film composer
+5	He	is younger brother of	Christophe Beck
+5	He	is	younger brother
+6	Gonzales	was born on	20 March 1972
+7	His	has	parents
+7	parents	are	Ashkenazi Jews
+7	Ashkenazi Jews	had to flee from Hungary during	World War II
+7	Ashkenazi Jews	had to flee from	Hungary
+8	Chris	is	older brother
+8	his	has	older brother
+9	Crescent School	is in	Toronto
+9	Gonzales	graduated from Crescent School in	Toronto
+9	Gonzales	graduated from Crescent School in	Ontario
+9	Toronto	is in	Canada
+9	Ontario	is in	Canada
+10	He	was trained co-authoring several musicals with	brother
+10	He	was trained	co-authoring several musicals
+10	He	was trained as pianist at McGill University co-authoring several musicals with	brother
+10	He	was trained as pianist at McGill University	co-authoring several musicals
+10	He	performing career as	jazz virtuoso
+10	he	began composing career	McGill University
+10	his	has	composing career
+10	his	has	brother
+10	his	has performing career as	jazz virtuoso
+11	Japan	is	city
+11	Tokyo	is in	officially Tokyo Metropolis
+11	Tokyo	is capital city of	Japan
+11	Tokyo	is one of its 47 prefectures of	Japan
+11	Tokyo	is	capital city
+11	Tokyo	is one of	its 47 prefectures
+11	its	has	47 prefectures
+12	Greater Tokyo Area	is most populous metropolitan area in	world
+12	Greater Tokyo Area	is	most populous metropolitan area
+13	It	is seat of Emperor of	Japan
+13	It	is Japanese government of Emperor of	Japan
+13	It	is	seat
+13	It	is	Japanese government
+14	Tokyo	is in	Kantō region on southeastern side of main island Honshu
+14	Tokyo	includes	Izu Islands
+14	Tokyo	includes	Ogasawara Islands
+15	has de facto seat of government since 1603	be known as	Edo
+15	has de facto seat of government since 1603	be known	Formerly
+15	it	has been de facto seat known as	Edo
+15	it	has been de facto seat of	government
+15	it	has been de facto seat since	1603
+15	it	has been	de facto seat
+15	Shogun Tokugawa Ieyasu	made city	1603
+15	his	has	headquarters
+16	Meiji	is	Emperor
+16	It	became capital after Meiji moved seat to city from old capital of Kyoto in 1868 at	time
+16	Meiji	moved seat to	city
+16	Meiji	moved seat from old capital of	Kyoto
+16	Meiji	moved seat in	1868
+16	Meiji	moved	seat
+16	his	has	seat
+16	Edo	was renamed	Tokyo time
+17	Tokyo	is	city
+17	Tokyo Metropolis	was formed in 1943 from merger of	former Tokyo Prefecture
+17	Tokyo Metropolis	was formed in 1943 from	merger of city of Tokyo
+17	Tokyo Metropolis	was formed in	1943
+17	former Tokyo Prefecture	is	東京府 Tōkyō-fu
+17	city of Tokyo	is	東京府 Tōkyō-fu
+17	city of Tokyo	is	東京市 Tōkyō-shi
+18	Tokyo	is referred to as	city
+18	Tokyo	is known as	metropolitan prefecture
+18	Tokyo	governed as	metropolitan prefecture
+18	metropolitan prefecture	combines elements of	city
+18	metropolitan prefecture	combines elements of	prefecture
+18	elements of city	is	characteristic unique to Tokyo
+18	elements of prefecture	is	characteristic unique to Tokyo
+19	Tokyo	is	City
+19	Tokyo metropolitan government	administers 23 Special Wards of	Tokyo
+19	23 Special Wards of Tokyo	cover	area
+19	area	was City of	Tokyo
+19	area	was City	became metropolitan prefecture
+19	area	was	City
+19	it	merged in	1943
+19	it	became	metropolitan prefecture
+20	metropolitan government	administers	39 municipalities in western part of prefecture
+21	prefecture	be exceeding	13 million
+22	prefecture	is part of	world 's most populous metropolitan area with upwards of 37.8 million people
+22	prefecture	is part of	world 's most populous metropolitan area with upwards of world 's largest urban agglomeration economy
+22	prefecture	is	part
+22	world	has	most populous metropolitan area with upwards of 37.8 million people
+22	world	has	most populous metropolitan area with upwards of world 's largest urban agglomeration economy
+22	world	has	largest urban agglomeration economy
+23	city	hosted 51 of Fortune In	2011
+23	city	hosted 51 of Fortune at	time
+23	city	hosted 51 of	Fortune
+23	Global 500 companies	is	highest number of city in world
+24	Tokyo	ranked third in	International Financial Centres Development IndexEdit
+24	Tokyo	ranked	third
+25	Fuji TV	is	various television network
+25	Tokyo MX	is	various television network
+25	TV Tokyo	is	various television network
+25	TV Asahi	is	various television network
+25	Nippon Television	is	various television network
+25	NHK	is	various television network
+25	Tokyo Broadcasting System	is	various television network
+25	city	is	home
+25	city	is home to various television networks such as	Fuji TV
+25	city	is home to various television networks such as	Tokyo MX
+25	city	is home to various television networks such as	TV Tokyo
+25	city	is home to various television networks such as	TV Asahi
+25	city	is home to various television networks such as	Nippon Television
+25	city	is home to various television networks such as	NHK
+25	city	is home to various television networks such as	Tokyo Broadcasting System
+26	maximization	is	EM
+26	In statistics iterative method	be find	maximum likelihood of parameters in statistical models
+26	In statistics iterative method	be find	maximum posteriori MAP estimates
+26	expectation maximization algorithm	is iterative method In	statistics
+26	expectation maximization algorithm	is iterative method to find	maximum likelihood of parameters in statistical models
+26	expectation maximization algorithm	is iterative method to find	maximum posteriori MAP estimates
+26	expectation maximization algorithm	is	iterative method
+26	model	depends on unobserved latent variables	statistical models
+26	model	depends	statistical models
+27	expectation	is	E
+27	performing expectation step and maximization step	creates	function for expectation of log-likelihood evaluated using current estimate for parameters
+27	log-likelihood	be evaluated using current estimate for	parameters
+27	maximization	is	M
+27	maximization step	computes parameters maximizing expected log-likelihood found on	E step
+27	parameters	be maximizing expected log-likelihood found on	E step
+27	expected log-likelihood	be found on	E step
+28	parameter-estimates	are used to determine	distribution of latent variables in next E step
+29	EM algorithm	given name in classic 1977 paper by	Arthur Dempster
+29	EM algorithm	given name in classic 1977 paper by	Nan Laird
+29	EM algorithm	given name in classic 1977 paper by	Donald Rubin
+29	EM algorithm	given name in	classic 1977 paper
+29	its	has name in	classic 1977 paper
+30	method	had been proposed many times in	special circumstances
+30	method	had been proposed many times by	earlier authors
+30	method	had been	proposed many times
+31	very detailed treatment of EM method for exponential families	was published by Rolf Sundberg in thesis following collaboration with	Martin-Löf
+31	very detailed treatment of EM method for exponential families	was published by Rolf Sundberg in	several papers
+31	very detailed treatment of EM method for exponential families	was published by Rolf Sundberg in thesis following collaboration with	Anders Martin-Löf
+31	very detailed treatment of EM method for exponential families	was published by	Rolf Sundberg
+31	his	has thesis following collaboration with	Martin-Löf
+31	his	has thesis following collaboration with	Anders Martin-Löf
+31	his	has collaboration with	Martin-Löf
+31	his	has collaboration with	Anders Martin-Löf
+33	Rubin paper in Journal of Royal Statistical Society	received enthusiastic discussion Regardless of	earlier inventions
+33	Rubin paper in Journal of Royal Statistical Society	received	enthusiastic discussion
+33	Royal Statistical Society meeting with Sundberg	be calling	paper brilliant
+34	Rubin paper	established EM method as important tool of	statistical analysis
+34	Rubin paper	established	EM method
+35	Juha Sipila	is	Prime Minister
+35	HELSINKI	is	Reuters
+35	Finnish police	reprimanded man for	traveling in car boot to hide meeting with Juha Sipila during government crisis last summer
+35	Finnish police	reprimanded	man
+35	his	has meeting with	Juha Sipila
+35	this	was breach of	traffic code
+35	this	was	breach
+36	Samuli Virtanen	is	State Secretary
+36	Timo Soini	is	Foreign Minister
+36	police statement	did name man in	boot
+36	traveler	was	Samuli Virtanen
+36	Samuli Virtanen	is	deputy
+36	Samuli Virtanen	is deputy to	Timo Soini
+37	meeting	took place in	June a day
+37	meeting	took place in	June
+37	Virtanen	has	co-ruling Finns party
+37	Virtanen 's co-ruling Finns party	had elected anti-immigration hardliners as	new leaders a day
+37	Virtanen 's co-ruling Finns party	had elected anti-immigration hardliners	a day
+37	its	has	new leaders
+38	Virtanen	is	politicians
+38	Soini	is	politicians
+38	government	was close to	collapse
+38	government	was	close
+38	group of politicians including Virtanen in the following week	walked out of	Finns party
+38	group of politicians including Soini in the following week	walked out of	Finns party
+38	they	form	new group
+39	Finns party	was thrown out of	government
+39	new Blue Reform group	kept	cabinet seat
+39	its	has	cabinet seat
+40	Tiina Elovaara	is	lawmaker
+40	Virtanen	has commented on	case
+40	Tiina Elovaara from Blue Reform	said in	blog
+41	He	avoided	media attention
+41	situation	was most	serious
+41	situation	was	serious
+41	parliamentarians	has	transition
+41	risk of leakage about parliamentarians ' transition	was	big
+42	LONDON After a year of relatively healthy global economic growth	is	Reuters
+42	economists	are predicting same for	2018
+43	all	is	much
+43	all	is much on track for	growth
+43	growth	be stronger than in	2017
+43	growth	be	stronger
+44	it wrong last year	be underclubbing this year 's economic performance particularly for	euro zone
+44	it wrong last year	be underclubbing this year 's economic performance particularly for	Japan
+44	this year	has economic performance particularly for	euro zone
+44	this year	has economic performance particularly for	Japan
+45	International Monetary Fund	saw 2017 global growth for	example
+45	International Monetary Fund	saw 2017 global growth at	3.4 percent
+45	International Monetary Fund	saw	2017 global growth
+45	advanced economies	advancing	1.8 percent
+46	It	reckons	them
+46	It	reckons them at	3.6 percent
+46	It	reckons them at	2.2 percent
+47	It	had	euro zone
+47	Japan	growing	1.5 percent
+47	Japan	growing	0.6 percent
+48	It	has	them
+48	It	has them at	2.1 percent
+48	It	has them at	1.5 percent
+49	Faster growth	is reaching two-thirds of	world 's population
+49	world	has	population
+49	IMF	said in	December blog post
+50	performance	has made	economists optimistic
+51	Global growth	has more self-reinforcing characteristics at	present than at time over last 20-30 years
+52	Goldilock	has	bears
+52	Goldilock 's bears	do have habit of	showing up
+53	huge numbers of potential political risks	There are to	status quo
+53	huge numbers of potential economic risks	There are to	status quo
+54	's	go with just three as in	fairy tale
+54	's	go with	just three
+55	danger	is that there be policy mistake squeezing debtors In	first case
+55	danger	is that	there will be policy mistake squeezing debtors
+55	that there will policy mistake	be squeezing	debtors
+56	second	relates to renewed U.S. protectionism over	Chinese exports triggering tit-for-tat growth-stifling trade barriers
+56	second	relates to	anger
+56	Chinese exports	be triggering	tit-for-tat growth-stifling trade barriers
+57	sudden market losses	dry up	spending
+57	sudden market losses	dry up	demand

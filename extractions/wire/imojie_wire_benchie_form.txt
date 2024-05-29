@@ -1,0 +1,88 @@
+1	a Grammy-winning Canadian musician	resided	in Paris, France for several years
+2	he	is also	a producer and songwriter
+3	Gonzales	broadcasts	a web series
+4	He	has written	several newspaper and magazine opinion pieces in The Guardian, Vice, Billboard, and others
+5	He	is	the younger brother of the prolific film composer Christophe Beck
+6	Gonzales	was born	on 20 March 1972
+7	His parents	are	Ashkenazi Jews
+7	Ashkenazi Jews	to flee	from Hungary during World War II
+8	Gonzales	began	teaching himself piano at age three
+8	his older brother	began	taking lessons
+9	Gonzales	graduated	from Crescent School in Toronto
+10	He	was classically trained	as a pianist at McGill University
+10	he	began	both his composing career
+11	Tokyo	is	the capital city of Japan and one of its 47 prefectures
+12	The Greater Tokyo Area	is	the most populous metropolitan area in the world
+13	It	is	the seat of the Emperor of Japan and the Japanese government
+14	Tokyo	is	in the Kantō region on the southeastern side of the main island
+14	Tokyo	includes	the Izu Islands and Ogasawara Islands
+15	Shogun Tokugawa Ieyasu	made	the city his headquarters
+15	it	has been	the de facto seat of government since 1603
+16	It	officially became	the capital after Emperor Meiji moved his seat to the city from the old capital of Kyoto in 1868
+16	Edo	was renamed	Tokyo
+16	Emperor Meiji	moved	his seat to the city from the old capital of Kyoto in 1868
+17	Tokyo Metropolis	was formed	in 1943 from the merger of the former Tokyo Prefecture ( 東 京 [UNK] Tōkyō-fu) and the city of Tokyo
+18	Tokyo	is referred	as a city often
+18	a "metropolitan prefecture	combines	elements of a city and a prefecture
+19	The Tokyo metropolitan government	administers	the 23 Special Wards of Tokyo
+19	an individual city	cover	the area
+19	the area	was	the City of Tokyo before it merged and became the metropolitan prefecture in 1943
+20	The metropolitan government	administers	39 municipalities in the western part of the prefecture and the two outlying island chains
+21	The population of the special wards	is	over 9 million people
+21	the total population of the prefecture	exceeding	13 million.
+22	The prefecture	is	part of the world's most populous metropolitan area with upwards of 37.8 million people and the world's largest urban agglomeration economy
+23	the city	hosted	51 of the Fortune Global 500 companies at that time In 2011
+23	the city	hosted	51 of the Fortune Global 500 companies
+24	Tokyo	ranked	third (twice) in the International Financial Centres Development IndexEdit
+25	The city	is also	home to various television networks such as Fuji TV, Tokyo MX, TV Tokyo, TV Asahi, Nippon Television, NHK and the Tokyo Broadcasting System
+26	the model	depends	on unobserved latent variables statistical models
+26	an expectation–maximization (EM) algorithm	is	an iterative method to find maximum likelihood or maximum a posteriori (MAP) estimates of parameters in statistical models In statistics
+27	The EM iteration	alternates	between performing an expectation (E) step
+27	a maximization	found	on the E step
+28	These parameter-estimates	are used	to determine the distribution of the latent variables in the next E step then
+29	The EM algorithm	was given	its name in a classic 1977 paper by Arthur Dempster, Nan Laird, and Donald Rubin
+30	They	pointed out	that the method had been "proposed many times in special circumstances" by earlier authors
+30	the method	had been "proposed	many times in special circumstances by earlier authors
+31	A very detailed treatment of the EM method for exponential families	was published	by Rolf Sundberg in his thesis and several papers following his collaboration with Per Martin-Löf and Anders Martin-
+32	The Dempster–Laird–Rubin paper in 1977	sketched	a convergence analysis for a wider class of problems
+32	The Dempster–Laird–Rubin paper in 1977	generalized	the method
+33	Sundberg	calling	the paper "brilliant
+33	the innovative Dempster–Laird–Rubin paper in the Journal of the Royal Statistical Society	received	an enthusiastic discussion at the Royal Statistical Society meeting with Sundberg calling the paper "brilliant
+34	The Dempster–Laird–Rubin paper	established	the EM method as an important tool of statistical analysis
+35	Finnish police	reprimanded	a man for traveling in a car boot to hide his meeting with Prime Minister Juha Sipila during a government crisis last summer
+36	A police statement	did not name	the man in the boot
+36	State Secretary Samuli Virtanen	is also	the deputy to Foreign Minister Timo Soini.
+36	the traveler	was	State Secretary Samuli Virtanen
+37	The meeting	took	place in June
+37	Virtanen’s co-ruling Finns party	had elected	anti-immigration hardliners as its new leaders
+38	The government	was	close to collapse
+38	a group of politicians, including Virtanen and Soini, in the following week	announced	they would form a new group
+39	The Finns party	was thrown	out of the government
+39	the new “Blue Reform” group	kept	its cabinet seat
+40	Virtanen	has not commented	on the case
+40	lawmaker Tiina Elovaara from Blue Reform	said	in a blog that Virtanen climbed into the boot to keep the meeting secret at a critical moment
+40	Virtanen	climbed	into the boot to keep the meeting secret at a critical moment.
+41	“He	avoided	media attention when the situation was most serious
+41	the risk of leakage about the parliamentarians transition	was	too big
+42	economists	are predicting	pretty much the same for 2018 After a year of relatively healthy global economic growth
+43	The idea	is	that all is pretty much on track for growth
+43	growth	will be	stronger than in 2017
+44	Part of this	may come	from the fact that forecasters generally got it wrong last year
+44	forecasters	generally got	it wrong last year
+45	The International Monetary Fund	saw	2017 global growth at 3.4 percent with advanced economies advancing 1.8 percent
+46	It	reckons	them at 3.6 percent and 2.2 percent now
+47	It	had	the euro zone and Japan growing 1.5 percent and 0.6 percent, respectively
+48	It	has	them at 2.1 percent and 1.5 percent now
+49	“Faster growth	is reaching	roughly two-thirds of the world’s population
+49	the IMF	said	in a December blog post
+50	This performance	has made	some economists optimistic
+51	Nomura	is	among the more bullish
+51	“Global growth	has	far more self-reinforcing characteristics at present than at any time over the last 20-30 years
+52	Goldilock’s bears	do have	a habit of showing up
+54	let’s	go	with just three: central banks, trade, and bubbles
+55	the danger	is	that there will be a policy mistake In the first case
+55	a policy mistake	squeezing	debtors
+56	The second	relates	to renewed U.S. protectionism or anger over Chinese exports
+56	Chinese exports	triggering	tit-for-tat, growth-stifling trade barriers
+57	The third	is	about sudden market losses
+57	sudden market losses	dry up	spending and demand

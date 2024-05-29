@@ -1,0 +1,1372 @@
+sent_id:1	the internal frame backpack is a recent innovation , invented in 1967 by greg lowe , who went on to found lowe alpine and lowepro , companies specializing in backpacks and other forms of carrying bags for various equipment . ||| when was the backpack invented
+1--> Cluster 1:
+[the] backpack --> [was] invented in --> 1967
+[the] internal frame backpack --> [was] invented in --> 1967
+[the] backpack --> [be] invented in --> 1967
+[the] internal frame backpack --> [be] invented in --> 1967
+[the] backpack --> [is] invented in --> 1967
+[the] internal frame backpack --> [is] invented in --> 1967
+
+sent_id:2	johnson is a town in lamoille county , vermont , united states . the population was 3,274 at the 2000 census . johnson is home of johnson state college , a part the vermont state colleges system . the vermont studio center is located in the village of johnson , a part of the town . ||| where is johnson town
+2--> Cluster 1:
+johnson [town] --> is in --> lamoille [county]
+johnson --> is [a] town in --> lamoille [county]
+2--> Cluster 2:
+johnson [town] --> is in --> vermont
+johnson --> is [a] town in --> vermont
+2--> Cluster 3:
+johnson [town] --> is in --> [the] united states
+johnson --> is [a] town in --> [the] united states
+
+sent_id:3	abraham lincoln was shot by john wilkes booth on april 14 , 1865 . he was shot at ford 's theatre , which is located in washington d.c. the following day , april 15th , he died . ||| when did abraham died and who shot him
+3--> Cluster 1:
+abraham [lincoln] --> died [on] --> april 15th 1865
+he --> died [on] --> april 15th 1865
+3--> Cluster 2:
+abraham [lincoln] --> [was] shot by --> john wilkes booth
+he --> [was] shot by --> john wilkes booth
+john wilkes booth --> shot --> abraham [lincoln]
+john wilkes booth --> shot --> him
+
+sent_id:4	the principle in classical mechanics that e mv was first developed by gottfried leibniz and johann bernoulli , who described kinetic energy as the living force , vis viva . willem 's gravesande of the netherlands provided experimental evidence of this relationship . ||| who discovered kinetic energy
+4--> Cluster 1:
+e [mv] --> [was] [first] developped by --> [gottfried] leibniz
+[e] mv --> [was] [first] developped by --> [gottfried] leibniz
+e [mv] --> [was] [first] discovered by --> [gottfried] leibniz
+[e] mv --> [was] [first] discovered by --> [gottfried] leibniz
+e [mv] --> [was] [first] described by --> [gottfried] leibniz
+[e] mv --> [was] [first] described by --> [gottfried] leibniz
+kinetic energy --> [was] [first] developped by --> [gottfried] leibniz
+kinetic energy --> [was] [first] discovered by --> [gottfried] leibniz
+kinetic energy --> [was] [first] described by --> [gottfried] leibniz
+[gottfried] leibniz --> developped --> e [mv]
+[gottfried] leibniz --> developped --> [e] mv
+[gottfried] leibniz --> developped --> kinetic energy
+[gottfried] leibniz --> discovered --> e [mv]
+[gottfried] leibniz --> discovered --> [e] mv
+[gottfried] leibniz --> discovered --> kinetic energy
+[gottfried] leibniz --> described --> e [mv]
+[gottfried] leibniz --> described --> [e] mv
+[gottfried] leibniz --> described --> kinetic energy
+e [mv] --> [was] [first] developped by --> [gottfried] leibniz and [johann] bernoulli
+[e] mv --> [was] [first] developped by --> [gottfried] leibniz and [johann] bernoulli
+e [mv] --> [was] [first] discovered by --> [gottfried] leibniz and [johann] bernoulli
+[e] mv --> [was] [first] discovered by --> [gottfried] leibniz and [johann] bernoulli
+e [mv] --> [was] [first] described by --> [gottfried] leibniz and [johann] bernoulli
+[e] mv --> [was] [first] described by --> [gottfried] leibniz and [johann] bernoulli
+kinetic energy --> [was] [first] developped by --> [gottfried] leibniz and [johann] bernoulli
+kinetic energy --> [was] [first] discovered by --> [gottfried] leibniz and [johann] bernoulli
+kinetic energy --> [was] [first] described by --> [gottfried] leibniz and [johann] bernoulli
+[gottfried] leibniz and [johann] bernoulli --> developped --> e [mv]
+[gottfried] leibniz and [johann] bernoulli --> developped --> [e] mv
+[gottfried] leibniz and [johann] bernoulli --> developped --> kinetic energy
+[gottfried] leibniz and [johann] bernoulli --> discovered --> e [mv]
+[gottfried] leibniz and [johann] bernoulli --> discovered --> [e] mv
+[gottfried] leibniz and [johann] bernoulli --> discovered --> kinetic energy
+[gottfried] leibniz and [johann] bernoulli --> described --> e [mv]
+[gottfried] leibniz and [johann] bernoulli --> described --> [e] mv
+[gottfried] leibniz and [johann] bernoulli --> described --> kinetic energy
+4--> Cluster 2:
+e [mv] --> [was] [first] developped by --> [johann] bernoulli
+[e] mv --> [was] [first] developped by --> [johann] bernoulli
+e [mv] --> [was] [first] discovered by --> [johann] bernoulli
+[e] mv --> [was] [first] discovered by --> [johann] bernoulli
+e [mv] --> [was] [first] described by --> [johann] bernoulli
+[e] mv --> [was] [first] described by --> [johann] bernoulli
+kinetic energy --> [was] [first] developped by --> [johann] bernoulli
+kinetic energy --> [was] [first] discovered by --> [johann] bernoulli
+kinetic energy --> [was] [first] described by --> [johann] bernoulli
+[johann] bernoulli --> developped --> e [mv]
+[johann] bernoulli --> developped --> [e] mv
+[johann] bernoulli --> developped --> kinetic energy
+[johann] bernoulli --> discovered --> e [mv]
+[johann] bernoulli --> discovered --> [e] mv
+[johann] bernoulli --> discovered --> kinetic energy
+[johann] bernoulli --> described --> e [mv]
+[johann] bernoulli --> described --> [e] mv
+[johann] bernoulli --> described --> kinetic energy
+e [mv] --> [was] [first] developped by --> [gottfried] leibniz and [johann] bernoulli
+[e] mv --> [was] [first] developped by --> [gottfried] leibniz and [johann] bernoulli
+e [mv] --> [was] [first] discovered by --> [gottfried] leibniz and [johann] bernoulli
+[e] mv --> [was] [first] discovered by --> [gottfried] leibniz and [johann] bernoulli
+e [mv] --> [was] [first] described by --> [gottfried] leibniz and [johann] bernoulli
+[e] mv --> [was] [first] described by --> [gottfried] leibniz and [johann] bernoulli
+kinetic energy --> [was] [first] developped by --> [gottfried] leibniz and [johann] bernoulli
+kinetic energy --> [was] [first] discovered by --> [gottfried] leibniz and [johann] bernoulli
+kinetic energy --> [was] [first] described by --> [gottfried] leibniz and [johann] bernoulli
+[gottfried] leibniz and [johann] bernoulli --> developped --> e [mv]
+[gottfried] leibniz and [johann] bernoulli --> developped --> [e] mv
+[gottfried] leibniz and [johann] bernoulli --> developped --> kinetic energy
+[gottfried] leibniz and [johann] bernoulli --> discovered --> e [mv]
+[gottfried] leibniz and [johann] bernoulli --> discovered --> [e] mv
+[gottfried] leibniz and [johann] bernoulli --> discovered --> kinetic energy
+[gottfried] leibniz and [johann] bernoulli --> described --> e [mv]
+[gottfried] leibniz and [johann] bernoulli --> described --> [e] mv
+[gottfried] leibniz and [johann] bernoulli --> described --> kinetic energy
+
+sent_id:5	disposable plates , which are often made from paper pulp , were invented in 1904 . also melamine resin or tempered glass such as corelle can be used . ||| when were paper plates invented
+5--> Cluster 1:
+disposable plates --> [were] invented in --> 1904
+
+sent_id:6	 the test is offered by the college board . approximately 2,900 colleges and universities will grant college credits for each test . both u.s. and international schools grant clep credit . most of the tests are 90 minutes long . they currently cost $ 80 each . ||| how long are clep exams
+6--> Cluster 1:
+most [of] [the] [clep] tests --> are --> 90 minutes [long]
+[the] [clep] tests --> are --> 90 minutes [long]
+most [of] [the] [clep] exams --> are --> 90 minutes [long]
+[the] [clep] exams --> are --> 90 minutes [long]
+
+sent_id:7	mora is a city in and the county seat of kanabec county in the central part of the u.s. state of minnesota . it is located at the junction of minnesota state highways 23 and 65 . ||| where is the city of mora
+7--> Cluster 1:
+mora --> is in --> kanabec [county]
+7--> Cluster 2:
+mora --> is in --> [the] u.s.
+mora --> is in --> [the] united states
+7--> Cluster 3:
+mora --> is in --> [the] central part of [the] state of minnesota
+mora --> is in --> [the] central part of minnesota
+mora --> is in --> [the] state of minnesota
+mora --> is in --> minnesota
+7--> Cluster 4:
+mora --> is [located] at --> [the] junction of minnesota state highways 23 and 65
+mora --> is [located] at [the] junction of --> minnesota state highways 23 and 65
+
+sent_id:8	their dna is organized into a true nucleus surrounded by a nuclear envelope which consists of two bilayer membranes . the nucleus of eukaryotic cells contains the genetic material which chemically directs all of the cells activities . ||| how many membranes does the nucleus have
+8--> Cluster 1:
+[the] [true] nucleus --> has --> two [bilayer] membranes
+[a] [true] nucleus --> has --> two [bilayer] membranes
+[the] [true] nucleus --> consists of --> two [bilayer] membranes
+[a] [true] nucleus --> consists of --> two [bilayer] membranes
+[the] [true] nucleus --> [is] surrounded by --> two [bilayer] membranes
+[a] [true] nucleus --> [is] surrounded by --> two [bilayer] membranes
+
+sent_id:9	the inner layer of a turtle 's shell is made up of about 60 bones that include portions of the backbone and the ribs , meaning the turtle cannot crawl out of its shell . ||| how many bones in a turtle shell
+9--> Cluster 1:
+[the] inner layer of [a] turtle ['s] shell --> [is] made up of [about] --> 60 bones
+[the] inner layer of [a] turtle ['s] shell --> [is] made up of --> [about] 60 bones
+[the] inner layer of [a] turtle's shell --> [is] made up of [about] --> 60 bones
+[the] inner layer of [a] turtle's shell --> [is] made up of --> [about] 60 bones
+[the] inner layer of [a] turtles shell --> [is] made up of [about] --> 60 bones
+[the] inner layer of [a] turtles shell --> [is] made up of --> [about] 60 bones
+[a] turtle ['s] shell --> [is] made up of [about] --> 60 bones
+[a] turtle ['s] shell --> [is] made up of --> [about] 60 bones
+[a] turtle's shell --> [is] made up of [about] --> 60 bones
+[a] turtle's shell --> [is] made up of --> [about] 60 bones
+[a] turtles shell --> [is] made up of [about] --> 60 bones
+[a] turtles shell --> [is] made up of --> [about] 60 bones
+[the] inner layer of [a] turtle ['s] shell --> has [about] --> 60 bones
+[the] inner layer of [a] turtle ['s] shell --> has --> [about] 60 bones
+[the] inner layer of [a] turtle's shell --> has [about] --> 60 bones
+[the] inner layer of [a] turtle's shell --> has --> [about] 60 bones
+[the] inner layer of [a] turtles shell --> has [about] --> 60 bones
+[the] inner layer of [a] turtles shell --> has --> [about] 60 bones
+[a] turtle ['s] shell --> has [about] --> 60 bones
+[a] turtle ['s] shell --> has --> [about] 60 bones
+[a] turtle's shell --> has [about] --> 60 bones
+[a] turtle's shell --> has --> [about] 60 bones
+[a] turtles shell --> has [about] --> 60 bones
+[a] turtles shell --> has --> [about] 60 bones
+[about] 60 bones --> are in --> [the] inner layer of [a] turtle ['s] shell
+[about] 60 bones --> make up --> [the] inner layer of [a] turtle ['s] shell 
+[about] 60 bones --> are in --> [a] turtle ['s] shell
+[about] 60 bones --> make up --> [a] turtle ['s] shell
+[about] 60 bones --> are in --> [the] inner layer of [a] turtle's shell
+[about] 60 bones --> make up --> [the] inner layer of [a] turtle's shell 
+[about] 60 bones --> are in --> [a] turtle's shell
+[about] 60 bones --> make up --> [a] turtle's shell 
+[about] 60 bones --> are in --> [the] inner layer of [a] turtles shell
+[about] 60 bones --> make up --> [the] inner layer of [a] turtles shell 
+[about] 60 bones --> are in --> [a] turtles shell
+[about] 60 bones --> make up --> [a] turtles shell  
+
+sent_id:10	carbohydrates are the body s main source of fuel . carbohydrates are easily used by the body for energy . all of the tissues and cells in our body can use glucose for energy . carbohydrates are needed for the central nervous system , the kidneys , the brain , the muscles ( including the heart ) to function properly . ||| why does our body need carbohydrates
+10--> Cluster 1:
+carbohydrates --> are --> [the] body ['s] [main] source of fuel
+carbohydrates --> are [the] body ['s] [main] source of --> fuel
+[the] body ['s] [main] source of fuel --> is --> carbohydrates
+[the] body ['s] [main] source of fuel --> are --> carbohydrates
+10--> Cluster 2:
+carbohydrates --> are [easily] used by [the] body for --> energy
+carbohydrates --> are [easily] used for --> energy
+[the] body --> uses carbohydrates for --> energy
+10--> Cluster 3:
+carbohydrates --> [are] needed for --> [the] [central] nervous system
+carbohydrates --> [are] needed for [the] [central] nervous system to --> function [properly]
+carbohydrates --> [are] needed for [the] [central] nervous system to function --> properly
+[the] [central] nervous system --> needs --> carbohydrates
+[the] [central] nervous system --> need --> carbohydrates
+[the] [central] nervous system --> needs carbohydrates to --> function [properly]
+[the] [central] nervous system --> needs carbohydrates to function --> properly
+[the] [central] nervous system --> need carbohydrates --> function [properly]
+[the] [central] nervous system --> need carbohydrates to function --> properly
+10--> Cluster 4:
+carbohydrates --> [are] needed for --> [the] kidneys
+carbohydrates --> [are] needed for [the] kidneys to --> function [properly]
+carbohydrates --> [are] needed for [the] kidneys to function --> properly
+[the] kidneys --> needs --> carbohydrates
+[the] kidneys --> need --> carbohydrates
+[the] kidneys --> needs carbohydrates to --> function [properly]
+[the] kidneys --> needs carbohydrates to function --> properly
+[the] kidneys --> need carbohydrates --> function [properly]
+[the] kidneys --> need carbohydrates to function --> properly
+10--> Cluster 5:
+carbohydrates --> [are] needed for --> [the] brain
+carbohydrates --> [are] needed for [the] brain to --> function [properly]
+carbohydrates --> [are] needed for [the] brain to function --> properly
+[the] brain --> needs --> carbohydrates
+[the] brain --> need --> carbohydrates
+[the] brain --> needs carbohydrates to --> function [properly]
+[the] brain --> needs carbohydrates to function --> properly
+[the] brain --> need carbohydrates --> function [properly]
+[the] brain --> need carbohydrates to function --> properly
+10--> Cluster 6:
+carbohydrates --> [are] needed for --> [the] muscles
+carbohydrates --> [are] needed for [the] muscles to --> function [properly]
+carbohydrates --> [are] needed for [the] muscles to function --> properly
+[the] muscles --> needs --> carbohydrates
+[the] muscles --> need --> carbohydrates
+[the] muscles --> needs carbohydrates to --> function [properly]
+[the] muscles --> needs carbohydrates to function --> properly
+[the] muscles --> need carbohydrates --> function [properly]
+[the] muscles --> need carbohydrates to function --> properly
+10--> Cluster 7:
+carbohydrates --> [are] needed for --> [the] heart
+carbohydrates --> [are] needed for [the] heart to --> function [properly]
+carbohydrates --> [are] needed for [the] heart to function --> properly
+[the] heart --> needs --> carbohydrates
+[the] heart --> need --> carbohydrates
+[the] heart --> needs carbohydrates to --> function [properly]
+[the] heart --> needs carbohydrates to function --> properly
+[the] heart --> need carbohydrates --> function [properly]
+[the] heart --> need carbohydrates to function --> properly
+
+sent_id:11	that is , not until the italian physicist alessandro volta came along . in 1800 , volta created the first modern day battery when he built what came to be known as his voltaic pile . ||| who built the first battery
+11--> Cluster 1:
+[alessandro] volta --> created --> [the] first modern [day] battery
+[alessandro] volta --> created --> [the] first battery
+[alessandro] volta --> built --> [the] first modern [day] battery
+[alessandro] volta --> built --> [the] first battery
+
+sent_id:12	the purple and turquoise suicide prevention ribbon symbolizes suicide awareness and prevention and serves as a reminder that suicide is an issue we need to talk about . download a ribbon avatar and make it your profile picture on facebook and twitter during national suicide prevention week . ||| what color is suicide ribbon
+12--> Cluster 1:
+[the] suicide prevention ribbon --> is --> purple
+[the] suicide prevention ribbon --> is --> purple and turquoise
+[the] suicide prevention ribbon --> is --> turquoise and purple
+12--> Cluster 2:
+[the] suicide prevention ribbon --> is --> turquoise
+[the] suicide prevention ribbon --> is --> purple and turquoise
+[the] suicide prevention ribbon --> is --> turquoise and purple
+
+sent_id:13	albert wendt onz cnzm ( born 1939 ) is a samoan poet and writer who also lives in new zealand . among his works is leaves of the banyan tree ( 1979 ) . ||| who is albert wendt
+13--> Cluster 1:
+[albert] wendt [onz] [cnzm] --> is --> [a] [samoan] poet
+13--> Cluster 2:
+[albert] wendt [onz] [cnzm] --> is --> [a] [samoan] writer
+
+sent_id:14	it starred penny marshall as laverne de fazio and cindy williams as shirley feeney , single roommates who worked as bottlecappers in a fictitious milwaukee brewery called shotz brewery . ||| who played laverne on laverne and shirley
+14--> Cluster 1:
+penny marshall --> starred as --> laverne
+penny marshall --> starred as --> laverne de fazio
+penny marshall --> played --> laverne
+penny marshall --> played --> laverne de fazio
+it --> starred penny marshall as --> laverne
+it --> starred penny marshall as --> laverne de fazio
+
+sent_id:15	generally , nimh batteries that are properly cared for ( charged and used often , stored in a cool , dry place , and not dropped ) will last for 500 1000 charges or approximately two to three years . remember , the more you use and charge nimh , the longer they will last . ||| how long does a nimh battery last
+15--> Cluster 1:
+nimh batteries that are [properly] cared for --> [will] last for --> 500 charges
+nimh batteries --> [will] last for --> 500 charges
+15--> Cluster 2:
+nimh batteries that are [properly] cared for --> [will] last for --> 1000 charges
+nimh batteries --> [will] last for --> 1000 charges
+15--> Cluster 3:
+nimh batteries that are [properly] cared for --> [will] last for --> two to three years
+nimh batteries --> [will] last for --> two to three years
+nimh batteries that are [properly] cared for --> [will] last for --> two years
+nimh batteries --> [will] last for --> two years
+15--> Cluster 4:
+nimh batteries that are [properly] cared for --> [will] last for --> two to three years
+nimh batteries --> [will] last for --> two to three years
+nimh batteries that are [properly] cared for --> [will] last for --> three years
+nimh batteries --> [will] last for --> three years
+
+sent_id:16	thus , for a class c address with 8 bits available in the host field , the number of hosts is 254 . ||| how many host addresses are available on a class c network
+16--> Cluster 1:
+[the] number of hosts --> is --> 254
+[the] number of hosts for [a] class c address with 8 bits [available] in [the] host field --> is --> 254
+[the] number of hosts for [a] class c address with 8 bits [available] --> is --> 254
+[the] number of hosts for [a] class c address --> is --> 254
+
+sent_id:17	a normal adult mouth has 32 teeth , which ( except for wisdom teeth ) have erupted by about age 13 : incisors ( 8 total ) : the middlemost four teeth on the upper and lower jaws . ||| how many teeth in an adult mouth
+17--> Cluster 1:
+[a] [normal] adult mouth --> has --> 32 teeth
+[an] [normal] adult mouth --> has --> 32 teeth
+
+sent_id:18	staatsburg is a hamlet ( and census-designated place ) in dutchess county , new york , united states . the population was 377 at the 2010 census . ||| where is staatsburg ny
+18--> Cluster 1:
+staatsburg [ny] --> is in --> dutchess county
+18--> Cluster 2:
+staatsburg [ny] --> is in --> new york
+18--> Cluster 3:
+staatsburg [ny] --> is in --> [the] united states
+
+sent_id:19	it took six grueling hours navigating the 30 - odd - mile ship channel to dock , guided by at least four towboats . nearly 900 feet in length , it was the largest cruise ship ever to dock at mobile . ||| how long is the carnival cruise ship
+19--> Cluster 1:
+it --> is --> [nearly] 900 feet in length
+it --> is --> [nearly] 900 feet
+[the] largest cruise ship [ever] to dock at mobile --> is --> [nearly] 900 feet in length
+[the] largest cruise ship [ever] to dock at mobile --> is --> [nearly] 900 feet
+
+sent_id:20	a googol is the large number 10100 that is , the digit 1 followed by 100 zeroes : ||| how many zeros in a google
+20--> Cluster 1:
+[a] googol --> is [the] digit 1 followed by --> 100 zeroes
+[a] googol --> is --> [the] digit 1 followed by 100 zeroes
+[a] googol --> has --> 100 zeroes
+
+sent_id:21	life expectancy of a skunk in the wild is two to three years . in captivity , skunks can live up to ten years . mortality factors include disease , accidents ( especially road and highway deaths ) , starvation , and trapping . ||| life expectancy of a skunk
+21--> Cluster 1:
+life expectancy of [a] skunk in [the] wild --> is --> two to three years
+life expectancy of [a] skunk in [the] wild --> is --> two years
+life expectancy of [a] skunk in [the] wild --> is --> three years
+life expectancy of [a] skunk --> in [the] wild is --> two to three years
+life expectancy of [a] skunk --> in [the] wild is --> two years
+life expectancy of [a] skunk --> in [the] wild is --> three years
+life expectancy of [a] skunk --> is in [the] wild --> two to three years
+life expectancy of [a] skunk --> is in [the] wild --> two years
+life expectancy of [a] skunk --> is in [the] wild --> three years
+life expectancy of [a] skunk --> is --> two to three years
+life expectancy of [a] skunk --> is --> two years
+life expectancy of [a] skunk --> is --> three years
+skunks in [the] wild --> can live up to --> two to three years
+skunks in [the] wild --> can live up to --> two years
+skunks in [the] wild --> can live up to --> three years
+skunks in [the] wild --> can live up to --> two to three years
+skunks --> can live up to --> two years
+skunks --> can live up to --> three years
+21--> Cluster 2:
+life expectancy of [a] skunk in captivity --> is --> up to ten years
+life expectancy of [a] skunk in captivity --> is --> up to ten years
+life expectancy of [a] skunk in captivity --> is --> up to ten years
+life expectancy of [a] skunk --> in captivity is --> up to ten years
+life expectancy of [a] skunk --> in captivity is --> up to ten years
+life expectancy of [a] skunk --> in captivity is --> up to ten years
+life expectancy of [a] skunk --> is in captivity --> up to ten years
+life expectancy of [a] skunk --> is in captivity --> up to ten years
+life expectancy of [a] skunk --> is in captivity --> up to ten years
+life expectancy of [a] skunk --> is --> up to ten years
+life expectancy of [a] skunk --> is --> up to ten years
+life expectancy of [a] skunk --> is --> up to ten years
+skunks in captivity --> can live --> up to ten years
+skunks in captivity --> can live --> up to ten years
+skunks in captivity --> can live --> up to ten years
+skunks --> can live --> up to ten years
+skunks --> can live --> up to ten years
+skunks --> can live --> up to ten years
+life expectancy of [a] skunk in captivity --> is up to --> ten years
+life expectancy of [a] skunk in captivity --> is up to --> ten years
+life expectancy of [a] skunk in captivity --> is up to --> ten years
+life expectancy of [a] skunk --> in captivity is up to --> ten years
+life expectancy of [a] skunk --> in captivity is up to --> ten years
+life expectancy of [a] skunk --> in captivity is up to --> ten years
+life expectancy of [a] skunk --> is in captivity up to --> ten years
+life expectancy of [a] skunk --> is in captivity up to --> ten years
+life expectancy of [a] skunk --> is in captivity up to --> ten years
+life expectancy of [a] skunk --> is --> up to ten years
+life expectancy of [a] skunk --> is --> up to ten years
+life expectancy of [a] skunk --> is --> up to ten years
+skunks in captivity --> can live --> up to ten years
+skunks in captivity --> can live --> up to ten years
+skunks in captivity --> can live --> up to ten years
+skunks --> can live --> up to ten years
+skunks --> can live --> up to ten years
+skunks --> can live --> up to ten years
+
+sent_id:22	in 1521 , portuguese explorer ferdinand magellan arrived in the philippines and claimed the islands for spain . colonization began when spanish explorer miguel lpez de legazpi arrived from mexico in 1565 and formed the first hispanic settlements in cebu . ||| who found the philippines
+22--> Cluster 1:
+[ferdinand] magellan --> found --> [the] philippines
+[ferdinand] magellan --> arrived in --> [the] philippines
+[ferdinand] magellan --> claimed --> [the] philippines
+22--> Cluster 2:
+[ferdinand] magellan --> claimed [the] philippines for --> spain
+
+sent_id:23	a variant of bo is the swedish bosse . bo is uncommon as a surname . bo is also short for several names , including robert , beaufort , beauregard , bonita or bonnie . ||| what name is bo short for
+23--> Cluster 1:
+bo --> [is] short for --> robert
+23--> Cluster 2:
+bo --> [is] short for --> beaufort
+23--> Cluster 3:
+bo --> [is] short for --> beauregard
+23--> Cluster 4:
+bo --> [is] short for --> bonita
+23--> Cluster 5:
+bo --> [is] short for --> bonnie
+
+sent_id:24	initially a dominion , pakistan adopted a new constitution in 1956 , becoming an islamic republic . a civil war in 1971 resulted in the secession of east pakistan as the new country of bangladesh . ||| when did pakistan become a republic
+24--> Cluster 1:
+pakistan --> became [an] [islamic] republic in --> 1956
+pakistan --> become [an] [islamic] republic in --> 1956
+pakistan --> becoming [an] [islamic] republic in --> 1956
+pakistan --> became [a] [islamic] republic in --> 1956
+pakistan --> become [a] [islamic] republic in --> 1956
+pakistan --> becoming [a] [islamic] republic in --> 1956
+
+sent_id:25	emerging in sumer in the late 4th millennium b.c.e. ( the uruk iv period ) , cuneiform writing began as a system of pictographs . ||| when did cuneiform writing began
+25--> Cluster 1:
+cuneiform writing --> began in --> [the] [late] 4th millennium b.c.e.
+cuneiform writing --> began in --> [the] uruk iv period
+cuneiform writing --> emerging in --> [the] [late] 4th millennium b.c.e.
+cuneiform writing --> emerging in --> [the] uruk iv period
+cuneiform writing --> emerged in --> [the] [late] 4th millennium b.c.e.
+cuneiform writing --> emerged in --> [the] uruk iv period
+
+sent_id:26	the largest land mammals in the world , elephants , naturally , have equally large home ranges . african forest elephant can range more than 772 square miles , and asian elephants can occupy a territory of up to 40 square miles . ||| elephant home range
+26--> Cluster 1:
+[african] [forest] elephant ['s] home --> can range more than --> 772 square miles
+[african] [forest] elephant's home --> can range more than --> 772 square miles
+[african] [forest] elephants home --> can range more than --> 772 square miles
+home of [african] [forest] elephants --> can range more than --> 772 square miles
+[african] [forest] elephant ['s] home --> can range --> more than 772 square miles
+[african] [forest] elephant's home --> can range --> more than 772 square miles
+[african] [forest] elephants home --> can range --> more than 772 square miles
+home of [african] [forest] elephants --> can occupy [a] territory of up to --> more than 772 square miles
+[african] [forest] elephant ['s] home --> can occupy [a] territory of up to --> more than 772 square miles
+[african] [forest] elephant's home --> can occupy [a] territory of up to --> more than 772 square miles
+[african] [forest] elephants home --> can occupy [a] territory of up to --> more than 772 square miles
+home of [african] [forest] elephants --> can occupy [a] territory of up to --> more than 772 square miles
+home of [african] [forest] elephants --> can occupy [a] territory of up to --> 772 square miles
+[african] [forest] elephant ['s] home --> can occupy [a] territory of up to --> 772 square miles
+[african] [forest] elephant's home --> can occupy [a] territory of up to --> 772 square miles
+[african] [forest] elephants home --> can occupy [a] territory of up to --> 772 square miles
+home of [african] [forest] elephants --> can occupy [a] territory of up to --> 772 square miles
+[african] [forest] elephant ['s] home --> can occupy [a] territory of --> more than 772 square miles
+[african] [forest] elephant's home --> can occupy [a] territory of --> more than 772 square miles
+[african] [forest] elephants home --> can occupy [a] territory of --> more than 772 square miles
+home of [african] [forest] elephants --> can occupy [a] territory of --> more than 772 square miles
+[african] [forest] elephant ['s] home --> can occupy [a] territory of --> 772 square miles
+[african] [forest] elephant's home --> can occupy [a] territory of --> 772 square miles
+[african] [forest] elephants home --> can occupy [a] territory of --> 772 square miles
+home of [african] [forest] elephants --> can occupy [a] territory of --> 772 square miles
+26--> Cluster 2:
+[asian] elephant ['s] home --> can range more than --> 40 square miles
+[asian] elephant's home --> can range more than --> 40 square miles
+[asian] elephants home --> can range more than --> 40 square miles
+home of [asian] elephants --> can range more than --> 40 square miles
+[asian] elephant ['s] home --> can range --> more than 40 square miles
+[asian] elephant's home --> can range --> more than 40 square miles
+[asian] elephants home --> can range --> more than 40 square miles
+home of [asian] elephants --> can occupy [a] territory of up to --> more than 40 square miles
+[asian] elephant ['s] home --> can occupy [a] territory of up to --> more than 40 square miles
+[asian] elephant's home --> can occupy [a] territory of up to --> more than 40 square miles
+[asian] elephants home --> can occupy [a] territory of up to --> more than 40 square miles
+home of [asian] elephants --> can occupy [a] territory of up to --> more than 40 square miles
+home of [asian] elephants --> can occupy [a] territory of up to --> 40 square miles
+[asian] elephant ['s] home --> can occupy [a] territory of up to --> 40 square miles
+[asian] elephant's home --> can occupy [a] territory of up to --> 40 square miles
+[asian] elephants home --> can occupy [a] territory of up to --> 40 square miles
+home of [asian] elephants --> can occupy [a] territory of up to --> 40 square miles
+[asian] elephant ['s] home --> can occupy [a] territory of --> more than 40 square miles
+[asian] elephant's home --> can occupy [a] territory of --> more than 40 square miles
+[asian] elephants home --> can occupy [a] territory of --> more than 40 square miles
+home of [asian] elephants --> can occupy [a] territory of --> more than 40 square miles
+[asian] elephant ['s] home --> can occupy [a] territory of --> 40 square miles
+[asian] elephant's home --> can occupy [a] territory of --> 40 square miles
+[asian] elephants home --> can occupy [a] territory of --> 40 square miles
+home of [asian] elephants --> can occupy [a] territory of --> 40 square miles
+
+sent_id:27	the practice of decorating jack - o - lanterns the name comes from an irish folktale about a man named stingy jackoriginated in ireland , where large turnips and potatoes served as an early canvas . ||| the origin of jack o lanterns
+27--> Cluster 1:
+[the] practice of decorating jack [-] o [-] lanterns --> comes from --> [an] irish folktale
+decorating jack [-] o [-] lanterns --> comes from --> [an] irish folktale
+jack [-] o [-] lanterns --> comes from --> [an] irish folktale
+jack [-] o [-] lanterns [the] name --> comes from --> [an] irish folktale
+[the] name jack [-] o [-] lanterns --> comes from --> [an] irish folktale
+
+sent_id:28	some historians believe he was born on 22 january 1552 , although the oxford dictionary of national biography currently favours a date of 1554 . ||| when was sir walter raleigh born
+28--> Cluster 1:
+he --> was born on --> 22 january 1552
+[some] historians --> believe he was born on --> 22 january 1552
+[sir] walter raleigh --> was born on --> 22 january 1552
+[some] historians --> believe [sir] walter raleigh was born on --> 22 january 1552
+28--> Cluster 2:
+he --> was born on --> 1554
+[the] oxford dictionary of national biography --> believe he was born on --> 1554
+[sir] walter raleigh --> was born on --> 1554
+[the] oxford dictionary of national biography --> believe [sir] walter raleigh was born on --> 1554
+he --> was born in --> 1554
+[the] oxford dictionary of national biography --> believe he was born in --> 1554
+[sir] walter raleigh --> was born in --> 1554
+[the] oxford dictionary of national biography --> believe [sir] walter raleigh was born in --> 1554
+[the] oxford dictionary of national biography --> favours a date of --> 1554
+
+sent_id:29	the pectoral girdle or shoulder girdle is the set of bones which connects the upper limb to the axial skeleton on each side . it consists of the clavicle and scapula in humans and , in those species with three bones in the pectoral girdle , the coracoid . ||| how many bones in the shoulder girdle
+29--> Cluster 1:
+shoulder girdle --> consists of --> two bones
+shoulder girdle --> consists in humans of --> two bones
+shoulder girdle --> consists of --> [the] clavicle and scapula
+shoulder girdle --> consists in humans of --> [the] clavicle and scapula
+it --> consists of --> two bones
+it --> consists in humans of --> two bones
+it --> consists of --> [the] clavicle and scapula
+it --> consists in humans of --> [the] clavicle and scapula
+
+sent_id:30	natalee holloway disappeared in aruba on may 30 , 2005 . the 18 - year - old was last seen leaving a bar early that morning with a young dutchman , joran van der sloot . ||| girl who went missing in aruba
+30--> Cluster 1:
+natalee holloway --> disappeared --> XXX
+30--> Cluster 2:
+natalee holloway --> disappeared in --> aruba
+
+sent_id:31	average environmental inspector salaries . the average salary for environmental inspector jobs is $ 49,000 . average environmental inspector salaries can vary greatly due to company , location , industry , experience and benefits . ||| environmental inspector salary
+31--> Cluster 1:
+[the] [average] salary for environmental inspector [jobs] --> is --> [$] 49,000
+[the] [average] salary for environmental inspector [jobs] --> is --> [$] 49 [,] 000
+[the] [average] salary for environmental inspector [jobs] --> is --> [$] 49000
+salary for environmental inspector [jobs] --> is --> [$] 49,000
+salary for environmental inspector [jobs] --> is --> [$] 49 [,] 000
+salary for environmental inspector [jobs] --> is --> [$] 49000
+environmental inspector [average] salary --> is --> [$] 49,000
+environmental inspector [average] salary --> is --> [$] 49 [,] 000
+environmental inspector [average] salary --> is --> [$] 49000
+
+sent_id:32	the average cost for a strut shock absorber replacement - front is between $ 315 to $ 507 . labor costs are estimated between $ 160 to $ 203 while parts are priced between $ 155 to $ 304 . get a personalized estimate based on your location and specific car . ||| how much does it cost to have new struts on a car
+32--> Cluster 1:
+[the] [average] cost for [a] strut shock absorber [replacement] --> is --> between [$] 315 to [$] 507
+[the] [average] cost for [a] strut shock absorber [replacement] --> is between --> [$] 315 to [$] 507
+[a] strut shock absorber replacement --> is --> between [$] 315 to [$] 507
+[a] strut shock absorber replacement --> is between --> [$] 315 to [$] 507
+
+sent_id:33	average apartment manager salaries . the average salary for apartment manager jobs is $ 36,000 . average apartment manager salaries can vary greatly due to company , location , industry , experience and benefits . ||| apartment managers salaries
+33--> Cluster 1:
+[the] [average] salary for apartment manager [jobs] --> is --> [$] 36,000
+[the] [average] salary for apartment manager [jobs] --> is --> [$] 36 [,] 000
+[the] [average] salary for apartment manager [jobs] --> is --> [$] 36000
+salary for apartment manager [jobs] --> is --> [$] 36,000
+salary for apartment manager [jobs] --> is --> [$] 36 [,] 000
+salary for apartment manager [jobs] --> is --> [$] 36000
+apartment manager [average] salary --> is --> [$] 36,000
+apartment manager [average] salary --> is --> [$] 36 [,] 000
+apartment manager [average] salary --> is --> [$] 36000
+
+sent_id:34	allscripts , founded in 1986 , is headquartered in chicago , illinois , with additional key operations located in raleigh . north carolina . ||| when was allscripts founded
+34--> Cluster 1:
+allscripts --> [is] founded in --> 1986
+allscripts --> [be] founded in --> 1986
+allscripts --> [was] founded in --> 1986
+
+sent_id:35	the ritty model i was invented in 1879 after seeing a tool that counted the revolutions of the propeller on a steamship . with the help of james ' brother john ritty , they patented it in 1883 . ||| when was the cash register invented
+35--> Cluster 1:
+[the] ritty model i --> [was] invented in --> 1879
+
+sent_id:36	titanium metal is used for alloys with with aluminium , molybdenum , manganese , iron , and other metals . these alloys of titanium are used principally in the aerospace industry , for both airframes and engines , where lightweight strength and ability to withstand extremes of temperature are important . ||| how is titanium used for
+36--> Cluster 1:
+titanium [metal] --> [is] used for --> alloys
+36--> Cluster 2:
+[these] alloys of titanium --> [are] used [principally] in --> [the] aerospace industry
+titanium --> [are] used [principally] in --> [the] aerospace industry
+titanium --> [is] used [principally] in --> [the] aerospace industry
+
+sent_id:37	the breathtaking inca city of machu picchu was built atop the andes mountains in peru . ||| what country is the machu picchu in
+37--> Cluster 1:
+city of machu picchu --> [was] built in --> peru
+machu picchu --> [was] built in --> peru
+city of machu picchu --> was in --> peru
+machu picchu --> was in --> peru
+city of machu picchu --> is in --> peru
+machu picchu --> is in --> peru
+
+sent_id:38	the cell was first discovered by robert hooke in 1665 , which can be found to be described in his book micrographia . in this book , he gave 60 observations in detail of various objects under a coarse , compound microscope . ||| when was the cell discovered
+38--> Cluster 1:
+[the] cell --> was [first] discovered in --> 1665
+
+sent_id:39	the park operated under the name six gun territory from 1972 . after closure , announced in april 1976 , the park sat vacant until the land was cleared for a large shopping mall known as willow grove park mall , which opened in august 1982 . ||| when did willow grove park close
+39--> Cluster 1:
+closure --> [was] announced in --> april 1976
+closure of [the] park --> [was] announced in --> april 1976
+[the] park ['s] closure --> [was] announced in --> april 1976
+[the] park's closure --> [was] announced in --> april 1976
+[the] parks closure --> [was] announced in --> april 1976
+[the] park --> closed in --> april 1976
+closure of [the] willow grove park --> [was] announced in --> april 1976
+[the] willow grove park ['s] closure --> [was] announced in --> april 1976
+[the] willow grove park's closure --> [was] announced in --> april 1976
+[the] willow grove parks closure --> [was] announced in --> april 1976
+[the] willow grove park --> closed in --> april 1976
+
+sent_id:40	light beer is even lower in calories , with most varieties ( including the highly marketed michelob ultra and flavored beers such as bud light lime ) ranging from 95 to 110 calories and 3.2 to 8 grams of carbs per 12 ounces . ||| how many calories in natural light beer
+40--> Cluster 1:
+[natural] light beer --> ranging from --> 95 to 110 calories
+[natural] light beer --> ranging --> from 95 to 110 calories
+[natural] light beer --> ranges from --> 95 to 110 calories
+[natural] light beer --> ranges --> from 95 to 110 calories
+[natural] light beer --> has [from] --> 95 to 110 calories
+[natural] light beer --> has --> [from] 95 to 110 calories
+[natural] light beer --> contains [from] --> 95 to 110 calories
+[natural] light beer --> contains --> [from] 95 to 110 calories
+[most] varieties of [natural] light beer --> ranging from --> 95 to 110 calories
+[most] varieties of [natural] light beer --> ranging --> from 95 to 110 calories
+[most] varieties of [natural] light beer --> ranges from --> 95 to 110 calories
+[most] varieties of [natural] light beer --> ranges --> from 95 to 110 calories
+[most] varieties of [natural] light beer --> has [from] --> 95 to 110 calories
+[most] varieties of [natural] light beer --> has --> [from] 95 to 110 calories
+[most] varieties of [natural] light beer --> contains [from] --> 95 to 110 calories
+[most] varieties of [natural] light beer --> contains --> [from] 95 to 110 calories
+
+sent_id:41	beer bar startup costs range from about $ 20,000 to $ 100,000 , depending on size and location . the revenue potential depends on the geographical location and drinking trends in the community . ||| how much does it cost to start a bar
+41--> Cluster 1:
+[beer] bar [startup] costs --> range from --> [about] [$] 20,000 to [$] 100,000
+[beer] bar [startup] costs --> range --> from [about] [$] 20,000 to [$] 100,000
+[beer] bar [startup] --> costs from --> [about] [$] 20,000 to [$] 100,000
+[beer] bar [startup] --> costs --> from [about] [$] 20,000 to [$] 100,000
+starting [a] bar --> costs from --> [about] [$] 20,000 to [$] 100,000
+starting [a] bar --> costs --> from [about] [$] 20,000 to [$] 100,000
+[beer] bar [startup] costs --> range from --> [about] [$] 20000 to [$] 100000
+[beer] bar [startup] costs --> range --> from [about] [$] 20000 to [$] 100000
+[beer] bar [startup] --> costs from --> [about] [$] 20000 to [$] 100000
+[beer] bar [startup] --> costs --> from [about] [$] 20000 to [$] 100000
+starting [a] bar --> costs from --> [about] [$] 20000 to [$] 100000
+starting [a] bar --> costs --> from [about] [$] 20000 to [$] 100000
+[beer] bar [startup] costs --> range from --> [about] [$] 20 [,] 000 to [$] 100[,] 000 
+[beer] bar [startup] costs --> range --> from [about] [$] 20,000 to [$] 100[,] 000 
+[beer] bar [startup] --> costs from --> [about] [$] 20[,] 000  to [$] 100[,] 000 
+[beer] bar [startup] --> costs --> from [about] [$] 20[,] 000  to [$] 100[,] 000 
+starting [a] bar --> costs from --> [about] [$] 20[,] 000  to [$] 100[,] 000 
+starting [a] bar --> costs --> from [about] [$] 20[,] 000  to [$] 100[,] 000 
+
+sent_id:42	salmonella is commonly found in raw food products that come from animals , such as eggs , egg products , meat , meat products , unpasteurized milk , or other unpasteurized dairy products . thorough cooking and processing effectively kills salmonella bacteria . ||| where does salmonella come from
+42--> Cluster 1:
+salmonella --> is [commonly] found in --> raw food [products]
+salmonella --> comes from --> raw food [products]
+
+sent_id:43	silverton mountain is located in san juan county , just six miles from the historic mining town of silverton , colorado . the ski area is best known for adventure , powder and steep terrain . ||| where is silverton colorado located
+43--> Cluster 1:
+silverton [mountain] --> [is] located in --> san juan [county]
+silverton [mountain] --> is [located] in --> san juan [county]
+silverton [colorado] --> [is] located in --> san juan [county]
+silverton [colorado] --> is [located] in --> san juan [county]
+43--> Cluster 2:
+silverton [mountain] --> [is] located in --> colorado
+silverton [mountain] --> is [located] in --> colorado
+silverton [colorado] --> [is] located in --> colorado
+silverton [colorado] --> is [located] in --> colorado
+43--> Cluster 3:
+silverton [mountain] --> [is] located [just] six miles from --> town of silverton
+silverton [mountain] --> [is] located [just] six miles from --> silverton town
+silverton [mountain] --> is [located] [just] six miles from --> town of silverton
+silverton [mountain] --> is [located] [just] six miles from --> silverton town
+silverton [colorado] --> [is] located [just] six miles from --> town of silverton
+silverton [colorado] --> [is] located [just] six miles from --> silverton town
+silverton [colorado] --> is [located] [just] six miles from --> town of silverton
+silverton [colorado] --> is [located] [just] six miles from --> silverton town
+
+sent_id:44	a : prednisone is a corticosteroid medication which is used to treat various inflammatory conditions including temporary use for relief of allergic reactions . side effects associated with short term use of prednisone include insomnia , stomach upset , mood changes , increased appetite , and weight gain . ||| short term side effects of prednisone
+44--> Cluster 1:
+side effects associated with short term use of prednisone --> include --> insomnia
+side effects associated with short term use of prednisone --> are --> insomnia
+side effects associated with short term use of prednisone --> is --> insomnia
+side effects of short term use of prednisone --> include --> insomnia
+side effects of short term use of prednisone --> are --> insomnia
+side effects of short term use of prednisone --> is --> insomnia
+side effects associated with use of prednisone --> include --> insomnia
+side effects associated with use of prednisone --> are --> insomnia
+side effects associated with use of prednisone --> is --> insomnia
+side effects of use of prednisone --> include --> insomnia
+side effects of use of prednisone --> are --> insomnia
+side effects of use of prednisone --> is --> insomnia
+side effects associated with prednisone --> include --> insomnia
+side effects associated with prednisone --> are --> insomnia
+side effects associated with prednisone --> is --> insomnia
+side effects of prednisone --> include --> insomnia
+side effects of prednisone --> are --> insomnia
+side effects of prednisone --> is --> insomnia
+44--> Cluster 2:
+side effects associated with short term use of prednisone --> include --> stomach upset
+side effects associated with short term use of prednisone --> are --> stomach upset
+side effects associated with short term use of prednisone --> is --> stomach upset
+side effects of short term use of prednisone --> include --> stomach upset
+side effects of short term use of prednisone --> are --> stomach upset
+side effects of short term use of prednisone --> is --> stomach upset
+side effects associated with use of prednisone --> include --> stomach upset
+side effects associated with use of prednisone --> are --> stomach upset
+side effects associated with use of prednisone --> is --> stomach upset
+side effects of use of prednisone --> include --> stomach upset
+side effects of use of prednisone --> are --> stomach upset
+side effects of use of prednisone --> is --> stomach upset
+side effects associated with prednisone --> include --> stomach upset
+side effects associated with prednisone --> are --> stomach upset
+side effects associated with prednisone --> is --> stomach upset
+side effects of prednisone --> include --> stomach upset
+side effects of prednisone --> are --> stomach upset
+side effects of prednisone --> is --> stomach upset
+44--> Cluster 3:
+side effects associated with short term use of prednisone --> include --> mood changes
+side effects associated with short term use of prednisone --> are --> mood changes
+side effects associated with short term use of prednisone --> is --> mood changes
+side effects of short term use of prednisone --> include --> mood changes
+side effects of short term use of prednisone --> are --> mood changes
+side effects of short term use of prednisone --> is --> insomnimood changesa
+side effects associated with use of prednisone --> include --> mood changes
+side effects associated with use of prednisone --> are --> mood changes
+side effects associated with use of prednisone --> is --> mood changes
+side effects of use of prednisone --> include --> mood changes
+side effects of use of prednisone --> are --> mood changes
+side effects of use of prednisone --> is --> mood changes
+side effects associated with prednisone --> include --> mood changes
+side effects associated with prednisone --> are --> mood changes
+side effects associated with prednisone --> is --> mood changes
+side effects of prednisone --> include --> mood changes
+side effects of prednisone --> are --> mood changes
+side effects of prednisone --> is --> mood changes
+44--> Cluster 4:
+side effects associated with short term use of prednisone --> include --> increased appetite
+side effects associated with short term use of prednisone --> are --> increased appetite
+side effects associated with short term use of prednisone --> is --> insomincreased appetitenia
+side effects of short term use of prednisone --> include --> increased appetite
+side effects of short term use of prednisone --> are --> increased appetite
+side effects of short term use of prednisone --> is --> increased appetite
+side effects associated with use of prednisone --> include --> increased appetite
+side effects associated with use of prednisone --> are --> increased appetite
+side effects associated with use of prednisone --> is --> increased appetite
+side effects of use of prednisone --> include --> increased appetite
+side effects of use of prednisone --> are --> increased appetite
+side effects of use of prednisone --> is --> increased appetite
+side effects associated with prednisone --> include --> increased appetite
+side effects associated with prednisone --> are --> increased appetite
+side effects associated with prednisone --> is --> increased appetite
+side effects of prednisone --> include --> increased appetite
+side effects of prednisone --> are --> increased appetite
+side effects of prednisone --> is --> increased appetite
+44--> Cluster 5:
+side effects associated with short term use of prednisone --> include --> weight gain
+side effects associated with short term use of prednisone --> are --> weight gain
+side effects associated with short term use of prednisone --> is --> weight gain
+side effects of short term use of prednisone --> include --> weight gain
+side effects of short term use of prednisone --> are --> weight gain
+side effects of short term use of prednisone --> is --> weight gain
+side effects associated with use of prednisone --> include --> weight gain
+side effects associated with use of prednisone --> are --> weight gain
+side effects associated with use of prednisone --> is --> weight gain
+side effects of use of prednisone --> include --> weight gain
+side effects of use of prednisone --> are --> weight gain
+side effects of use of prednisone --> is --> weight gain
+side effects associated with prednisone --> include --> weight gain
+side effects associated with prednisone --> are --> weight gain
+side effects associated with prednisone --> is --> weight gain
+side effects of prednisone --> include --> weight gain
+side effects of prednisone --> are --> weight gain
+side effects of prednisone --> is --> weight gain
+
+sent_id:45	an estimate from 2007 reported that more than 15,000 federal lobbyists were based in washington , dc another estimate from 2011 suggested that the count of registered lobbyists who have actually lobbied was closer to 12,000 . ||| how many lobbyists are in washington dc
+45--> Cluster 1:
+[an] estimate from 2007 --> reported that more than 15,000 [federal] lobbyists were [based] in --> washington [,] dc
+[an] estimate from 2007 --> reported that 15,000 [federal] lobbyists were [based] in --> washington [,] dc
+[an] estimate from 2007 --> reported that --> more than 15,000 [federal] lobbyists were [based] in washington [,] dc
+[an] estimate from 2007 --> reported that --> 15,000 [federal] lobbyists were [based] in washington [,] dc
+15,000 [federal] lobbyists --> were [based] in  --> washington [,] dc
+[an] estimate from 2007 --> reported that more than 15 [,] 000 [federal] lobbyists were [based] in --> washington [,] dc
+[an] estimate from 2007 --> reported that 15 [,] 000 [federal] lobbyists were [based] in --> washington [,] dc
+[an] estimate from 2007 --> reported that --> more than 15 [,] 000 [federal] lobbyists were [based] in washington [,] dc
+[an] estimate from 2007 --> reported that --> 15 [,] 000 [federal] lobbyists were [based] in washington [,] dc
+15 [,] 000 [federal] lobbyists --> were [based] in  --> washington [,] dc
+
+sent_id:46	jacob anderson ( born 18 june 1990 ) , also known by his stage name raleigh ritchie , is a british actor and singer best known for his role as omen in the film adulthood and as grey worm in the television series game of thrones . ||| who is jacob anderson
+46--> Cluster 1:
+jacob anderson --> is --> [a] [british] actor
+46--> Cluster 2:
+jacob anderson --> is --> [a] [british] singer
+46--> Cluster 3:
+jacob anderson --> also known by --> [his] stage name raleigh ritchie
+jacob anderson --> also known by --> [his] stage name raleigh ritchie
+jacob anderson --> also known by --> raleigh ritchie
+jacob anderson --> also known as --> raleigh ritchie
+
+sent_id:47	for example , the irs states that you must retain your tax returns and all supporting documents including bank statements for a minimum of three years , which is generally how long they have to audit a tax return . ||| how many years do i keep tax returns
+47--> Cluster 1:
+[the] irs --> states --> [that] you [must] retain [your] tax returns for [a] minimum of three years
+[the] irs --> states [that] --> you [must] retain [your] tax returns for [a] minimum of three years
+[the] irs --> states [that] you [must] --> retain [your] tax returns for [a] minimum of three years
+[the] irs --> states [that] you [must] retain [your] tax returns for --> [a] minimum of three years
+[the] irs --> states [that] you [must] retain [your] tax returns for [a] minimum of --> three years
+[the] irs --> states --> [that] you [must] retain [your] tax returns for three years
+[the] irs --> states [that] --> you [must] retain [your] tax returns for three years
+[the] irs --> states [that] you [must] --> retain [your] tax returns for three years
+[the] irs --> states [that] you [must] retain [your] tax returns for --> three years
+you [must] --> retain [your] tax returns for --> [a] minimum of three years
+you [must] --> retain [your] tax returns for [a] minimum of --> three years
+you [must] --> retain [your] tax returns for --> three years
+
+sent_id:48	as of 27 march 2012 , japan had only one out of 54 nuclear reactors operating the tomari-3 , after the kashiwazaki-kariwa 6 was shut down . ||| how many nuclear reactors in japan
+48--> Cluster 1:
+japan --> had --> 54 nulear reactors
+japan --> has --> 54 nulear reactors
+54 nulear reactors --> are in --> japan
+48--> Cluster 2:
+japan --> had --> [only] one nulear reactors operating
+japan --> has --> [only] one nulear reactors operating
+japan --> had --> [only] one operating nulear reactors
+japan --> has --> [only] one operating nulear reactors
+[only] one nulear reactors operating --> are in --> japan
+[only] one nulear reactors operating --> is in --> japan
+[only] one operating nulear reactors --> are in --> japan
+[only] one operating nulear reactors --> is in --> japan
+
+sent_id:49	the standard placement of an eye chart is to be 20 feet away from the viewer . as most doctor s offices are smaller than that distance , many eye doctors utilize a mirror set up to simulate a distance of 20 feet . the chart in this case actually hangs behind the patient . ||| distance from eye chart
+49--> Cluster 1:
+[the] [standard] placement of [an] eye chart --> is to be --> 20 feet away from [the] viewer
+[the] [standard] placement of [an] eye chart --> is --> 20 feet away from [the] viewer
+[an] eye chart --> is to be --> 20 feet away from [the] viewer
+[an] eye chart --> is --> 20 feet away from [the] viewer
+
+sent_id:50	the united states fifty - dollar bill ( $ 50 ) is a denomination of united states currency . the 18th u.s. president ( 1869 77 ) , ulysses s. grant , is featured on the obverse , while the u.s. capitol is featured on the reverse . ||| who is on the on 50 dollar bill
+50--> Cluster 1:
+ulysses [s.] grant --> is [featured] on --> [the] 50 dollar bill
+ulysses [s.] grant --> is [featured] on --> [the] fifty [-] dollar bill
+ulysses [s.] grant --> is [featured] on --> [the] [$] 50 bill
+ulysses [s.] grant --> is [featured] on [the] obverse of --> [the] 50 dollar bill
+ulysses [s.] grant --> is [featured] on [the] obverse of --> [the] fifty [-] dollar bill
+ulysses [s.] grant --> is [featured] on [the] obverse of --> [the] [$] 50 bill
+
+sent_id:51	the united states postal services reports that as of january 2011 , it takes an average of one to three days for first - class mail to arrive at its destination . priority mail takes an average of one to two days to arrive , according to the usps . ||| how long will mail take to arrive
+51--> Cluster 1:
+it --> takes [an] average of one to three days for --> first [-] class mail to arrive at [its] destination
+it --> takes [an] average of one to three days for first [-] class mail to --> arrive at [its] destination
+it --> takes [an] average of one to three days for first [-] class mail to arrive at --> [its] destination
+it --> takes [an] average of one to three days for --> mail to arrive at [its] destination
+it --> takes [an] average of one to three days for mail to --> arrive at [its] destination
+it --> takes [an] average of one to three days for mail to arrive at --> [its] destination
+it --> takes one to three days for --> first [-] class mail to arrive at [its] destination
+it --> takes one to three days for first [-] class mail to --> arrive at [its] destination
+it --> takes one to three days for first [-] class mail to arrive at --> [its] destination
+it --> takes one to three days for --> mail to arrive at [its] destination
+it --> takes one to three days for mail to --> arrive at [its] destination
+it --> takes one to three days for mail to arrive at --> [its] destination
+first [-] class mail --> will arrive at [its] destination in --> [an] average of one to three days
+first [-] class mail --> will arrive at [its] destination in --> one to three days
+mail --> will arrive at [its] destination in --> [an] average of one to three days
+mail --> will arrive at [its] destination in --> one to three days
+51--> Cluster 2:
+it --> takes [an] average of one to two days for --> priority mail mail to arrive at [its] destination
+it --> takes [an] average of one to two days for priority mail mail to --> arrive at [its] destination
+it --> takes [an] average of one to two days for priority mail mail to arrive at --> [its] destination
+it --> takes [an] average of one to two days for --> mail to arrive at [its] destination
+it --> takes [an] average of one to two days for mail to --> arrive at [its] destination
+it --> takes [an] average of one to two days for mail to arrive at --> [its] destination
+it --> takes one to two days for --> priority mail mail to arrive at [its] destination
+it --> takes one to two days for priority mail mail to --> arrive at [its] destination
+it --> takes one to two days for priority mail mail to arrive at --> [its] destination
+it --> takes one to two days for --> mail to arrive at [its] destination
+it --> takes one to two days for mail to --> arrive at [its] destination
+it --> takes one to two days for mail to arrive at --> [its] destination
+priority mail mail --> will arrive at [its] destination in --> [an] average of one to two days
+priority mail mail --> will arrive at [its] destination in --> one to two days
+mail --> will arrive at [its] destination in --> [an] average of one to two days
+mail --> will arrive at [its] destination in --> one to two days
+
+sent_id:52	located in central florida , it is the center of the orlando metropolitan area , which had a population of 2,134,411 at the 2010 census , making it the 26th largest metropolitan area in the united states , the sixth largest metropolitan area in the southern united states , and the third largest metropolitan area in the state of florida . ||| orlando metro area population
+52--> Cluster 1:
+[the] orlando metropolitan area --> had [a] population of --> 2,134,411
+[the] orlando metropolitan area --> has [a] population of --> 2,134,411
+[the] orlando metropolitan area --> had [a] population of --> 2 [,] 134 [,] 411
+[the] orlando metropolitan area --> has [a] population of --> 2 [,] 134 [,] 411
+[the] orlando metro area --> had [a] population of --> 2,134,411
+[the] orlando metro area --> has [a] population of --> 2,134,411
+[the] orlando metro area --> had [a] population of --> 2 [,] 134 [,] 411
+[the] orlando metro area --> has [a] population of --> 2 [,] 134 [,] 411 
+
+sent_id:53	the university of alabama in tuscaloosa is the largest university in the state with 36,155 enrolled for fall 2014 . calhoun community college in decatur is the largest two - year college , with an enrollment of 12,134 . ||| alabama two year college enrollment
+53--> Cluster 1:
+[the] university of alabama --> has --> 36,155 enrolled
+[the] university of alabama --> has --> 36,155 two year college enrollment
+
+sent_id:54	riverhead , new york , located on eastern long island , contains a neighborhood known as polish town , where many polish immigrants have continued to settle since the world war ii era the town has polish architecture , stores , and st. isidore 's r.c. ||| where did polish immigrants settle in america
+54--> Cluster 1:
+[many] polish immigrants --> settle in --> riverhead
+[many] polish immigrants --> [have] settled in --> riverhead
+54--> Cluster 2:
+[many] polish immigrants --> settle in --> new york
+[many] polish immigrants --> [have] settled in --> new york
+54--> Cluster 3:
+[many] polish immigrants --> settle in --> polish town
+[many] polish immigrants --> [have] settled in --> polish town
+
+sent_id:55	however , baby grand pianos are not as expensive as the normal grand pianos , which is why a large number of people opt to purchase a baby grand . the price range of baby grand pianos is from $ 8000 to a maximum of $ 20,000 . ||| baby grand piano price range
+55--> Cluster 1:
+[the] price [range] of baby grand pianos --> is --> from [$] 8000 to [a] maximum of [$] 20,000
+[the] price [range] of baby grand pianos --> is --> from [$] 8000 to [$] 20,000
+baby grand pianos --> is --> from [$] 8000 to [a] maximum of [$] 20,000
+baby grand pianos --> is --> from [$] 8000 to [$] 20,000
+
+sent_id:56	the concept for which pavlov is famous is the conditioned reflex ( or in his own words the conditional reflex ) he developed jointly with his assistant ivan filippovitch tolochinov in 1901 . ||| who discovered conditioned reflex
+56--> Cluster 1:
+pavlov --> discovered --> conditioned reflex
+pavlov --> [is] famous for --> [the] conditioned reflex
+pavlov --> developed --> [the] conditioned reflex
+conditioned reflex --> [was] discovered by --> pavlov 
+conditioned reflex --> [was] developed by --> pavlov 
+
+sent_id:57	the typical salary for a cbre transaction coordinator ranges from $ 36,851 - $ 54,329 , with an average salary of $ 47,077 . salaries estimates based on 5 salary submitted anonymously to glassdoor by cbre transaction coordinator employees . salaries by job . salaries by company . ||| cbre transaction coordinator salary
+57--> Cluster 1:
+[the] [typical] salary for [a] cbre transaction coordinator --> ranges from --> [$] 36,851 - [$] 54,329
+[the] [typical] salary for [a] cbre transaction coordinator --> ranges --> from [$] 36,851 - [$] 54,329
+[the] [typical] salary for [a] cbre transaction coordinator --> ranges from --> [$] 36 [,] 851 - [$] 54 [,] 329
+[the] [typical] salary for [a] cbre transaction coordinator --> ranges --> from [$] 36 [,] 851 - [$] 54 [,] 329
+57--> Cluster 2:
+[the] salary for [a] cbre transaction coordinator --> is [an] average [of] --> [$] 47,077
+[the] [average] salary for [a] cbre transaction coordinator --> is [of] --> [$] 47,077
+[the] [average] salary for [a] cbre transaction coordinator --> is [of] --> [$] 47 [,] 077
+
+sent_id:58	anywhere from two to eight sideboys can be placed this depends on the officer 's rank or paygrade . the president rates the maximum number of sideboys ( 8 ) , as does the vice president and the chief of naval operations . ||| number of side boys navy
+58--> Cluster 1:
+two to eight sideboys --> can be --> placed
+anywhere from two to eight sideboys --> can be --> placed
+
+sent_id:59	most veggie burgers weigh 2.5 ounces , or 71 grams , and have 70 to 170 calories each . a standard meat portion , in contrast , is three ounces after cooking . ||| calories in a veggie burger
+59--> Cluster 1:
+[most] veggie burgers --> have --> 70 to 170 calories [each]
+[most] veggie burgers --> has --> 70 to 170 calories [each]
+
+sent_id:60	in the 1960s television series , thingstrictly speaking , a disembodied forearm , since he occasionally emerged from his box at near - elbow lengthwas usually played by ted cassidy , who also played the lugubrious butler lurch , although the two characters occasionally appeared in the same scene ( in which case thing would be played by a crew member , notably assistant director jack voglin ) . ||| who played thing on the addams family tv show
+60--> Cluster 1:
+ted cassidy --> [usually] played --> thing
+thing --> [was] [usually] played by --> ted cassidy
+thing --> [is] [usually] played by --> ted cassidy
+thing --> [be] [usually] played by --> ted cassidy
+60--> Cluster 2:
+[a] crew member --> [occasionally] played --> thing
+thing --> [was] [occasionally] played by --> [a] crew member
+thing --> [is] [occasionally] played by --> [a] crew member
+thing --> [be] [occasionally] played by --> [a] crew member
+60--> Cluster 3:
+jack voglin --> [occasionally] played --> thing
+thing --> [was] [occasionally] played by --> jack voglin
+thing --> [is] [occasionally] played by --> jack voglin
+thing --> [be] [occasionally] played by --> jack voglin
+
+sent_id:61	colchis was located on the eastern coast of the black sea , centered on present - day western georgia . ||| where is colchis
+61--> Cluster 1:
+colchis --> [was] located on --> [the] [eastern] coast of [the] black sea
+colchis --> [is] located on --> [the] [eastern] coast of [the] black sea
+colchis --> [be] located on --> [the] [eastern] coast of [the] black sea
+61--> Cluster 2:
+colchis --> [was] centered on --> present [-] day western georgia
+colchis --> [was] centered on --> western georgia
+colchis --> [is] centered on --> present [-] day western georgia
+colchis --> [is] centered on --> western georgia
+colchis --> [be] centered on --> present [-] day western georgia
+colchis --> [be] centered on --> western georgia
+
+sent_id:62	the cell was first discovered by robert hooke in 1665 , which can be found to be described in his book micrographia . in this book , he gave 60 observations in detail of various objects under a coarse , compound microscope . ||| what year did robert hooke discover cells
+62--> Cluster 1:
+[the] cell --> [was] [first] discovered by robert hooke in --> 1665
+[the] cell --> [was] [first] discovered in --> 1665
+
+sent_id:63	of the nearly 2 million inmates being held in prisons and jails across the country , experts believe nearly 500,000 are mentally ill . ||| how many mentally ill are in prison
+63--> Cluster 1:
+500,000 mentally ill [inmates] --> are in --> prison
+500,000 mentally ill [inmates] --> are --> in prison
+500,000 inmates --> are --> mentally ill
+500,000 of [the] [nearly] 2 million inmates --> are --> mentally ill
+500,000 inmates of [the] [nearly] 2 million --> are --> mentally ill
+
+sent_id:64	in providing the voice of the minions , coffin uses words from languages including french , english , spanish and italian . there are a lot of food references , renaud added . ||| what language do minions speak
+64--> Cluster 1:
+[the] voice of [the] minions --> uses words from languages including --> french [,] english [,] spanish [and] italian
+[the] minions --> uses words from languages including --> french [,] english [,] spanish [and] italian
+[the] voice of [the] minions --> uses words from --> french [,] english [,] spanish [and] italian
+[the] minions --> uses words from --> french [,] english [,] spanish [and] italian
+
+sent_id:65	the sauce itself does not contain any lobster , and may vary in preparation method from place to place or restaurant to restaurant . however , it will typically contain chicken broth , garlic , ginger , fermented black beans , and eggs , and is thickened with cornstarch . some recipes incorporate ground pork and soy sauce . ||| what is lobster sauce made from
+lobster sauce --> is [typically] made from --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs
+lobster sauce --> is [typically] made from --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs [,] [and] cornstarch
+[the] sauce --> is [typically] made from --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs
+[the] sauce --> is [typically] made from --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs [,] [and] cornstarch
+lobster sauce --> [will] [typically] contain --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs
+lobster sauce --> [will] [typically] contain --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs [,] [and] cornstarch
+[the] sauce --> [will] [typically] contain --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs
+[the] sauce --> [will] [typically] contain --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs [,] [and] cornstarch
+it --> [will] [typically] contain --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs
+it --> [will] [typically] contain --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs [,] [and] cornstarch
+it --> [will] [typically] contain --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs
+it --> [will] [typically] contain --> chicken broth [,] garlic [,] ginger [,] fermented black beans [,] [and] eggs [,] [and] cornstarch
+
+sent_id:66	south dakota tax rates . the south dakota ( sd ) state sales tax rate is currently 4.0 . depending on local municipalities , the total tax rate can be as high as 6 . ||| state of south dakota sales tax rate
+66--> Cluster 1:
+[the] south dakota [(] [sd] [)] [state] sales tax rate --> is [currently] --> 4.0
+
+sent_id:67	pebble beach has eight public and private 18 - hole golf courses . pebble beach golf links , the links at spanish bay , spyglass hill and peter hay golf course are owned by pebble beach company and are all public courses . ||| who owns pebble beach golf links
+67--> Cluster 1:
+pebble beach golf links --> [are] owned by --> pebble beach company
+pebble beach golf links --> [is] owned by --> pebble beach company
+pebble beach golf links --> [be] owned by --> pebble beach company
+pebble beach company --> owns --> pebble beach golf links
+
+sent_id:68	the ulnar collateral ligament ( ucl or internal lateral ligament ) is a thick triangular band at the medial aspect of the elbow uniting the distal aspect of the humerus to the proximal aspect of the ulna . ||| where is the ulnar collateral ligament
+68--> Cluster 1:
+[the] ulnar collateral ligament --> is at --> [the] medial aspect of [the] elbow uniting [the] distal aspect of [the] humerus to [the] proximal aspect of [the] ulna
+[the] ulnar collateral ligament --> is --> at [the] medial aspect of [the] elbow uniting [the] distal aspect of [the] humerus to [the] proximal aspect of [the] ulna
+[the] ucl --> is at --> [the] medial aspect of [the] elbow uniting [the] distal aspect of [the] humerus to [the] proximal aspect of [the] ulna
+[the] ucl --> is --> at [the] medial aspect of [the] elbow uniting [the] distal aspect of [the] humerus to [the] proximal aspect of [the] ulna
+[the] internal lateral ligament --> is at --> [the] medial aspect of [the] elbow uniting [the] distal aspect of [the] humerus to [the] proximal aspect of [the] ulna
+[the] internal lateral ligament --> is --> at [the] medial aspect of [the] elbow uniting [the] distal aspect of [the] humerus to [the] proximal aspect of [the] ulna
+
+sent_id:69	berwick brk is a suburb in melbourne , victoria , australia , 41 kilometres ( 25 mi ) south - east of melbourne 's central business district . its local government area is the city of casey . at the 2011 census , berwick had a population of 44,779 . ||| where is berwick
+69--> Cluster 1:
+berwick [brk] --> is in --> melbourne
+69--> Cluster 2:
+berwick [brk] --> is in --> victoria
+69--> Cluster 3:
+berwick [brk] --> is in --> australia
+69--> Cluster 4:
+berwick [brk] --> is 41 kilometres south [-] east of --> melbourne ['s] central business district
+berwick [brk] --> is 25 mi south [-] east of --> melbourne ['s] central business district
+berwick [brk] --> is 41 kilometres south [-] east of --> melbourne
+berwick [brk] --> is 25 mi south [-] east of --> melbourne
+
+sent_id:70	three rivers is a census designated place ( cdp ) in tulare county , california , united states . the population was 2,182 at the 2010 census , down from 2,248 at the 2000 census . the town 's name comes from its location near the junction of the north , middle , and south forks of the kaweah river . ||| what county is 3 rivers ca in
+70--> Cluster 1:
+three rivers [ca] --> is in --> tulare [county]
+3 rivers [ca] --> is in --> tulare [county]
+
+sent_id:71	tuxedo in the context of menswear originated in the us around 1888 . it was named after tuxedo park , a hudson valley enclave for new york s social elite where it was often seen in its early years . ||| when was the tuxedo invented
+71--> Cluster 1:
+tuxedo --> originated around --> 1888
+tuxedo --> was invented around --> 1888
+tuxedo in [the] context of menswear --> originated around --> 1888
+tuxedo in [the] context of menswear --> was invented around --> 1888
+
+sent_id:72	voyager 1 was 11.3 billion miles ( 18.3 billion kilometers , or 122 astronomical units ) away from the sun at that time . it was 11.3 billion miles ( 18.2 billion kilometers , or 121 astronomical units ) from earth . ||| how far away is voyager 1
+72--> Cluster 1:
+voyager 1 --> was --> 11.3 billion miles away
+voyager 1 --> is --> 11.3 billion miles away
+voyager 1 --> was 11.3 billion miles away from --> earth
+voyager 1 --> is 11.3 billion miles away from --> earth
+voyager 1 --> was --> 18.2 billion kilometers away
+voyager 1 --> is --> 18.2 billion kilometers away
+voyager 1 --> was 18.2 billion kilometers away from --> earth
+voyager 1 --> is 18.2 billion kilometers away from --> earth
+voyager 1 --> was --> 121 astronomical units away
+voyager 1 --> is --> 121 astronomical units away
+voyager 1 --> was 121 astronomical units away from --> earth
+voyager 1 --> is 121 astronomical units away from --> earth
+it --> was --> 11.3 billion miles away
+it --> is --> 11.3 billion miles away
+it --> was 11.3 billion miles away from --> earth
+it --> is 11.3 billion miles away from --> earth
+it --> was --> 18.2 billion kilometers away
+it --> is --> 18.2 billion kilometers away
+it --> was 18.2 billion kilometers away from --> earth
+it --> is 18.2 billion kilometers away from --> earth
+it --> was --> 121 astronomical units away
+it --> is --> 121 astronomical units away
+it --> was 121 astronomical units away from --> earth
+it --> is 121 astronomical units away from --> earth
+
+sent_id:73	the united states of america ( usa ) , commonly referred to as the united states ( u.s. ) or america , is a federal republic consisting of 50 states and a federal district . ||| how many states are in the usa
+73--> Cluster 1:
+[the] united states of america --> [is] consisting of --> 50 states
+[the] united states of america --> [be] consisting of --> 50 states
+[the] united states of america --> [is] consisting of --> 50 states and a federal district
+[the] united states of america --> [be] consisting of --> 50 states and a federal district
+[the] usa --> [is] consisting of --> 50 states
+[the] usa --> [be] consisting of --> 50 states
+[the] usa --> [is] consisting of --> 50 states and a federal district
+[the] usa --> [be] consisting of --> 50 states and a federal district
+[the] united states --> [is] consisting of --> 50 states
+[the] united states --> [be] consisting of --> 50 states
+[the] united states --> [is] consisting of --> 50 states and a federal district
+[the] united states --> [be] consisting of --> 50 states and a federal district
+[the] u.s. --> [is] consisting of --> 50 states
+[the] u.s. --> [be] consisting of --> 50 states
+[the] u.s. --> [is] consisting of --> 50 states and a federal district
+[the] u.s. --> [be] consisting of --> 50 states and a federal district
+america --> [is] consisting of --> 50 states
+america --> [be] consisting of --> 50 states
+america --> [is] consisting of --> 50 states and a federal district
+america --> [be] consisting of --> 50 states and a federal district
+50 states --> are in --> [the] united states of america
+50 states and a federal district --> are in --> [the] united states of america
+50 states and a federal district --> are in --> [the] usa
+50 states --> are in --> [the] usa
+50 states and a federal district --> are in --> [the] united states
+50 states --> are in --> [the] united states
+50 states and a federal district --> are in --> [the] u.s.
+50 states --> are in --> [the] u.s.
+50 states and a federal district --> are in --> america
+50 states --> are in --> america
+
+sent_id:74	it was time once again for intercolonial action . thus , on september 1774 , the first continental congress was convened in philadelphia . ||| where did the first continental congress take place
+74--> Cluster 1:
+[the] first continental congress --> [was] convened in --> philadelphia
+[the] first continental congress --> took place in --> philadelphia
+
+sent_id:75	the human skeleton is the internal framework of the body . it is composed of 270 bones at birth this total decreases to 206 bones by adulthood after some bones have fused together . the bone mass in the skeleton reaches maximum density around age 30 . ||| how many bones in human skeleton
+75--> Cluster 1:
+it --> is composed of --> 270 bones at birth
+it --> is composed of 270 bones at --> birth
+[the] human skeleton --> is composed of --> 270 bones at birth
+[the] human skeleton --> is composed of 270 bones at --> birth
+[the] human skeleton --> is composed of --> 270 bones
+it --> is composed of --> 270 bones
+75--> Cluster 2:
+it --> is composed of --> 206 bones by adulthood
+it --> is composed of 206 bones by --> adulthood
+[the] human skeleton --> is composed of --> 206 bones by adulthood
+[the] human skeleton --> is composed of 206 bones by --> adulthood
+[the] human skeleton --> is composed of --> 206 bones
+it --> is composed of --> 206 bones
+
+sent_id:76	density is a measure of mass per volume . the average density of an object equals its total mass divided by its total volume . an object made from a comparatively dense material ( such as iron ) will have less volume than an object of equal mass made from some less dense substance ( such as water ) . ||| density is a measure of
+76--> Cluster 1:
+density --> is [a] measure of --> mass per volume
+density --> is --> [a] measure of mass per volume
+
+sent_id:77	for commercial purposes , it is derived primarily from gelidium amansii . in chemical terms , agar is a polymer made up of subunits of the sugar galactose . ||| what is agar made out of
+77--> Cluster 1:
+agar --> is made up of --> subunits of [the] sugar [galactose]
+agar --> is made up of --> subunits of [galactose]
+agar --> is made up of --> [galactose]
+
+sent_id:78	the dating of cremated remains found on the site indicate that deposits contain human bone from as early as 3000 bc , when the ditch and bank were first dug . such deposits continued at stonehenge for at least another 500 years . ||| how old stonehenge
+78--> Cluster 1:
+deposits --> contain human bone from --> as early as 3000 bc
+deposits --> contain human bone from --> 3000 bc
+
+sent_id:79	as stated , one radian is equal to 180 degrees . thus , to convert from radians to degrees , multiply by 180 . ||| how much is one radian
+79--> Cluster 1:
+[one] radian --> is equal to --> 180 degrees
+[one] radian --> is --> 180 degrees
+
+sent_id:80	los angelesstage and screen actor james macarthur , who played danno in the original version of television 's hawaii five - o , died thursday at age 72 . ||| who was the original danno
+80--> Cluster 1:
+james macarthur --> played --> danno
+james macarthur --> played danno in --> [the] original version of television ['s] hawaii five [-] o
+james macarthur --> played danno in --> [the] original version of hawaii five [-] o
+james macarthur --> played danno in --> hawaii five [-] o
+james macarthur --> was --> [the] original danno
+
+sent_id:81	amethyst may exhibit one or both secondary hues , red and blue . the best varieties of amethysts can be found in siberia , sri lanka , brazil and the far east . ||| where are amethyst found
+81--> Cluster 1:
+amethysts --> can be found in --> siberia
+amethysts --> are found in --> siberia
+amethysts --> be found in --> siberia
+[the] best varieties of amethysts --> can be found in --> siberia
+[the] best varieties of amethysts --> are found in --> siberia
+[the] best varieties of amethysts --> be found in --> siberia
+81--> Cluster 2:
+amethysts --> can be found in --> sri lanka
+amethysts --> are found in --> sri lanka
+amethysts --> be found in --> sri lanka
+[the] best varieties of amethysts --> can be found in --> sri lanka
+[the] best varieties of amethysts --> are found in --> sri lanka
+[the] best varieties of amethysts --> be found in --> sri lanka
+81--> Cluster 3:
+amethysts --> can be found in --> brazil
+amethysts --> are found in --> brazil
+amethysts --> be found in --> brazil
+[the] best varieties of amethysts --> can be found in --> brazil
+[the] best varieties of amethysts --> are found in --> brazil
+[the] best varieties of amethysts --> be found in --> brazil
+81--> Cluster 4:
+amethysts --> can be found in --> [the] far east
+amethysts --> are found in --> [the] far east
+amethysts --> be found in --> [the] far east
+[the] best varieties of amethysts --> can be found in --> [the] far east
+[the] best varieties of amethysts --> are found in --> [the] far east
+[the] best varieties of amethysts --> be found in --> [the] far east
+
+sent_id:82	( my response ) maribeth monroe , who plays the boss alice murphy on the comedy central show workaholics , appeared in a recent ad for applebees . ||| who plays alice in workaholics
+82--> Cluster 1:
+maribeth monroe --> plays --> alice murphy
+maribeth monroe --> plays alice murphy in --> workaholics
+maribeth monroe --> plays alice murphy on --> workaholics
+maribeth monroe --> plays alice murphy in --> [the] comedy central show workaholics
+maribeth monroe --> plays alice murphy on --> [the] comedy central show workaholics
+
+sent_id:83	on average , the temperature on mars is about minus 80 degrees f ( minus 60 degrees c ) . in winter , near the poles temperatures can get down to minus 195 degrees f ( minus 125 degrees c ) . ||| how cold on mars
+83--> Cluster 1:
+[the] temperature on mars --> is --> [about] minus 80 degrees f
+[the] temperature on mars --> is --> [about] minus 60 degrees c
+[the] temperature on mars --> is on average --> [about] minus 80 degrees f
+[the] temperature on mars --> is on average --> [about] minus 60 degrees c
+[the] average temperature on mars --> is --> [about] minus 80 degrees f
+[the] average temperature on mars --> is --> [about] minus 60 degrees c
+
+sent_id:84	in 2009 , the company spun off wirelines in 14 states into a company that then merged with frontier communications in a deal valued at $ 8.6 billion . verizon also shed its telephone directory business in 2006 . ||| company that merged into verizon
+84--> Cluster 1:
+wirelines --> merged with --> frontier communications
+
+sent_id:85	missouri workers making minimum wage will see another small increase in their paychecks in 2014 as the state s rate increases by 15 cents to $ 7.50 an hour on jan. 1 . ||| minimum wage in missouri 2014
+85--> Cluster 1:
+[the] state ['s] rate --> increases to --> [$] 7.50 an hour
+[the] state ['s] minimum wage [rate] --> increases to --> [$] 7.50 an hour
+missouri ['s] rate --> increases to --> [$] 7.50 an hour
+missouri ['s] minimum wage [rate] --> increases to --> [$] 7.50 an hour
+minimum wage in missouri --> increases to --> [$] 7.50 an hour
+[the] state ['s] rate --> in 2014 was --> [$] 7.50 an hour
+[the] state ['s] minimum wage [rate] --> in 2014 was --> [$] 7.50 an hour
+missouri ['s] rate --> in 2014 was  --> [$] 7.50 an hour
+missouri ['s] minimum wage [rate] --> in 2014 was  --> [$] 7.50 an hour
+minimum wage in missouri --> in 2014 was  --> [$] 7.50 an hour
+[the] state ['s] rate --> in 2014 is --> [$] 7.50 an hour
+[the] state ['s] minimum wage [rate] --> in 2014 is --> [$] 7.50 an hour
+missouri ['s] rate --> in 2014 is  --> [$] 7.50 an hour
+missouri ['s] minimum wage [rate] --> in 2014 is  --> [$] 7.50 an hour
+minimum wage in missouri --> in 2014 is  --> [$] 7.50 an hour
+[the] state ['s] rate --> was --> [$] 7.50 an hour
+[the] state ['s] minimum wage [rate] --> was --> [$] 7.50 an hour
+missouri ['s] rate --> was  --> [$] 7.50 an hour
+missouri ['s] minimum wage [rate] --> was  --> [$] 7.50 an hour
+minimum wage in missouri --> was  --> [$] 7.50 an hour
+[the] state ['s] rate --> is --> [$] 7.50 an hour
+[the] state ['s] minimum wage [rate] --> is --> [$] 7.50 an hour
+missouri ['s] rate --> is  --> [$] 7.50 an hour
+missouri ['s] minimum wage [rate] --> is  --> [$] 7.50 an hour
+minimum wage in missouri --> is  --> [$] 7.50 an hour
+
+sent_id:86	it will cost you $ 44.00 to get married in ohio . some ohio counties charge $ 65.00 . the cost of receiving a marriage license varies from county to county and some ohio counties will only accept cash . ||| cost of marriage license in ohio
+86--> Cluster 1:
+it --> will cost [you] --> [$] 44.00 to get married in ohio
+it --> will cost [you] [$] 44.00 to --> get married in ohio
+it --> will cost [you] in ohio --> [$] 44.00 to get married
+it --> will cost [you] in ohio [$] 44.00 to --> get married
+cost of marriage license in ohio --> is --> [$] 44.00
+
+sent_id:87	bears are primarily found in the northern hemisphere , and with one exception , only in asia , north america and europe . the single exception is the spectacled bear ( tremarctos ornatus ) native to south america it inhabits the andean region . ||| where are bears found
+87--> Cluster 1:
+bears --> are [primarily] found in --> [the] northern hemisphere
+87--> Cluster 2:
+bears --> are [only] found in --> asia
+87--> Cluster 3:
+bears --> are [only] found in --> north america
+87--> Cluster 4:
+bears --> are [only] found in --> europe
+
+sent_id:88	burl icle ivanhoe ives ( june 14 , 1909 april 14 , 1995 ) was an american actor , writer , and folk singer . as an actor , ives ' work included comedies , dramas , and voice work in theater , television , and motion pictures . ||| who is burl ives
+88--> Cluster 1:
+burl [icle] [ivanhoe] ives --> was --> [an] [american] actor
+burl [icle] [ivanhoe] ives --> is --> [an] [american] actor
+88--> Cluster 2:
+burl [icle] [ivanhoe] ives --> was --> [an] [american] writer
+burl [icle] [ivanhoe] ives --> is --> [an] [american] writer
+88--> Cluster 3:
+burl [icle] [ivanhoe] ives --> was --> [an] [american] folk singer
+burl [icle] [ivanhoe] ives --> is --> [an] [american] folk singer
+
+sent_id:89	the human skeleton is the internal framework of the body . it is composed of 270 bones at birth this total decreases to 206 bones by adulthood after some bones have fused together . the bone mass in the skeleton reaches maximum density around age 30 . ||| how many bones in humans
+89--> Cluster 1:
+it --> is composed of --> 270 bones at birth
+it --> is composed of 270 bones at --> birth
+[the] human --> is composed of --> 270 bones at birth
+[the] human --> is composed of 270 bones at --> birth
+[the] human --> is composed of --> 270 bones
+it --> is composed of --> 270 bones
+humans --> have --> 270 bones
+89--> Cluster 2:
+it --> is composed of --> 206 bones by adulthood
+it --> is composed of 206 bones by --> adulthood
+[the] human --> is composed of --> 206 bones by adulthood
+[the] human --> is composed of 206 bones by --> adulthood
+[the] human --> is composed of --> 206 bones
+it --> is composed of --> 206 bones
+humans --> have --> 206 bones
+
+sent_id:90	effective july 1 , 2014 , the minimum wage in california is $ 9.00 per hour . effective january 1 , 2016 , the minimum wage in california is $ 10.00 per hour . ||| state minimum wage in ca
+90--> Cluster 1:
+[the] minimum wage in california effective july 1 [,] 2014 --> is --> [$] 9.00 per hour
+[the] minimum wage in california --> is --> [$] 9.00 per hour
+state minimum wage in ca effective july 1 [,] 2014 --> is --> [$] 9.00 per hour
+state minimum wage in ca --> is --> [$] 9.00 per hour
+90--> Cluster 2:
+[the] minimum wage in california effective january 1 [,] 2016 --> is --> [$] 10.00 per hour
+[the] minimum wage in california --> is --> [$] 10.00 per hour
+state minimum wage in ca effective january 1 [,] 2016 --> is --> [$] 10.00 per hour
+state minimum wage in ca --> is --> [$] 10.00 per hour
+
+sent_id:91	according to the u.s. department of energy , 1.3 million gallons ( 4.9 million liters ) of petroleum are spilled into u.s. waters from vessels and pipelines in a typical year . a major oil spill could easily double that amount . ||| amount of oil spilled yearly
+91--> Cluster 1:
+4.9 million liters of petroleum --> are --> spilled
+4.9 million liters of petroleum --> are spilled --> XXX
+4.9 million liters of petroleum --> are spilled according to --> [the] u.s. department of energy
+4.9 million liters of petroleum --> are according to [the] u.s. department of energy --> spilled
+1.3 million gallons of petroleum --> are --> spilled
+1.3 million gallons of petroleum --> are spilled --> XXX
+1.3 million gallons of petroleum --> are spilled according to --> [the] u.s. department of energy
+1.3 million gallons of petroleum --> are according to [the] u.s. department of energy --> spilled
+
+sent_id:92	asics ltd. began as onitsuka co. , ltd on september 1 , 1949 . its founder , kihachiro onitsuka , began manufacturing basketball shoes in his home town of kobe , hyogo prefecture , japan . ||| who founded asics
+92--> Cluster 1:
+kihachiro onitsuka --> founded --> asics [ltd.]
+kihachiro onitsuka --> founded --> it
+kihachiro onitsuka --> founded --> its
+kihachiro onitsuka --> [is] founder of --> asics [ltd.]
+kihachiro onitsuka --> [is] founder of --> it
+kihachiro onitsuka --> [is] founder of --> its
+kihachiro onitsuka --> [be] founder of --> asics [ltd.]
+kihachiro onitsuka --> [be] founder of --> it
+kihachiro onitsuka --> [be] founder of --> its
+asics [ltd.] ['s] founder --> is --> kihachiro onitsuka
+asics [ltd.] founder --> is --> kihachiro onitsuka
+it ['s] founder --> is --> kihachiro onitsuka
+its founder --> is --> kihachiro onitsuka
+
+sent_id:93	friedrich gretsch manufactured banjos , tambourines , and drums until his death in 1895 . in 1916 , his son , friedrich jr. moved operations to brooklyn , new york where gretsch went on to become one of the most prominent manufacturers of american musical instruments . ||| where are gretsch electromatic made
+93--> Cluster 1:
+friedrich jr. --> moved operations to --> brooklyn
+gretsch electromatic --> are made in --> brooklyn
+93--> Cluster 2:
+friedrich jr. --> moved operations to --> new york
+gretsch electromatic --> are made in --> new york
+
+sent_id:94	the match points are scored on the cribbage board using the holes reserved for match points . on a spiral board , these are often at the bottom of the board in a line with 5 or 7 holes . ||| how many holes are in a cribbage board
+94--> Cluster 1:
+these --> are often in a line with --> 5 holes
+in [a] cribbage board --> [there] are --> 5 holes
+94--> Cluster 2:
+these --> are often in a line with --> 7 holes
+in [a] cribbage board --> [there] are --> 7 holes
+
+sent_id:95	kingston jamaica was founded on this date in 1692 . it is the capital and chief port of jamaica , an island nation in the west indies . kingston lies on the southeast coast of jamaica , at the northern end of a nearly landlocked harbor . ||| when was kingston jamaica founded
+95--> Cluster 1:
+kingston jamaica --> [was] founded in --> 1692
+
+sent_id:96	correlation of the measurements taken radiographically and by inclinometer demonstrated an almost linear correlation for measurements of the total lumbar range of motion ( r 0.97 p 0.001 ) and flexion ( r 0.98 p 0.001 ) , whereas extension ( r 0.75 p 0.001 ) did not correlate as well . ||| lumbar range of motion measurements
+96--> Cluster 1:
+measurements of [the] [total] lumbar range of motion --> are --> r 0.97 p 0.001
+measurements of [the] [total] lumbar range of motion --> is --> r 0.97 p 0.001
+measurements of [the] [total] lumbar range of motion --> be --> r 0.97 p 0.001
+[total] lumbar range of motion --> are --> r 0.97 p 0.001
+[total] lumbar range of motion --> is --> r 0.97 p 0.001
+[total] lumbar range of motion --> be --> r 0.97 p 0.001
+
+sent_id:97	notable animals in the arctic tundra include caribou ( reindeer ) , musk ox , arctic hare , arctic fox , snowy owl , lemmings , and polar bears ( only near ocean - fed bodies of water ) . ||| what are some animals that can only live in the tundra
+97--> Cluster 1:
+[notable] animals in [the] [arctic] tundra --> include --> caribou
+[notable] animals in [the] [arctic] tundra --> include --> reindeer
+97--> Cluster 2:
+[notable] animals in [the] [arctic] tundra --> include --> musk ox
+97--> Cluster 3:
+[notable] animals in [the] [arctic] tundra --> include --> arctic fox
+97--> Cluster 4:
+[notable] animals in [the] [arctic] tundra --> include --> snowy owl
+97--> Cluster 5:
+[notable] animals in [the] [arctic] tundra --> include --> lemmings
+97--> Cluster 6:
+[notable] animals in [the] [arctic] tundra --> include --> polar bears
+
+sent_id:98	griffin is a city in and the county seat of spalding county in the u.s. state of georgia . it is part of the atlanta metropolitan area . as of the 2010 census , the city had a population of 23,643 . ||| what is the county for griffin ga
+98--> Cluster 1:
+griffin [ga] --> is [the] county seat of --> spalding [county]
+[the] county of griffin [ga] --> is --> spalding [county]
+[the] county for griffin [ga] --> is --> spalding [county]
+
+sent_id:99	written while irving was living abroad in birmingham , england , the legend of sleepy hollow was first published in 1820 . ||| when was sleepy hollow written
+99--> Cluster 1:
+[the] legend of sleepy hollow --> was written while --> irving was living abroad
+sleepy hollow --> was written while --> irving was living abroad
+99--> Cluster 2:
+[the] legend of sleepy hollow --> was [first] published in --> 1820
+sleepy hollow --> was [first] published in --> 1820
+
+sent_id:100	a national football league ref can make anywhere from $ 25,000 to $ 70,000 a season , although since most of the games are on sundays , they can also have other jobs during the week . ( we'll get to those in a minute . ) ||| how much does an nfl ref make
+100--> Cluster 1:
+[a] national football league ref --> [can] make [anywhere] --> from [$] 25,000 to [$] 70,000 a season
+[a] national football league ref --> [can] make --> [anywhere] from [$] 25,000 to [$] 70,000 a season
+[a] nfl ref --> [can] make [anywhere] --> from [$] 25,000 to [$] 70,000 a season
+[a] nfl ref --> [can] make --> [anywhere] from [$] 25,000 to [$] 70,000 a season

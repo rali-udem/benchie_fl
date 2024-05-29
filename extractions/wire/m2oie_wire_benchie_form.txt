@@ -1,0 +1,107 @@
+1	Chilly Gonzales (born Charles March	is	a Grammy-winning Canadian musician who resided in Paris, France for several years, and now lives in Cologne,
+1	a Grammy-winning Canadian musician	resided	in Paris, France
+1	a Grammy-winning Canadian musician	lives	in Cologne,
+2	he	is also	a producer and
+3	Gonzales	broadcasts	a web series Pop Music Masterclass on WDR, the documentary Classical Connections on BBC Radio 1, The History of Music on Arte, and with
+4	He	has written	several newspaper and magazine opinion pieces in The Guardian, Vice, Billboard, and
+5	He	is the	younger brother of the prolific film composer Christophe
+6	Gonzales	was born	on 20 March
+7	His parents	are	Ashkenazi Jews who had to flee from Hungary during World War
+7	Ashkenazi Jews	had to flee	from Hungary
+8	Gonzales	began teaching	himself
+9	Gonzales	graduated	from Crescent School in Toronto,
+10	He	was classically trained	as a pianist at McGill
+10	he	began	both his composing career, several musicals with his brother,
+10	he composing	co-authoring	several musicals with his brother, and his performing
+11	Tokyo officially	is	the capital city of Japan and one of its 47
+12	The Greater Tokyo Area	is	the most populous metropolitan area in the
+13	It	is the seat	of the Emperor of Japan and the Japanese
+14	Tokyo	is	in the Kantō region on the southeastern side of the main island Honshu
+14	Tokyo	includes	the Izu Islands and Ogasawara
+15	it	has been	the de facto seat of government
+15	Shogun Tokugawa Ieyasu	made	the city
+16	It	officially became	the capital seat to the city from
+16	Emperor Meiji	moved	his seat to the city
+17	Tokyo Metropolis	was formed	in 1943 of the former Tokyo Prefecture the of Tokyo
+18	Tokyo	is	officially known a "metropolitan
+18	Tokyo	referred	often to as a
+18	a "metropolitan	differs	from
+18	a "metropolitan	combines	elements of a city and a
+19	The Tokyo metropolitan government	administers	the 23 Special Wards of Tokyo (each governed as an individual city), which cover the area
+19	the 23 Special Wards of Tokyo (each	governed	as an individual the area
+19	the 23 Special Wards of Tokyo (each governed	cover	as an individual the area that was the City of Tokyo before it merged and became the metropolitan prefecture in
+19	the area	was	the City of Tokyo
+19	it	became	the metropolitan prefecture
+20	The metropolitan government	administers	39 municipalities in the western part of the prefecture and the two outlying island
+21	The population of the special wards	is	over 9 million
+21	the total population of the prefecture	exceeding	13
+22	The prefecture	is	part of the world's most populous metropolitan area with upwards of 37.8 million people and the world's largest urban agglomeration
+23	the city	hosted	51 of the Fortune Global 500 companies, the in
+24	Tokyo	ranked	third
+25	The city	is also	home to various television networks such as Fuji TV, Tokyo MX, TV Tokyo, TV Asahi, Nippon Television, NHK and the Tokyo Broadcasting
+26	an expectation–maximization (EM) algorithm	is	an iterative method to find maximum likelihood or maximum a posteriori (MAP) estimates of parameters in statistical models,
+26	an iterative method	to	find maximum likelihood or maximum a posteriori (MAP) estimates of parameters in statistical
+26	the model	depends	on unobserved latent
+27	The EM iteration	alternates	between performing an expectation (E) step, creates a function for the expectation of the log-likelihood
+27	an expectation (E)	creates	a function for the expectation of the log-likelihood evaluated and
+27	the log-likelihood a maximization (M)	evaluated	using the current estimate for the
+27	a maximization (M)	computes	the current estimate for the parameters maximizing the expected log-likelihood
+27	a maximization (M) parameters	maximizing	the expected log-likelihood
+28	These parameter-estimates	are	then used to determine the distribution of the latent variables in the next E
+28	These parameter-estimates	used	to determine the distribution of the latent variables in the next E
+28	These parameter-estimates	to determine	the distribution of the latent variables in the next E
+29	The EM algorithm	given	its name
+30	They	pointed out	that the method had been "proposed many times in special circumstances" by earlier
+30	the method	had been	"proposed many times in special circumstances" by earlier
+31	A very detailed treatment of the EM method for exponential families	was published	by Rolf Sundberg thesis and several papers
+31	his several papers	following	his collaboration with Per Martin-Löf and Anders
+32	The Dempster–Laird–Rubin paper in 1977	generalized	the method
+32	The	sketched	a convergence analysis for a wider class of
+33	the innovative Dempster–Laird–Rubin paper in the Journal of the Royal Statistical Society	received	an enthusiastic discussion at the Royal Statistical Society meeting with Sundberg
+33	Sundberg	calling	the paper
+34	The Dempster–Laird–Rubin paper	established	the EM method an important tool of statistical
+35	Finnish police	reprimanded	a man for traveling in a car boot to hide his meeting with Prime Minister Juha Sipila during last
+35	a man	traveling	in a car boot
+35	car boot	hide	his meeting with Prime Minister Juha Sipila during a government crisis last
+35	this	was	breach of the traffic
+36	A police statement	did not name	the man in the
+36	A police statement	indicated	in the traveler was State Secretary Samuli Virtanen, who is deputy to
+36	the traveler	was	State Secretary Samuli Virtanen, who is the deputy to Foreign Minister Timo
+36	State Secretary Samuli	is also	the deputy to Foreign Minister Timo
+37	The meeting	took	place
+37	Virtanen’s co-ruling Finns party	had elected	anti-immigration hardliners
+38	The government	was	close to collapse
+38	a group of politicians, including Virtanen and following week	walked	out of the Finns party
+38	a group of politicians, including Virtanen and in the following week	announced	they would form a new
+38	they	would form	a new
+39	The Finns party	was thrown	out of the government and
+39	the new “Blue Reform” group	kept	its cabinet
+40	Virtanen	has not commented	on the
+40	lawmaker Tiina Elovaara from Blue Reform	said	in a blog that Virtanen climbed into the boot
+40	Virtanen	climbed	into the boot
+40	a Virtanen the boot	to keep	the meeting secret at a critical
+41	the the risk of leakage about the	was	most
+42	economists	are predicting	pretty much the same for 2018
+43	The idea	is	that all is pretty much on track for growth that will be than in
+43	all	is	pretty much on track for growth
+43	track for growth	will be	stronger than in
+44	Part of this	may come	from the fact that forecasters generally got it wrong last
+44	forecasters	generally got	it
+45	The International Monetary for	saw	2017 global growth 3.4 percent with
+45	advanced economies	advancing	1.8
+46	It	reckons	them and
+47	It	had	the euro zone and Japan growing 1.5 percent and 0.6 percent,
+47	the euro zone and Japan	growing	1.5 percent and 0.6
+48	It	has	them
+49	growth	is reaching	roughly two-thirds of the world’s
+49	the IMF	said	in a December blog
+50	This performance	has made	some economists
+51	Nomura	is	among the more
+51	growth	has	far more self-reinforcing characteristics at present than at any time over the last 20-30
+52	Goldilock’s bears	do have	a habit of showing
+55	the danger	is	that there will be a policy mistake, squeezing
+55	there	will	be a policy squeezing
+56	The second	relates	to renewed U.S. protectionism or anger over Chinese exports
+56	Chinese exports	triggering	tit-for-tat, growth-stifling trade
+57	The third	is	about sudden market losses
+57	sudden market losses	dry up	spending and

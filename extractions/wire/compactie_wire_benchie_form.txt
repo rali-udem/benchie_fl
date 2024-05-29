@@ -1,0 +1,134 @@
+1	Chilly Gonzales	born	Jason Charles Beck
+1	Jason Charles Beck	is	a Grammy - winning Canadian musician
+1	a Grammy - winning Canadian musician	resided	in Paris
+2	he	is also	a producer
+2	he	is also	a songwriter
+3	Gonzales	broadcasts	a web series Pop Music Masterclass on WDR
+3	Gonzales	broadcasts	the documentary Classical Connections on BBC Radio 1
+3	Gonzales	broadcasts	The History of Music on Arte
+3	Gonzales	broadcasts	Music 's Cool with Chilly Gonzales on Apple Music 's Beats 1 radio show
+4	He	has written	several newspaper opinion pieces in The Guardian
+4	He	has written	several newspaper opinion pieces in Vice
+4	He	has written	several newspaper opinion pieces in Billboard
+4	He	has written	several newspaper opinion pieces in others
+4	He	has written	several magazine opinion pieces in The Guardian
+4	He	has written	several magazine opinion pieces in Vice
+4	He	has written	several magazine opinion pieces in Billboard
+4	He	has written	several magazine opinion pieces in others
+5	He	is	the younger brother of the prolific film composer Christophe Beck
+6	Gonzales	was born	on 20 March 1972
+7	His parents	are had	to flee from Hungary during World War II
+8	his	began	lessons
+8	Gonzales	began teaching	himself piano at age three
+9	Gonzales	graduated	from
+10	He	was	as a pianist at McGill University
+10	He	trained	as a pianist at
+10	he	began	both his composing career
+10	he	began	both his performing career
+11	Tokyo	is	the capital city of Japan
+11	Tokyo Metropolis	is	one of its 47 prefectures
+12	The Greater Tokyo Area	is	the most populous metropolitan area in the world
+13	It	is	the seat of the Emperor of Japan
+13	It	is	the seat of the Japanese government
+14	Tokyo	is	in the Kantō region on the southeastern side of the main island Honshu
+14	Tokyo	includes	the Izu Islands
+14	Tokyo	includes	Ogasawara Islands
+15	it	has been	the de facto seat of government since
+15	Shogun Tokugawa Ieyasu	made	the city his headquarters
+16	It	officially became	the capital
+16	Emperor Meiji	moved	his seat to the city from the old capital of Kyoto in 1868
+16	Edo	was renamed	Tokyo
+17	Tokyo Metropolis	was formed	in 1943 from the merger of the former Tokyo Prefecture
+17	Tokyo Metropolis	was formed	in 1943 from the merger of the city of Tokyo
+18	Tokyo	is often referred to	as a city
+18	Tokyo	is officially known	as a " metropolitan prefecture
+18	Tokyo	differs	from of a city
+18	Tokyo	differs	from of a prefecture
+18	Tokyo	combines	elements of a city
+18	Tokyo	combines	elements of a prefecture
+18	Tokyo	is officially governed	as a " metropolitan prefecture
+18	Tokyo	governed	as a " metropolitan prefecture
+18	Tokyo	is officially	as a " metropolitan prefecture
+19	The Tokyo metropolitan government	administers	the 23 Special Wards of Tokyo
+19	each	governed	as an individual city
+19	each	was	the City of Tokyo before it
+19	area	was	the City of Tokyo before
+19	the City of Tokyo	became	the metropolitan prefecture in 1943
+20	The metropolitan government	administers	39 municipalities in the western part of the prefecture
+20	The metropolitan government	administers	39 municipalities in the two outlying island chains
+21	The population of the special wards	is	over 9 million people
+22	The prefecture	is	part of the world 's most populous metropolitan area
+22	The prefecture	is	part of the world 's most populous metropolitan area with the world 's largest urban agglomeration economy
+23	the city	hosted	51 of the Fortune Global 500 companies
+24	Tokyo	ranked	third
+25	The city	is also	home to various television networks such as Fuji TV
+25	The city	is also	home to various television networks such as Tokyo MX
+25	The city	is also	home to various television networks such as TV Tokyo
+25	The city	is also	home to various television networks such as TV Asahi
+25	The city	is also	home to various television networks such as Nippon Television
+25	The city	is also	home to various television networks such as NHK
+25	The city	is also	home to various television networks such as the Tokyo Broadcasting System
+26	the model	depends	on unobserved latent variables
+27	The EM iteration	alternates	between
+27	step	creates	a function for the expectation of the log -likelihood
+28	These parameter - estimates	used	to determine the distribution of the latent variables in
+28	These parameter - estimates	are then	to determine the distribution of the latent variables in
+29	The EM algorithm	was explained	in a classic 1977 paper by Arthur Dempster
+29	The EM algorithm	was explained	in a classic 1977 paper by Nan Laird
+29	The EM algorithm	was explained	in a classic 1977 paper by Donald Rubin
+29	The EM algorithm	was given	its name in a classic 1977 paper by Arthur Dempster
+29	The EM algorithm	was given	its name in a classic 1977 paper by
+29	The EM algorithm	was given	its name in a classic 1977 paper by Donald Rubin
+30	the method	had been proposed	many times in special circumstances
+31	A very detailed treatment of the EM method for exponential families	was published	by Rolf
+31	A very detailed treatment of the EM method for exponential families	was published	by Rolf Sundberg in several papers following his collaboration with Per Martin - Löf
+31	A very detailed treatment of the EM method for exponential families	was published	by Rolf Sundberg
+32	The Dempster – Laird–Rubin paper in	generalized	the method
+32	The Dempster – Laird–Rubin paper in 1977	sketched	a convergence analysis for a wider class of problems
+33	the innovative Dempster	received	an enthusiastic discussion at the Royal Statistical Society meeting
+34	–Rubin paper	established	the EM method as an important tool of statistical analysis
+35	Finnish police	reprimanded	a man for
+35	a man	traveling	in a car boot to hide his meeting with Prime Minister
+35	this	was	breach of the traffic code
+36	A police statement	did not name	the man in the boot
+36	the traveler	was	State Secretary Samuli Virtanen
+36	State Secretary Samuli Virtanen	also	the deputy to Foreign Minister Timo Soini
+37	Virtanen ’s co-ruling Finns party	had elected	anti-immigration hardliners as its new leaders
+37	The meeting	took place	in June
+38	The government	was	close to
+38	including	walked	out of the Finns party
+38	they	would form	a new group
+39	The Finns party	was thrown	out of the government
+39	Reform ” group	kept	its cabinet seat
+40	Virtanen	has not commented	on the case
+40	Virtanen	climbed	into the boot
+42	economists	are	much the same for 2018
+43	all	is	pretty much on track for growth
+43	all	will be	stronger than in 2017
+44	Part of this	may come	from the
+44	forecasters	generally got	last year
+44	forecasters	underclubbing	this year ’s economic performance
+45	The International Monetary Fund	saw	2017 global growth at 3.4 percent
+45	advanced economies	advancing	1.8 percent
+46	It	reckons	them at 3.6 percent
+46	It	reckons	them at 2.2 percent
+47	It	had	the euro zone
+47	the euro zone	growing	1.5 percent
+47	the euro zone	growing	0.6 percent
+47	It	had	Japan
+47	Japan	growing	1.5 percent
+47	Japan	growing	0.6 percent
+48	It	has	them at 2.1 percent
+48	It	has	them at 1.5 percent
+49	“ Faster growth	is reaching	roughly two - thirds of the world ’s population
+50	This performance	has made	some economists optimistic
+51	Nomura	is	among the more bullish
+51	“ Global growth	has	far more self - reinforcing characteristics at present than at any time over the last 20
+55	the danger	will be	a policy mistake
+56	The second	relates	to renewed U.S. protectionism
+56	to renewed U.S. protectionism	triggering	tit - for - tat , growth - stifling trade barriers
+56	The second	relates	to anger over Chinese exports
+56	The second	triggering	tit - for - tat
+57	The third	is	about sudden market losses
+57	about sudden market losses	dry	up spending
+57	about sudden market losses	dry up	demand

@@ -1,0 +1,1090 @@
+,extraction,,system,
+0,He - served as - the first Prime Minister of Australia,2,reverb,1
+0,He - became - a founding justice of the High Court of Australia,4,reverb,1
+0,He - served - as the first Prime Minister of Australia,0,clausie,0
+0,He - became - a founding justice of the High Court of Australia,0,clausie,0
+0,He - became - a founding justice,4,clausie,1
+0,He - served as first Prime Minister of - Australia,2,minie,1
+0,He - became - founding justice of High Court of Australia,4,minie,1
+0,He - served - as the first Prime Minister of Australia,0,imojie,0
+0,He - became - a founding justice of the High Court of Australia,4,imojie,1
+0,He - served - as the first Prime Minister of Australia,0,openie6,0
+0,He - became - a founding justice of the High Court of Australia,4,openie6,1
+0,He - served - as the first Prime Minister of Australia,0,m2oie,0
+0,He - became - a founding justice of the High Court of Australia,4,m2oie,1
+0,He - served - as the first Prime Minister of Australia,0,compactie,0
+0,He - became - a founding justice of the High Court of Australia,4,compactie,1
+1,Graner - handcuffed - him,1,reverb,1
+1,him - left - him,0,reverb,0
+1,Graner - handcuffed - him to the bars of a cell window,0,clausie,0
+1,Graner - handcuffed - him,1,clausie,1
+1,Graner - left - him there,4,clausie,1
+1,feet - dangling off - the floor for nearly five hours,0,clausie,0
+1,feet - dangling off - the floor,0,clausie,0
+1,Graner - handcuffed him to bars of - cell window,3,minie,1
+1,Graner - handcuffed - him,1,minie,1
+1,Graner - left - him,4,minie,1
+1,feet - dangling off floor for - nearly five hours,0,minie,0
+1,feet - dangling off - floor,0,minie,0
+1,Graner - handcuffed - him to the bars of a cell window,1,imojie,1
+1,Graner - left - him there for nearly five hours,4,imojie,1
+1,feet - dangling - off the floor,0,imojie,0
+1,feet - dangling - off the floor for nearly five hours,0,openie6,0
+1,Graner - left - him there,4,openie6,1
+1,Graner - handcuffed - him to the bars of a cell window for nearly five hours,0,openie6,0
+1,Graner - handcuffed - him to the bars of a cell window,1,m2oie,1
+1,Graner - left - him,4,m2oie,1
+1,feet - dangling - off the floor,0,m2oie,0
+1,Graner - handcuffed - him to the bars of a cell window for nearly five hours,0,compactie,0
+1,Graner - left - him,4,compactie,1
+2,It - deals with - cases of fraud,1,reverb,1
+2,It - deals - with cases of fraud in relation cases involving United Nations trade sanctions diamonds,0,clausie,0
+2,It - deals - with cases of fraud in relation cases involving United Nations trade sanctions conflict,0,clausie,0
+2,It - deals - with cases of fraud in relation cases involving United Nations trade sanctions CITES,0,clausie,0
+2,It - deals - to direct taxes cases involving United Nations trade sanctions diamonds,0,clausie,0
+2,It - deals - to direct taxes cases involving United Nations trade sanctions conflict,0,clausie,0
+2,It - deals - to direct taxes cases involving United Nations trade sanctions CITES,0,clausie,0
+2,It - deals - to indirect taxes cases involving United Nations trade sanctions diamonds,0,clausie,0
+2,It - deals - to indirect taxes cases involving United Nations trade sanctions conflict,0,clausie,0
+2,It - deals - to indirect taxes cases involving United Nations trade sanctions CITES,0,clausie,0
+2,It - deals - to tax credits cases involving United Nations trade sanctions diamonds,0,clausie,0
+2,It - deals - to tax credits cases involving United Nations trade sanctions conflict,0,clausie,0
+2,It - deals - to tax credits cases involving United Nations trade sanctions CITES,0,clausie,0
+2,It - deals - to drug smuggling cases involving United Nations trade sanctions diamonds,0,clausie,0
+2,It - deals - to drug smuggling cases involving United Nations trade sanctions conflict,0,clausie,0
+2,It - deals - to drug smuggling cases involving United Nations trade sanctions CITES,0,clausie,0
+2,It - deals - to money laundering cases involving United Nations trade sanctions diamonds,0,clausie,0
+2,It - deals - to money laundering cases involving United Nations trade sanctions conflict,0,clausie,0
+2,It - deals - to money laundering cases involving United Nations trade sanctions CITES,0,clausie,0
+2,It - deals - cases involving United Nations trade sanctions diamonds,0,clausie,0
+2,It - deals - cases involving United Nations trade sanctions conflict,0,clausie,0
+2,It - deals - cases involving United Nations trade sanctions CITES,0,clausie,0
+2,It - deals with cases of fraud in - relation to direct taxes,0,minie,0
+2,It - deals with cases of fraud in - relation to direct indirect taxes,0,minie,0
+2,It - deals with cases of - fraud,1,minie,1
+2,relation - be direct - taxes,0,minie,0
+2,relation - be direct - indirect taxes,0,minie,0
+2,tax credits - is - cases involving United Nations trade sanctions,0,minie,0
+2,tax credits - is - cases involving conflict diamonds,0,minie,0
+2,tax credits - is - cases involving CITES,0,minie,0
+2,drug smuggling - is - cases involving United Nations trade sanctions,0,minie,0
+2,drug smuggling - is - cases involving conflict diamonds,0,minie,0
+2,drug smuggling - is - cases involving CITES,0,minie,0
+2,money laundering - is - cases involving United Nations trade sanctions,0,minie,0
+2,money laundering - is - cases involving conflict diamonds,0,minie,0
+2,money laundering - is - cases involving CITES,0,minie,0
+2,cases - be involving - United Nations trade sanctions,12,minie,1
+2,cases - be involving - conflict diamonds,13,minie,1
+2,cases - be involving - CITES,14,minie,1
+2,"cases - involving - United Nations trade sanctions , conflict diamonds and CITES",0,imojie,0
+2,"It - deals - with cases of fraud in relation to direct taxes and indirect taxes , tax credits , drug smuggling , and money laundering",0,imojie,0
+2,cases - involving - United Nations trade sanctions,12,openie6,1
+2,It - deals - with cases of fraud in relation to money laundering,0,openie6,0
+2,"It - deals - with cases of fraud in relation to drug smuggling , cases",0,openie6,0
+2,cases - involving - CITES,14,openie6,1
+2,cases - involving - conflict diamonds,13,openie6,1
+2,"It - deals - with cases of fraud in relation to direct taxes and indirect taxes , tax credits , drug smuggling , and money laundering",0,m2oie,0
+2,"cases - involving - United Nations trade sanctions , conflict diamonds and CITES",0,m2oie,0
+2,It - deals - with cases of fraud in relation to tax credits,0,compactie,0
+2,It - deals - with cases of fraud in relation to drug smuggling,0,compactie,0
+2,It - deals - with cases of fraud in relation to money laundering,0,compactie,0
+2,cases - involving - United Nations trade sanctions,12,compactie,1
+2,It - deals - with cases of fraud in relation to direct taxes,0,compactie,0
+2,It - deals - with cases of fraud in relation to indirect taxes,0,compactie,0
+3,St . Michael - was considered to be - the patron saint of colonial Maryland,1,reverb,1
+3,such - was honored by - the river,0,reverb,0
+3,St. Michael - was considered - to be the patron saint of colonial Maryland Because of this association,0,clausie,0
+3,St. Michael - was considered - to be the patron saint Because of this association,0,clausie,0
+3,St. Michael - was considered - to be the patron saint of colonial Maryland,1,clausie,1
+3,St. Michael - was considered - to be the patron saint,7,clausie,1
+3,as such - was honored - by the river being named for him,0,clausie,0
+3,the river - be named - for him,0,clausie,0
+3,St. Michael - was considered to be patron saint of colonial Maryland Because of - association,2,minie,1
+3,St. Michael - was considered to be patron saint Because of - association,0,minie,0
+3,St. Michael - was considered to be patron saint of - colonial Maryland,1,minie,1
+3,St. Michael - was considered to be - patron saint,7,minie,1
+3,river - being named for - him,0,minie,0
+3,the river - being named - for him,0,imojie,0
+3,St. Michael - to be - the patron saint of colonial Maryland,0,imojie,0
+3,St. Michael - was considered - to be the patron saint Because of this association,0,imojie,0
+3,St. Michael - to be - the patron saint of colonial Maryland,0,openie6,0
+3,the river - being named - for him,0,openie6,0
+3,St. Michael as such - was honored - by the river,0,openie6,0
+3,St. Michael - was considered - to be the patron saint of colonial Maryland,1,m2oie,1
+3,St. Michael - to be - the patron saint of colonial Maryland,0,m2oie,0
+3,the river - being named - for him,0,m2oie,0
+3,St. Michael - was considered to be - the patron saint of colonial Maryland,1,compactie,1
+3,St. Michael - was honored - by the river,0,compactie,0
+3,St. Michael - being - for him,0,compactie,0
+3,by the river - named - for him,0,compactie,0
+4,the viewer - was - channel surfing,0,reverb,0
+4,The show - was designed - to appear as if the viewer was channel surfing through a multi-channel wasteland happening upon spoof adverts,0,clausie,0
+4,The show - was designed - to appear as if the viewer was channel surfing through a multi-channel wasteland happening upon recurring show elements,0,clausie,0
+4,the viewer - was - if channel surfing through a multi-channel wasteland happening upon spoof adverts,0,clausie,0
+4,the viewer - was - if channel surfing through a multi-channel wasteland happening upon recurring show elements,0,clausie,0
+4,the viewer - was - if channel,0,clausie,0
+4,as if channel - be surfing - through a multi-channel wasteland happening upon spoof adverts,0,clausie,0
+4,as if channel - be surfing - through a multi-channel wasteland happening upon recurring show elements,0,clausie,0
+4,spoof adverts - is - short sketches,0,clausie,0
+4,recurring show elements - is - short sketches,0,clausie,0
+4,show - was designed to appear as - short sketches,0,minie,0
+4,if channel surfing through multi-channel wasteland - be happening upon - spoof adverts,0,minie,0
+4,viewer - was channel surfing through - multi-channel wasteland,0,minie,0
+4,viewer - was channel surfing happening upon - spoof adverts,0,minie,0
+4,viewer - was - channel surfing,0,minie,0
+4,The show - was designed - to appear as if the viewer was channel surfing through a multi-channel wasteland,0,imojie,0
+4,"The show - to appear - as if the viewer was channel surfing through a multi-channel wasteland , happening upon spoof adverts , short sketches , and recurring show elements",0,imojie,0
+4,The show - was designed - to appear as if the viewer was channel surfing through a multi-channel wasteland,0,openie6,0
+4,The show - to appear - as if the viewer was channel surfing through a multi-channel wasteland,0,openie6,0
+4,the viewer - was - channel surfing through a multi-channel wasteland,0,openie6,0
+4,"The show - was designed - to appear as if the viewer was channel surfing through a multi-channel wasteland , happening",0,openie6,0
+4,"the viewer - was - channel surfing through a multi-channel wasteland ,",0,openie6,0
+4,The show - was designed - to appear as if the viewer channel surfing through a multi-channel wasteland,0,m2oie,0
+4,"The show - to appear - as if the viewer was channel surfing through a multi-channel wasteland ,",0,m2oie,0
+4,the viewer - was - channel surfing through a multi-channel wasteland,0,m2oie,0
+4,"the viewer a multi-channel wasteland - happening - upon spoof adverts , short sketches , and recurring show elements",0,m2oie,0
+4,the viewer - was - channel,0,compactie,0
+4,channel - surfing - through a multi-channel wasteland,0,compactie,0
+5,Several years - the remaining trackage at Charles City was abandoned - later,0,clausie,0
+5,the remaining trackage at Charles City - Several years was abandoned - later,0,clausie,0
+5,remaining trackage at Charles City - was abandoned - Several years later,3,minie,1
+5,the remaining trackage at Charles City - was abandoned - Several years later,3,imojie,1
+5,the remaining trackage at Charles City - was abandoned - Several years later,3,openie6,1
+5,Several the remaining trackage at Charles City - was abandoned - years,0,m2oie,0
+6,Dr. Jagan - was personally involved in - the organization of the strike,2,reverb,1
+6,Dr. Jagan - helped to raise - funds,3,reverb,1
+6,Dr. Jagan himself - was involved - in the organization of the strike personally,0,clausie,0
+6,Dr. Jagan himself - was involved - in the organization of the strike,0,clausie,0
+6,Dr. Jagan himself - was helped - to raise funds across the country to it personally,0,clausie,0
+6,Dr. Jagan himself - was helped - to raise funds personally,0,clausie,0
+6,Dr. Jagan himself - was helped - to raise funds across the country to it,0,clausie,0
+6,Dr. Jagan himself - was helped - to raise funds,0,clausie,0
+6,Jagan - is - Dr.,1,minie,1
+6,Jagan himself - was involved in organization of - strike,2,minie,1
+6,Jagan himself - helped to raise funds across - country,4,minie,1
+6,Jagan himself - helped to raise - funds to it,0,minie,0
+6,Jagan himself - helped to raise - funds,3,minie,1
+6,Dr. Jagan - helped - to raise funds across the country to it,0,imojie,0
+6,Dr. Jagan - was personally involved - in the organization of the strike,0,imojie,0
+6,Dr. Jagan - was personally involved - in the organization of the strike,0,openie6,0
+6,Dr. Jagan - helped - to raise funds across the country to it,0,openie6,0
+6,Dr. Jagan - helped to raise - funds across the country to it,0,openie6,0
+6,Dr. Jagan himself - was personally involved - in the organization of the strike,0,m2oie,0
+6,Dr. Jagan himself - helped to raise - funds across the country,3,m2oie,1
+6,Dr. Jagan - was - personally involved in the organization of the strike,0,compactie,0
+6,Dr. Jagan - to raise - funds across the country to it,0,compactie,0
+7,the municipality - was renamed - Jones,1,reverb,1
+7,honor of American congressman William Jones - authored - the Philippine Autonomy Act of 1916 that,0,reverb,0
+7,the municipality - was renamed - Jones in honor of American congressman William Jones In 1918,0,clausie,0
+7,the municipality - was renamed - Jones in honor of American congressman William Jones,0,clausie,0
+7,American congressman William Jones - authored - the Philippine Autonomy Act of 1916,0,clausie,0
+7,the Philippine Autonomy Act of 1916 - provided - for greater autonomy for the Philippines under American colonial rule,0,clausie,0
+7,the Philippine Autonomy Act of 1916 - provided - for greater autonomy for the Philippines,0,clausie,0
+7,William Jones - is - congressman,5,minie,1
+7,municipality - was renamed Jones in honor of American William Jones In - 1918,0,minie,0
+7,municipality - was renamed - Jones in honor of American William Jones,0,minie,0
+7,American William Jones - authored Philippine Autonomy Act of - 1916,0,minie,0
+7,Philippine Autonomy Act of 1916 - provided for greater autonomy for Philippines under - American colonial rule,10,minie,1
+7,the municipality - was renamed - Jones in honor of American congressman William Jones In 1918,0,imojie,0
+7,American congressman William Jones - authored - the Philippine Autonomy Act of 1916,0,imojie,0
+7,the Philippine Autonomy Act of 1916 - provided - for greater autonomy for the Philippines under American colonial rule,0,imojie,0
+7,the Philippine Autonomy Act of 1916 - provided - for greater autonomy for the Philippines under American colonial rule,0,openie6,0
+7,American congressman William Jones - authored - the Philippine Autonomy Act of 1916,0,openie6,0
+7,the municipality - was renamed - Jones In 1918 in honor of American congressman William Jones,0,openie6,0
+7,the municipality - was renamed - Jones of congressman,0,m2oie,0
+7,American congressman William Jones - authored - the Philippine Autonomy Act of 1916 that provided for greater autonomy for the Philippines under American,0,m2oie,0
+7,the Philippine Autonomy Act of 1916 - provided - for greater autonomy for the Philippines under American colonial rule,0,m2oie,0
+7,the municipality - provided - for greater autonomy for the Philippines under American colonial rule,0,compactie,0
+7,the municipality - was renamed authored - for greater autonomy for the Philippines under American colonial rule,0,compactie,0
+8,the laser - cuts a portion of - the prostate,1,reverb,1
+8,a portion of the prostate - is then cut into - smaller pieces,4,reverb,1
+8,the laser - cuts - a portion of the prostate Instead of ablating the tissue,0,clausie,0
+8,the laser - cuts - a portion of the prostate,1,clausie,1
+8,the prostate - is cut - into smaller pieces,0,clausie,0
+8,the prostate - is flushed - with irrigation fluid,0,clausie,0
+8,laser - cuts portion of prostate Instead of - ablating tissue,2,minie,1
+8,laser - cuts portion of - prostate,1,minie,1
+8,portion of prostate - is cut into - smaller pieces,4,minie,1
+8,portion of prostate - is cut into flushed with - irrigation fluid,0,minie,0
+8,the laser - cuts - a portion of the prostate,1,imojie,1
+8,the prostate - is cut - into smaller pieces then,0,imojie,0
+8,the prostate - flushed - with irrigation fluid,0,imojie,0
+8,the laser - cuts - a portion of the prostate,1,openie6,1
+8,the prostate - is cut - into smaller pieces then,0,openie6,0
+8,the prostate - is flushed - with irrigation fluid then,0,openie6,0
+8,"the laser - cuts - a portion of the prostate , which is then cut into smaller pieces and flushed",0,m2oie,0
+8,a portion of the prostate - is - then cut into smaller pieces and flushed irrigation fluid,0,m2oie,0
+8,a portion of the prostate - cut - into smaller pieces,0,m2oie,0
+8,a the prostate - flushed - with irrigation fluid,0,m2oie,0
+8,the laser - cuts - a portion of the prostate,1,compactie,1
+8,a portion of - cut - into smaller pieces,0,compactie,0
+8,a portion of - is then - into smaller pieces,0,compactie,0
+9,Kormoran - was - the only Axis ship to conduct attacks in Australian waters during 1941 to enter Australian waters until 1943,0,clausie,0
+9,Kormoran - was - the only Axis ship to conduct attacks in Australian waters during the last Axis surface raider to enter Australian waters until 1943,0,clausie,0
+9,Kormoran - was only Axis ship to conduct attacks in Australian waters during - 1941 to enter Australian waters until 1943,0,minie,0
+9,Kormoran - was only Axis ship to conduct attacks in Australian waters during - last Axis surface raider to enter Australian waters until 1943,0,minie,0
+9,Kormoran - was - only Axis ship,0,minie,0
+9,only Axis ship - be conduct attacks in Australian waters during - 1941,0,minie,0
+9,only Axis ship - be conduct attacks in Australian waters during - last Axis surface raider,0,minie,0
+9,only Axis ship - be conduct attacks in - Australian waters to enter Australian waters until 1943,0,minie,0
+9,only Axis ship - be conduct attacks in - Australian waters,0,minie,0
+9,to conduct attacks in Australian waters during 1941 - be enter Australian waters until - 1943,0,minie,0
+9,to conduct attacks in Australian waters during last Axis surface raider - be enter Australian waters until - 1943,0,minie,0
+9,Kormoran - was - the only Axis ship to conduct attacks in Australian waters during 1941 and the last Axis surface raider,0,imojie,0
+9,the last Axis surface raider - to enter - Australian waters until 1943,0,imojie,0
+9,the only Axis ship - to conduct - attacks in Australian waters during 1941,0,openie6,0
+9,the last Axis surface raider - to enter - Australian waters until 1943,0,openie6,0
+9,Kormoran - was - the only Axis ship to conduct attacks in Australian waters during 1941,1,openie6,1
+9,Kormoran - was - the last Axis surface raider,0,openie6,0
+9,Kormoran - was - the only Axis ship to conduct attacks in Australian waters during 1941 and the last Axis surface raider to enter Australian waters until,0,m2oie,0
+9,the only Axis ship - to conduct - attacks in Australian waters,0,m2oie,0
+9,the last Axis surface raider - to enter - Australian waters,0,m2oie,0
+9,Kormoran - was - the only Axis ship,0,compactie,0
+9,the only Axis ship - to conduct - attacks in Australian waters during 1941,0,compactie,0
+9,Kormoran - was - the last Axis surface raider,0,compactie,0
+9,the last Axis surface raider - to enter - Australian waters until 1943,0,compactie,0
+10,his friends - were said to have made - bombs,2,reverb,1
+10,his - has - friends,9,clausie,1
+10,He - were said - to have made bombs for fun on the outskirts of Murray Utah,0,clausie,0
+10,He - were said - to have made bombs for fun,0,clausie,0
+10,his friends - were said - to have made bombs for fun on the outskirts of Murray Utah,0,clausie,0
+10,his friends - were said - to have made bombs for fun,0,clausie,0
+10,his - has - friends,9,minie,1
+10,He - were said to have made - bombs for fun on outskirts of Murray,0,minie,0
+10,friends - were said to have made - bombs for fun on outskirts of Murray,0,minie,0
+10,Murray - is in - Utah,11,minie,1
+10,He and his friends - to have made - bombs for fun on the outskirts of Murray,0,imojie,0
+10,his friends - to have made - bombs for fun on the outskirts of Murray,0,openie6,0
+10,He - to have made - bombs for fun on the outskirts of Murray,0,openie6,0
+10,He and his friends - were said - to have bombs for fun on the outskirts of Murray,0,m2oie,0
+10,"He and his friends - to have made - bombs for fun on the outskirts of Murray , Utah",0,m2oie,0
+10,He - to have made - bombs for fun on the outskirts of Murray,0,compactie,0
+10,He - were said - bombs for fun on the outskirts of Murray,0,compactie,0
+10,his friends - to have made - bombs for fun on the outskirts of Murray,0,compactie,0
+10,his friends - were said - bombs for fun on the outskirts of Murray,0,compactie,0
+11,A large gravestone - was erected in - 1866,2,reverb,1
+11,A large gravestone - was erected - in 1866 over 100 years after his death,0,clausie,0
+11,A large gravestone - was erected - in 1866,0,clausie,0
+11,his - has - death,5,clausie,1
+11,large gravestone - was erected in 1866 over - 100 years,0,minie,0
+11,large gravestone - was erected in 1866 after - death,0,minie,0
+11,large gravestone - was erected in - 1866,2,minie,1
+11,his - has - death,5,minie,1
+11,A large gravestone - was erected - in 1866 over 100 years after his death,0,imojie,0
+11,A large gravestone - was erected - in 1866 over 100 years after his death,0,openie6,0
+11,A large gravestone - was erected - in 1866,0,m2oie,0
+11,A large gravestone - was erected - in 1866,0,compactie,0
+12,he - was re-elected - U.S. Senator,3,reverb,1
+12,he - was tipped as - a Presidential candidate,6,reverb,1
+12,he - was re-elected - U.S. Senator In 1879,0,clausie,0
+12,he - was re-elected - U.S. Senator,3,clausie,1
+12,he - died - In 1879,0,clausie,0
+12,he - died - suddenly,8,clausie,1
+12,he - died - after giving a speech in Chicago,0,clausie,0
+12,he - was tipped - as a Presidential candidate In 1879,0,clausie,0
+12,he - was tipped - as a Presidential candidate,0,clausie,0
+12,he - was re-elected U.S. Senator In - 1879,2,minie,1
+12,he - was - re-elected was tipped as Presidential candidate In 1879,0,minie,0
+12,he - was - re-elected died suddenly after giving speech in Chicago In 1879,0,minie,0
+12,he - was - re-elected U.S. Senator,1,minie,1
+12,he - was re-elected was tipped as - Presidential candidate,0,minie,0
+12,he - was - re-elected died suddenly after giving speech in Chicago,0,minie,0
+12,he - was re-elected - U.S. Senator In 1879,3,imojie,1
+12,he - was tipped - as a Presidential candidate,0,imojie,0
+12,he - died suddenly - after giving a speech in Chicago,0,imojie,0
+12,he - was re-elected - U.S . Senator In 1879,3,openie6,1
+12,he - after giving - a speech in Chicago,0,openie6,0
+12,he - died suddenly - after giving a speech in Chicago In 1879,0,openie6,0
+12,he - was tipped - as a Presidential candidate In 1879,0,openie6,0
+12,he - was re-elected - In U.S. Senator,0,m2oie,0
+12,he - was tipped - as a Presidential candidate,0,m2oie,0
+12,he - died - suddenly a speech in,0,m2oie,0
+12,he - was re-elected - U.S. Senator,3,compactie,1
+12,he - was tipped - as a Presidential candidate,0,compactie,0
+12,he - died suddenly - after giving a speech in Chicago,0,compactie,0
+13,This - led - morning show host Ryan Cameron,0,reverb,0
+13,This - led - morning show host Ryan Cameron to lobby for a frequency change for WHTA by putting together a petition from listeners at the risk of losing his job under Radio One 's management,0,clausie,0
+13,This - led - morning show host Ryan Cameron to lobby for a frequency change for WHTA,0,clausie,0
+13,morning show host Ryan Cameron - to lobby - for a frequency change for WHTA by putting together a petition from listeners at the risk of losing his job under Radio One 's management,0,clausie,0
+13,morning show host Ryan Cameron - to lobby - for a frequency change for WHTA,0,clausie,0
+13,his - has - job,0,clausie,0
+13,Radio One - has - management,20,clausie,1
+13,Ryan Cameron - is - show host,21,minie,1
+13,This - led morning Ryan Cameron to lobby for - frequency change for WHTA by putting together petition from listeners at risk of losing job under Radio One 's management,0,minie,0
+13,This - led morning Ryan Cameron to lobby for frequency change for - WHTA,0,minie,0
+13,his - has - job,0,minie,0
+13,One - has - Radio management,0,minie,0
+13,This - led - morning show host Ryan Cameron to lobby for a frequency change for WHTA by putting together a petition from listeners at the risk of losing his job under Radio One 's management,0,imojie,0
+13,morning show host Ryan Cameron - to lobby - for a frequency change for WHTA,0,imojie,0
+13,This - led - morning show host Ryan Cameron to lobby for a frequency change for WHTA by putting together a petition from listeners at the risk of losing his job under Radio One 's management,0,openie6,0
+13,morning show host Ryan Cameron - to lobby - for a frequency change for WHTA by putting together a petition from listeners at the risk of losing his job under Radio One 's management,0,openie6,0
+13,This - led - morning show host Ryan Cameron to lobby for a frequency change for WHTA by putting together a petition from listeners at,0,m2oie,0
+13,morning show host Ryan Cameron - to lobby - for a frequency change for WHTA petition,0,m2oie,0
+13,This - led - morning show host Ryan Cameron,0,compactie,0
+13,morning show - to lobby - for a frequency change for WHTA,0,compactie,0
+14,Each of the programs - uses - a combination,0,reverb,0
+14,Each of the programs - uses - a combination of funding priorities to select grants described on the foundation 's web site,0,clausie,0
+14,Each of the programs - uses - a geographic requirements to select grants described on the foundation 's web site,0,clausie,0
+14,grants - be described - on the foundation 's web site,0,clausie,0
+14,the foundation - has - web site,6,clausie,1
+14,Each of programs - uses combination of funding priorities to - select grants,0,minie,0
+14,Each of programs - uses combination of geographic requirements to - select grants,0,minie,0
+14,Each of programs - uses combination of funding priorities described on - foundation 's web site,0,minie,0
+14,Each of programs - uses combination of geographic requirements described on - foundation 's web site,0,minie,0
+14,Each of programs - uses combination of - funding priorities,0,minie,0
+14,Each of programs - uses combination of - geographic requirements,0,minie,0
+14,Each of programs - be described on - foundation 's web site,0,minie,0
+14,foundation - has - web site,6,minie,1
+14,Each of the programs - uses - a combination of funding priorities and geographic requirements to select grants,1.2,imojie,1
+14,grants - described - on the foundation 's web site,0,imojie,0
+14,grants - described - on the foundation 's web site,0,openie6,0
+14,Each of the programs - uses - a combination of geographic requirements to select grants,2,openie6,1
+14,Each of the programs - uses - a combination of funding priorities to select grants,1,openie6,1
+14,Each of the programs - uses - a combination of funding priorities and geographic requirements to select grants,1.2,m2oie,1
+14,select grants - described - on the foundation 's web site,0,m2oie,0
+14,Each of the programs - uses - a combination of funding priorities to select grants,1,compactie,1
+14,Each of the programs - uses - a combination of geographic requirements to select grants,2,compactie,1
+15,The Institut Constant de Rebecque - is - a Swiss free-market,0,reverb,0
+15,classical liberal and libertarian - think - tank,0,reverb,0
+15,The Institut Constant de Rebecque - is - a Swiss free-market classical liberal in Lausanne,0,clausie,0
+15,The Institut Constant de Rebecque - is - a Swiss free-market classical libertarian in Lausanne,0,clausie,0
+15,The Institut Constant de Rebecque - is - a Swiss free-market classical liberal named after writer Benjamin Constant,0,clausie,0
+15,The Institut Constant de Rebecque - is - a Swiss free-market classical liberal named after political philosopher Benjamin Constant,0,clausie,0
+15,The Institut Constant de Rebecque - is - a Swiss free-market classical libertarian named after writer Benjamin Constant,0,clausie,0
+15,The Institut Constant de Rebecque - is - a Swiss free-market classical libertarian named after political philosopher Benjamin Constant,0,clausie,0
+15,The Institut Constant de Rebecque - is - a Swiss free-market classical liberal,0,clausie,0
+15,The Institut Constant de Rebecque - is - a Swiss free-market classical libertarian,0,clausie,0
+15,a Swiss free-market classical liberal in Lausanne - be named - after writer Benjamin Constant,0,clausie,0
+15,a Swiss free-market classical liberal in Lausanne - be named - after political philosopher Benjamin Constant,0,clausie,0
+15,a Swiss free-market classical libertarian in Lausanne - be named - after writer Benjamin Constant,0,clausie,0
+15,a Swiss free-market classical libertarian in Lausanne - be named - after political philosopher Benjamin Constant,0,clausie,0
+15,tank - be founded - in January 2005,0,clausie,0
+15,Benjamin Constant - is - political philosopher,10.11,minie,1
+15,Institut Constant de Rebecque - is Swiss free-market named after - writer,0,minie,0
+15,Institut Constant de Rebecque - is Swiss free-market named after - political philosopher,0,minie,0
+15,Institut Constant de Rebecque - is classical liberal named after - writer,0,minie,0
+15,Institut Constant de Rebecque - is classical liberal named after - political philosopher,0,minie,0
+15,Institut Constant de Rebecque - is libertarian think tank founded in January 2005 in Lausanne named after - writer,0,minie,0
+15,Institut Constant de Rebecque - is libertarian think tank founded in January 2005 in Lausanne named after - political philosopher,0,minie,0
+15,Institut Constant de Rebecque - is - Swiss free-market,0,minie,0
+15,Institut Constant de Rebecque - is - classical liberal,4,minie,1
+15,Institut Constant de Rebecque - is - libertarian think tank founded in January 2005 in Lausanne,0,minie,0
+15,Swiss free-market - be named after - writer,0,minie,0
+15,Swiss free-market - be named after - political philosopher,0,minie,0
+15,classical liberal - be named after - writer,0,minie,0
+15,classical liberal - be named after - political philosopher,0,minie,0
+15,libertarian think tank founded in January 2005 in Lausanne - be named after - writer,0,minie,0
+15,libertarian think tank founded in January 2005 in Lausanne - be named after - political philosopher,0,minie,0
+15,libertarian think tank - be founded in January 2005 in - Lausanne,0,minie,0
+15,libertarian think tank - be founded in - January 2005,0,minie,0
+15,"The Institut Constant de Rebecque - is - a Swiss free-market , classical liberal and libertarian think tank",0,imojie,0
+15,"a Swiss free-market , classical liberal and libertarian think tank - founded - in January 2005 in Lausanne",0,imojie,0
+15,"The Institut Constant de Rebecque - is - a Swiss free-market think tank founded in January 2005 in Lausanne , named after writer Benjamin Constant",0,openie6,0
+15,"The Institut Constant de Rebecque - is - a Swiss free-market think tank founded in January 2005 in Lausanne , named after political philosopher Benjamin Constant",0,openie6,0
+15,a Swiss free-market think tank founded in January 2005 in Lausanne - named - after political philosopher Benjamin Constant,0,openie6,0
+15,"The Institut Constant de Rebecque - is - a Swiss libertarian think tank founded in January 2005 in Lausanne , named after writer Benjamin Constant",0,openie6,0
+15,"The Institut Constant de Rebecque - is - a Swiss libertarian think tank founded in January 2005 in Lausanne , named after political philosopher Benjamin Constant",0,openie6,0
+15,"The Institut Constant de Rebecque - is - a Swiss free-market , classical liberal and libertarian think tank founded in January 2005 in Lausanne , named after writer and political philosopher Benjamin Constant",0,m2oie,0
+15,"a Swiss free-market , classical liberal and libertarian think tank - founded - in January 2005 in Lausanne",0,m2oie,0
+15,"a Swiss free-market , classical liberal and libertarian think tank January 2005 in Lausanne - named - after writer and political philosopher Benjamin Constant",0,m2oie,0
+15,The Institut Constant de Rebecque - is - a Swiss free-market think tank,2,compactie,1
+15,a Swiss free-market think tank - founded - in January 2005 in Lausanne,0,compactie,0
+15,a Swiss free-market think tank - named - after writer Benjamin Constant,0,compactie,0
+15,a Swiss free-market think tank - named - after political philosopher Benjamin Constant,0,compactie,0
+15,The Institut Constant de Rebecque - is - a Swiss classical liberal think tank,4,compactie,1
+15,a Swiss classical liberal think tank - founded - in January 2005 in Lausanne,0,compactie,0
+15,a Swiss classical liberal think tank - named - after writer Benjamin Constant,0,compactie,0
+15,a - founded - in January 2005 in Lausanne,0,compactie,0
+15,a - named - after political philosopher Benjamin Constant,0,compactie,0
+15,The Institut Constant de Rebecque - is - a Swiss libertarian think tank,5,compactie,1
+15,a Swiss libertarian think tank - founded - in January 2005 in Lausanne,0,compactie,0
+15,a Swiss libertarian think tank - named - after writer Benjamin Constant,0,compactie,0
+15,a Swiss libertarian think tank - named - after political philosopher Benjamin Constant,0,compactie,0
+16,mainline gimp - was its support for - high bit depths,0,reverb,0
+16,high bit depths - can be required for - film work,2,reverb,1
+16,The main reason for this adoption over mainline gimp - was - its support for high bit depths,1,clausie,1
+16,The main reason for this adoption over mainline gimp - was - its support,0,clausie,0
+16,its - has - support for high bit depths,0,clausie,0
+16,its support for high bit depths - can be required - for film work,0,clausie,0
+16,main reason for adoption over mainline gimp - was support for - high bit depths,1,minie,1
+16,main reason for adoption over mainline gimp - was - support,0,minie,0
+16,its - has support for - high bit depths,0,minie,0
+16,high bit depths - be required for - film work,0,minie,0
+16,high bit depths - can be required - for film work,0,imojie,0
+16,The main reason for this adoption over mainline gimp - was - its support for high bit depths,1,imojie,1
+16,The main reason for this adoption over mainline gimp - was - its support for high bit depths,1,openie6,1
+16,high bit depths - can be required - for film work,0,openie6,0
+16,The main reason for this adoption over mainline gimp - was - its support for high bit depths which can be for film work,0,m2oie,0
+16,high bit depths - can be required - for film work,0,m2oie,0
+16,The main reason - was - its support for high bit depths,0,compactie,0
+16,its support for high bit depths - can be required - for film work,0,compactie,0
+17,They - have a large range of - possible power supplies,1,reverb,1
+17,"They - can be - 380V , 1000V",2,reverb,1
+17,They - have - a large range of possible power supplies,1,clausie,1
+17,They - can be - 380V,2,clausie,1
+17,They - can be - 1000V,3,clausie,1
+17,They - can be - even higher,4,clausie,1
+17,They - have large range of - possible power supplies,1,minie,1
+17,They - be - 380V,0,minie,0
+17,They - be - 1000V,0,minie,0
+17,They - be - even higher,0,minie,0
+17,They - have - a large range of possible power supplies,1,imojie,1
+17,"They - can be - 380V , 1000V , or even higher",0,imojie,0
+17,They - have - a large range of possible power supplies,1,openie6,1
+17,They - can be - even higher,4,openie6,1
+17,They - can be - 380V,2,openie6,1
+17,They - can be - 1000V,3,openie6,1
+17,They - have - a large range of possible power supplies,1,m2oie,1
+17,"They - can be - 380V , 1000V , or even higher",0,m2oie,0
+17,They - have - a large range of possible power supplies,1,compactie,1
+17,They - can be - 380V,2,compactie,1
+17,They - can be - 1000V,3,compactie,1
+17,They - can be - even higher,4,compactie,1
+18,She - began - her film career,1,reverb,1
+18,She - began - her film career in 1947,0,clausie,0
+18,She - began - her film career in the film A New Oath,0,clausie,0
+18,She - began - her film career,1,clausie,1
+18,her - has - film career,0,clausie,0
+18,She - began film career in - 1947,2,minie,1
+18,She - began film career in - film,0,minie,0
+18,She - began - film career,1,minie,1
+18,her - has - film career,0,minie,0
+18,She - began - her film career in 1947 in the film,0,imojie,0
+18,She - began - her film career in the film in 1947,0,openie6,0
+18,She - began - her film career,1,m2oie,1
+18,She - began - her film career in 1947 in the film,0,compactie,0
+19,Alpha Serpentis - is a red giant of - spectral type K2III,0,reverb,0
+19,a red giant of spectral type K2III - marks - the snake 's heart,0,reverb,0
+19,The brightest star in Serpens Alpha Serpentis - is - a red giant of spectral type K2III located approximately away which marks the snake 's heart,0,clausie,0
+19,The brightest star in Unukalhai - is - a red giant of spectral type K2III located approximately away which marks the snake 's heart,0,clausie,0
+19,The brightest star in Serpens Alpha Serpentis - is - a red giant,3,clausie,1
+19,The brightest star in Unukalhai - is - a red giant,0,clausie,0
+19,spectral type K2III - be located - approximately away which marks the snake 's heart,0,clausie,0
+19,which - marks - the snake 's heart,0,clausie,0
+19,the snake - has - heart,7,clausie,1
+19,brightest star in Serpens - is - Alpha Serpentis,1,minie,1
+19,brightest star in Serpens - is - Unukalhai,0,minie,0
+19,brightest star in Serpens - is red giant of - spectral,0,minie,0
+19,brightest star in Serpens - is - red giant,0,minie,0
+19,approximately away - marks - snake 's heart,0,minie,0
+19,snake - has - heart,7,minie,1
+19,"The brightest star in Serpens , Alpha Serpentis , or Unukalhai - is - a red giant of spectral type K2III",0,imojie,0
+19,spectral type K2III - located - approximately away which marks the snake 's heart,0,imojie,0
+19,a red giant of spectral type K2III - located - approximately away which marks the snake 's heart,0,openie6,0
+19,The brightest star in Serpens - is - a red giant of spectral type K2III,0,openie6,0
+19,The brightest star in Alpha Serpentis - is - a red giant of spectral type K2III,0,openie6,0
+19,The brightest star in Unukalhai - is - a red giant of spectral type K2III,0,openie6,0
+19,a red of spectral type K2III - located - approximately away which marks the snake 's heart,0,openie6,0
+19,"The brightest star in Serpens , Alpha Serpentis , or Unukalhai - is - a red giant of spectral type K2III located approximately away",0,m2oie,0
+19,spectral type K2III - located - approximately away,0,m2oie,0
+19,type K2III away - marks - the snake 's heart,0,m2oie,0
+19,The brightest star in Serpens - is - a red giant of spectral type K2III,0,compactie,0
+19,a red giant of spectral type K2III - marks - the snake 's heart,0,compactie,0
+19,The brightest star in Alpha Serpentis - is - a red giant of spectral type K2III,0,compactie,0
+19,The brightest star in Unukalhai - is - a red giant of spectral type K2III,0,compactie,0
+20,warriors - describes - the necessity,0,reverb,0
+20,This manual for warriors - describes - the necessity for understanding an opponent 's weaknesses for using spies,0,clausie,0
+20,This manual for warriors - describes - the necessity for understanding an opponent 's weaknesses for striking in moments of weakness,0,clausie,0
+20,This manual for warriors - describes - the necessity for understanding an opponent 's weaknesses,2,clausie,1
+20,an opponent - has - weaknesses,0,clausie,0
+20,manual for warriors - describes - necessity for understanding opponent 's weaknesses for using spies,0,minie,0
+20,manual for warriors - describes for - striking in moments of weakness,0,minie,0
+20,opponent - has - weaknesses,0,minie,0
+20,"This manual for warriors - describes - the necessity for understanding an opponent 's weaknesses , for using spies , and for striking in moments of weakness",0,imojie,0
+20,This manual for warriors - describes - the necessity for understanding an opponent 's weaknesses,2,openie6,1
+20,This manual for warriors - describes - the necessity for striking in moments of weakness,4,openie6,1
+20,This manual for warriors - describes - the necessity for using spies,3,openie6,1
+20,"This manual for warriors - describes - the necessity for understanding an opponent 's weaknesses , for using spies , and for striking in moments of weakness",0,m2oie,0
+20,This manual for warriors - describes - the necessity for understanding an opponent 's weaknesses,2,compactie,1
+20,This manual for warriors - describes - the necessity for using spies,3,compactie,1
+20,This manual for warriors - describes - the necessity for striking in moments of weakness,4,compactie,1
+21,It - was - club policy,0,reverb,0
+21,the senior team - was adopted by - Bill Dimovski,1,reverb,1
+21,It - was - club policy to promote talent into the senior team,0,clausie,0
+21,the senior team - was adopted - by Bill Dimovski,0,clausie,0
+21,It - was club policy to promote talent into - senior team,0,minie,0
+21,It - was - club policy,0,minie,0
+21,club policy - be promote talent into - senior team,3,minie,1
+21,senior team - was adopted by - Bill Dimovski,1,minie,1
+21,the senior team - was adopted - by Bill Dimovski,0,imojie,0
+21,It - was - club policy to promote talent into the senior team,0,imojie,0
+21,It - was - club policy to promote talent into the senior team,0,openie6,0
+21,the senior team - was adopted - by Bill Dimovski,0,openie6,0
+21,It - was - club policy to promote talent into the senior team,0,m2oie,0
+21,the senior team - was adopted - by Bill Dimovski,0,m2oie,0
+21,club - was adopted - by Bill Dimovski,0,compactie,0
+22,Vaccinations against other viral diseases - followed - including the successful rabies vaccination by Louis Pasteur in 1886,0,clausie,0
+22,Vaccinations against other viral diseases - followed - including successful rabies vaccination by Louis Pasteur in 1886,0,minie,0
+22,Vaccinations against other viral diseases - followed - including the successful rabies vaccination by Louis Pasteur in 1886,0,imojie,0
+22,Vaccinations against other viral diseases - followed - including the successful rabies,0,m2oie,0
+22,Vaccinations against other viral diseases - followed - including the successful rabies vaccination by Louis Pasteur in 1886,0,compactie,0
+23,the Photographic Model - follows - more of a step-by-step process,1,reverb,1
+23,the Comprehensive Model - demonstrates an interconnected relationship between - the variables,4,reverb,1
+23,One major difference between the two models - is - that the Photographic Model follows more of a step-by-step process in the development of flashbulb accounts whereas the Comprehensive Model demonstrates an interconnected relationship between the variables,6,clausie,1
+23,the Photographic Model - follows - more of a step-by-step process in the development of flashbulb accounts whereas the Comprehensive Model demonstrates an interconnected relationship between the variables,0,clausie,0
+23,the Photographic Model - follows - more of a step-by-step process in the development of flashbulb accounts,1,clausie,1
+23,the Comprehensive Model - demonstrates - an interconnected relationship between the variables,3,clausie,1
+23,Photographic Model - follows more of step-by-step process in development of - flashbulb accounts,2,minie,1
+23,Photographic Model - follows more of - step-by-step process,1,minie,1
+23,Comprehensive Model - demonstrates interconnected relationship between - variables,4,minie,1
+23,the Comprehensive Model - demonstrates - an interconnected relationship between the variables,3,imojie,1
+23,One major difference between the two models - is - that the Photographic Model follows more of a step-by-step process in the development of flashbulb accounts,0,imojie,0
+23,the Photographic Model - follows - more of a step-by-step process in the development of flashbulb accounts,1,imojie,1
+23,the Comprehensive Model - demonstrates - an interconnected relationship between the variables,3,openie6,1
+23,the Photographic Model - follows - more of a step-by-step process in the development of flashbulb,1,openie6,1
+23,One major difference between the two models - is - that the Photographic Model follows more of a step-by-step process in the development of flashbulb accounts whereas,0,openie6,0
+23,"One major difference between the two models - is - that the Photographic Model follows more of a step-by-step process in the development of flashbulb accounts , whereas the",0,m2oie,0
+23,the Photographic Model - follows - more of a step-by-step process in the development of flashbulb accounts,1,m2oie,1
+23,the Comprehensive Model - demonstrates - an interconnected relationship between the variables,3,m2oie,1
+23,the Photographic Model - follows - more of a step-by-step process in the development of flashbulb accounts,1,compactie,1
+23,the Comprehensive Model - demonstrates - an interconnected relationship between the variables,3,compactie,1
+24,300 soldiers of the 1st SS Battalion - were able to reinforce - the hotel,2,reverb,1
+24,300 soldiers of the 1st SS Battalion - defeat - several attacks,3,reverb,1
+24,300 soldiers of the 1st SS Battalion - were - able to reinforce the hotel That night,0,clausie,0
+24,300 soldiers of the 1st SS Battalion - were - able to defeat several attacks on the building That night,0,clausie,0
+24,300 soldiers of the 1st SS Battalion - were - able to defeat several attacks That night,0,clausie,0
+24,300 soldiers of the 1st SS Battalion - were - able to reinforce the hotel,0,clausie,0
+24,300 soldiers of the 1st SS Battalion - were - able to defeat several attacks on the building,0,clausie,0
+24,300 soldiers of the 1st SS Battalion - were - able to defeat several attacks,0,clausie,0
+24,night - were - able to reinforce hotel,0,minie,0
+24,night - were able defeat several attacks on - building,0,minie,0
+24,300 soldiers of the 1st SS Battalion - were - able to reinforce the hotel and defeat several attacks on the building That night,0,imojie,0
+24,", 300 soldiers of the 1st SS Battalion - to defeat - several attacks on the building",0,openie6,0
+24,", 300 soldiers of the 1st SS Battalion - to reinforce - the hotel",0,openie6,0
+24,", 300 soldiers of the 1st SS Battalion - were - able to defeat several attacks on the building That night",0,openie6,0
+24,", 300 soldiers of the 1st SS Battalion - were - able to reinforce the hotel That night",0,openie6,0
+24,That 300 soldiers of the 1st SS Battalion - were - able to reinforce the hotel and defeat several attacks on the building,0,m2oie,0
+24,300 soldiers of the 1st SS Battalion - to reinforce - the hotel,0,m2oie,0
+24,300 soldiers of the 1st SS Battalion - defeat - several attacks on the building,3,m2oie,1
+24,300 soldiers of the 1st SS Battalion - were able to - reinforce the hotel,2,compactie,1
+24,300 soldiers of the 1st SS Battalion - were able - to defeat several attacks on the building,0,compactie,0
+25,John Crozier - was - an early aviation pioneer,0,reverb,0
+25,an early aviation pioneer - began building - a human-powered flying machine,0,reverb,0
+25,the 1890s - was killed in - a feud,0,reverb,0
+25,he - could complete - it,0,reverb,0
+25,His - has - son,0,clausie,0
+25,His son - is - John Crozier,0,clausie,0
+25,John Crozier - is - Jr.,0,clausie,0
+25,His son - was - an early aviation pioneer,0,clausie,0
+25,an early aviation pioneer - began - building a human-powered flying machine in the 1890s,0,clausie,0
+25,an early aviation pioneer - began - building a human-powered flying machine,0,clausie,0
+25,an early aviation pioneer - was killed - in a feud in Grainger County before he could complete it,0,clausie,0
+25,an early aviation pioneer - was killed - in a feud in Grainger County,0,clausie,0
+25,he - could complete - it,0,clausie,0
+25,His - has - son,0,minie,0
+25,son - is - John Crozier,0,minie,0
+25,John Crozier - is - son,0,minie,0
+25,John Crozier - is - Jr.,0,minie,0
+25,son - was - early aviation pioneer,0,minie,0
+25,early aviation pioneer - began building human-powered flying machine in - the 1890s,0,minie,0
+25,early aviation pioneer - began - building human-powered flying machine,0,minie,0
+25,early aviation pioneer - was killed in feud in - Grainger County,0,minie,0
+25,he - complete - it,0,minie,0
+25,"His son - was - an early aviation pioneer who began building a human-powered flying machine in the 1890s , but was killed in a feud in Grainger County",0,imojie,0
+25,he - could complete - it,0,imojie,0
+25,His son - was - an early aviation pioneer who began building a human-powered flying machine in the 1890s,0,openie6,0
+25,an early aviation pioneer - began - building a human-powered flying machine in the 1890s,0,openie6,0
+25,an early aviation pioneer - was killed - in a feud in Grainger County before he could complete it,0,openie6,0
+25,he - could complete - it,0,openie6,0
+25,an early aviation pioneer - began building - a human-powered flying machine in the 1890s,0,openie6,0
+25,"His son , John Crozier , Jr. - was - an early aviation pioneer who began building a human-powered flying machine in the 1890s , but was killed in a feud in Grainger County",0,m2oie,0
+25,an early aviation pioneer - began building - a human-powered flying machine in the 1890s,0,m2oie,0
+25,an early aviation pioneer - was killed - in a feud in Grainger County,0,m2oie,0
+25,he - could complete - it,0,m2oie,0
+25,John Crozier - was - an early aviation pioneer,0,compactie,0
+25,an early aviation - was killed - in a feud in Grainger County,0,compactie,0
+25,an early aviation - could complete - it,0,compactie,0
+26,Arminius - now had - a free hand,4,reverb,1
+26,Arminius - is - leader of the Cherusci,1,clausie,1
+26,Arminius - is - leader of allies,0,clausie,0
+26,Arminius - had - a free hand now,0,clausie,0
+26,Arminius - had - a free hand,4,clausie,1
+26,Arminius - is leader of - Cherusci,2,minie,1
+26,Arminius - is leader of - allies,3,minie,1
+26,Arminius - had - free hand,4,minie,1
+26,Arminius - had - a free hand now,4,imojie,1
+26,Arminius - is leader of - the Cherusci and allies,2,imojie,1
+26,Arminius - had - a free hand now,0,openie6,0
+26,Arminius - is leader of - the Cherusci,2,openie6,1
+26,Arminius - is leader of - the allies,3,openie6,1
+26,"Arminius , leader of the Cherusci and allies - had - a free hand",0,m2oie,0
+26,Arminius - had - a free hand,4,compactie,1
+27,The culture of Bhutan - is fully reflected in - the capital city,1,reverb,1
+27,The culture of Bhutan - is reflected - in the capital city in respect of literature fully,0,clausie,0
+27,The culture of Bhutan - is reflected - in the capital city in respect of religion and in the media fully,0,clausie,0
+27,The culture of Bhutan - is reflected - in the capital city in respect of customs and in the media fully,0,clausie,0
+27,The culture of Bhutan - is reflected - in the capital city in respect of national dress code and in the media fully,0,clausie,0
+27,The culture of Bhutan - is reflected - in the media fully,0,clausie,0
+27,The culture of Bhutan - is reflected - in the capital city in respect of literature,0,clausie,0
+27,The culture of Bhutan - is reflected - in the capital city in respect of religion and in the media,0,clausie,0
+27,The culture of Bhutan - is reflected - in the capital city in respect of customs and in the media,0,clausie,0
+27,The culture of Bhutan - is reflected - in the capital city in respect of national dress code and in the media,0,clausie,0
+27,The culture of Bhutan - is reflected - in the media,0,clausie,0
+27,national dress code - is - the monastic practices of the monasteries music dance literature,0,clausie,0
+27,culture of Bhutan - is reflected in - capital city,1,minie,1
+27,culture of Bhutan - is reflected in capital city in respect of - literature,2,minie,1
+27,culture of Bhutan - is reflected in capital city in respect of - religion,3,minie,1
+27,culture of Bhutan - is reflected in capital city in respect of - customs,4,minie,1
+27,culture of Bhutan - is reflected in capital city in respect of - national dress code,5,minie,1
+27,The culture of Bhutan - is reflected - in the capital city fully,0,imojie,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of,0,openie6,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of literature,0,openie6,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of and national dress code,0,openie6,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of religion,0,openie6,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of music,0,openie6,0
+27,"The culture of Bhutan - is fully reflected - in the capital city in respect of literature , religion , customs , and national dress code",0,m2oie,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of religion,0,compactie,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of customs,0,compactie,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of and national dress code,0,compactie,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of the monastic practices of the monasteries,0,compactie,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of music,0,compactie,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of dance,0,compactie,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of literature,0,compactie,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of in the media,0,compactie,0
+27,The culture of Bhutan - is fully reflected - in the capital city in respect of .,0,compactie,0
+28,My - has - Classical Way,0,clausie,0
+28,My Classical Way - was released - on 21 September 2010,0,clausie,0
+28,My Classical Way - was released - on 21 on Marc 's own label,0,clausie,0
+28,My Classical Way - was released - on 21,0,clausie,0
+28,Marc 's own label - is - Frazzy Frog Music,4,clausie,1
+28,Marc - has - own label,6,clausie,1
+28,My - has - Classical Way,0,minie,0
+28,Classical Way - was released on 21 September 2010 on - Marc 's own label,0,minie,0
+28,Classical Way - was released on - 21 September 2010,0,minie,0
+28,Marc 's own label - is - Frazzy Frog Music,4,minie,1
+28,Marc - has - own label,6,minie,1
+28,My Classical Way - was released - on 21 September 2010 on Marc 's own label,0,imojie,0
+28,Marc 's own label - is - Frazzy Frog Music,4,imojie,1
+28,My Classical Way - was released - on 21 September 2010 on Marc 's own label,0,openie6,0
+28,Frazzy Frog Music - is own label of - Marc,4,openie6,1
+28,My Classical Way - was released - on 21 September 2010 Marc 's own label,0,m2oie,0
+28,`` My Classical Way - was released - on 21 September 2010 on,0,compactie,0
+29,attempted murder - is an offence under - section 1 of the Criminal Attempts Act 1981,5,reverb,1
+29,an offence - is - an indictable offence,0,reverb,0
+29,an indictable offence - carries a maximum penalty of - life imprisonment,8,reverb,1
+29,attempted murder - is - an offence In England,0,clausie,0
+29,attempted murder - is - an offence In Wales,0,clausie,0
+29,attempted murder - is - an offence as an attempt,0,clausie,0
+29,attempted murder - is - an offence under section 1 of the Criminal Attempts Act 1981,0,clausie,0
+29,attempted murder - is - an offence,1,clausie,1
+29,attempted murder - is - an indictable offence In England,0,clausie,0
+29,attempted murder - is - an indictable offence In Wales,0,clausie,0
+29,attempted murder - is - an indictable offence as an attempt,0,clausie,0
+29,attempted murder - is - an indictable offence,6,clausie,1
+29,an indictable offence - carries - a maximum penalty of life imprisonment,8,clausie,1
+29,murder - is offence under section 1 of - Criminal Attempts Act 1981,0,minie,0
+29,murder - is - offence,0,minie,0
+29,murder - is - indictable offence,0,minie,0
+29,indictable offence - carries maximum penalty of - life imprisonment,8,minie,1
+29,attempted murder - is - an offence under section 1 of the Criminal Attempts Act 1981 In England and Wales,0,imojie,0
+29,an indictable offence - carries - a maximum penalty of life imprisonment,8,imojie,1
+29,an indictable offence - carries - a maximum penalty of life imprisonment,8,openie6,1
+29,"as an `` attempt `` , attempted murder - is - an offence under section 1 of the Criminal Attempts Act 1981 In England",0,openie6,0
+29,"as an `` attempt `` , attempted murder - is - an offence under section 1 of the Criminal Attempts Act 1981 In Wales",0,openie6,0
+29,"as an `` attempt `` , attempted murder - is - an indictable offence which carries a maximum penalty of life imprisonment In Wales",0,openie6,0
+29,as an `` attempt `` murder - is - an indictable offence which carries a maximum penalty of life imprisonment In England,0,openie6,0
+29,attempted murder - is - an offence under section 1 of the Criminal Attempts Act 1981 an indictable offence,0,m2oie,0
+29,an indictable offence - carries - a maximum penalty of life imprisonment,8,m2oie,1
+29,attempted murder - is - an offence under section 1 of the Criminal Attempts Act 1981,1,compactie,1
+29,attempted murder - is - indictable offence,6,compactie,1
+29,indictable offence - carries - a maximum penalty of life imprisonment,8,compactie,1
+29,attempted murder - carries - a maximum penalty of life imprisonment,7,compactie,1
+30,Lugo and Lozano - were released in - 1993,3,reverb,1
+30,Lugo and Lozano - continue to reside in - Venezuela,5,reverb,1
+30,Lugo - were released - in 1993,0,clausie,0
+30,Lozano - were released - in 1993,0,clausie,0
+30,Lugo - continue - to reside in Venezuela,0,clausie,0
+30,Lozano - continue - to reside in Venezuela,0,clausie,0
+30,Lugo - were released in - 1993,4,minie,1
+30,Lozano - were released in - 1993,3,minie,1
+30,Lugo - continue to reside in - Venezuela,5,minie,1
+30,Lozano - continue to reside in - Venezuela,6,minie,1
+30,Lugo and Lozano - were released - in 1993,0,imojie,0
+30,Lugo and Lozano - continue to reside - in Venezuela,0,imojie,0
+30,Lozano - were released - in 1993,0,openie6,0
+30,Lozano - continue - to reside in Venezuela,0,openie6,0
+30,Lozano - continue to reside - in Venezuela,0,openie6,0
+30,Lugo - continue - to reside in Venezuela,0,openie6,0
+30,Lugo - were released - in 1993,0,openie6,0
+30,Lugo and Lozano - were released - in 1993,0,m2oie,0
+30,Lugo and Lozano - continue - to reside in Venezuela,0,m2oie,0
+30,Lugo and Lozano - to reside - in Venezuela,0,m2oie,0
+30,Lugo - were released - in 1993,0,compactie,0
+30,Lugo - continue to reside - in Venezuela,0,compactie,0
+30,Lozano - were released - in 1993,0,compactie,0
+30,Lozano - continue to reside - in Venezuela,0,compactie,0
+31,they - do not contribute significantly to - the final image,0,reverb,0
+31,objects - are - so far away that they do not contribute significantly to the final image Often,0,clausie,0
+31,objects - are - so far away that they do not contribute significantly to the final image,0,clausie,0
+31,they - do not contribute - significantly to the final image,0,clausie,0
+31,they - do not contribute - significantly,0,clausie,0
+31,they - do contribute to - final image,0,minie,0
+31,they - do contribute - significantly,0,minie,0
+31,objects - are - so far away that they do not contribute significantly to the final image Often,0,imojie,0
+31,they - do not contribute significantly - to the final image,0,imojie,0
+31,objects - are - so far away that they do not contribute significantly to the final image Often,0,openie6,0
+31,they - do not contribute significantly - to the final image,0,openie6,0
+31,objects - are - so far away that they,0,m2oie,0
+31,they - do not contribute significantly - to the final image,0,m2oie,0
+31,objects - are - far away,0,compactie,0
+31,they - do not contribute - significantly to the final image,0,compactie,0
+32,The school - was founded in - 1851,2,reverb,1
+32,a group of Milwaukee German Americans - included - educationist Peter Engelmann and hardware wholesaler William Frankfurth,0,reverb,0
+32,The school - was founded - in 1851 as the German-English Academy by a group of Milwaukee German Americans,0,clausie,0
+32,The school - was founded - in 1851 as the German-English Academy,0,clausie,0
+32,Milwaukee German Americans - included - educationist Peter Engelmann,7,clausie,1
+32,Milwaukee German Americans - included - hardware wholesaler William Frankfurth,8,clausie,1
+32,Peter Engelmann - is - educationist,9,minie,1
+32,William Frankfurth - is - hardware wholesaler,10,minie,1
+32,school - was founded in 1851 as - German-English Academy,0,minie,0
+32,school - was founded in 1851 by group of - Milwaukee German Americans,0,minie,0
+32,school - was founded in - 1851,0,minie,0
+32,group of Milwaukee German Americans - included - Peter Engelmann,7,minie,1
+32,group of Milwaukee German Americans - included - William Frankfurth,8,minie,1
+32,Milwaukee German Americans - included - educationist Peter Engelmann and hardware wholesaler William Frankfurth,0,imojie,0
+32,The school - was founded - in 1851 as the German-English Academy by a group of Milwaukee German Americans,0,imojie,0
+32,The school - was founded - in 1851 as the German-English Academy by a group of Milwaukee German Americans,0,openie6,0
+32,a group of Milwaukee German Americans - included - educationist Peter Engelmann,7,openie6,1
+32,a group of Milwaukee German Americans - included - hardware wholesaler William Frankfurth,8,openie6,1
+32,The school - was founded - in 1851,0,m2oie,0
+32,a group of Milwaukee German Americans - included - educationist Peter Engelmann and hardware wholesaler William Frankfurth,0,m2oie,0
+32,The school - was founded - in 1851 as the German-English Academy by a group of Milwaukee German Americans,0,compactie,0
+32,Academy - included - educationist Peter Engelmann,0,compactie,0
+32,The school - was founded - in 1851 as the German-English,0,compactie,0
+32,Academy - included - hardware wholesaler William Frankfurth,0,compactie,0
+33,They - held - the first Triangle workshop,1,reverb,1
+33,They - held - the first Triangle workshop in 1982 for thirty sculptors,0,clausie,0
+33,They - held - the first Triangle workshop in 1982 for painters,0,clausie,0
+33,They - held - the first Triangle workshop in 1982 from the US,0,clausie,0
+33,They - held - the first Triangle workshop in 1982 from the UK,0,clausie,0
+33,They - held - the first Triangle workshop in 1982 from Canada,0,clausie,0
+33,They - held - the first Triangle workshop in 1982 at Pine Plains,0,clausie,0
+33,They - held - the first Triangle workshop in 1982,1,clausie,1
+33,Pine Plains - is - New York,0,clausie,0
+33,They - held first Triangle workshop in 1982 UK at - Pine Plains,0,minie,0
+33,They - held first Triangle workshop in - 1982 Canada,0,minie,0
+33,They - held first Triangle workshop for thirty sculptors UK at - Pine Plains,0,minie,0
+33,They - held first Triangle workshop for - thirty sculptors Canada,0,minie,0
+33,They - held first Triangle workshop for painters UK at - Pine Plains,0,minie,0
+33,They - held first Triangle workshop for - painters Canada,0,minie,0
+33,They - held first Triangle workshop from US UK at - Pine Plains,0,minie,0
+33,They - held first Triangle workshop from - US Canada,0,minie,0
+33,They - held first Triangle workshop UK at - Pine Plains,0,minie,0
+33,They - held first Triangle workshop - Canada,0,minie,0
+33,UK at Pine Plains - is in - New York,0,minie,0
+33,Canada - is in - New York,0,minie,0
+33,"They - held - the first Triangle workshop in 1982 for thirty sculptors and painters from the US , the UK and Canada at Pine Plains , New York",0,imojie,0
+33,They - held - the first Triangle workshop in 1982,1,openie6,1
+33,They - held - the first Triangle workshop 1982,0,m2oie,0
+33,They - held - the first Triangle workshop in 1982 for thirty sculptors from the US at Pine Plains,0,compactie,0
+33,They - held - the first Triangle workshop in 1982 for thirty sculptors from the UK at Pine Plains,0,compactie,0
+33,They - held - the first Triangle workshop in 1982 for thirty sculptors from Canada at Pine Plains,0,compactie,0
+33,They - held - the first Triangle workshop in 1982 for thirty painters from the US at Pine Plains,0,compactie,0
+33,They - held - the first Triangle workshop in 1982 for thirty painters from the UK at Pine Plains,0,compactie,0
+33,They - held - the first Triangle workshop in 1982 for thirty painters from Canada at Pine Plains,0,compactie,0
+34,surrounding villages - were hit by - two moderate earthquakes,5,reverb,1
+34,The town - were hit - by two moderate earthquakes within ten years,0,clausie,0
+34,surrounding villages - were hit - by two moderate earthquakes within ten years,0,clausie,0
+34,town - were hit by two moderate earthquakes within - ten years,0,minie,0
+34,surrounding villages - were hit by two moderate earthquakes within - ten years,6,minie,1
+34,The town and surrounding villages - were hit - by two moderate earthquakes within ten years,0,imojie,0
+34,surrounding villages - were hit - by two moderate earthquakes within ten years,0,openie6,0
+34,The town - were hit - by two moderate earthquakes within ten years,0,openie6,0
+34,The town and surrounding villages - were hit - by two moderate earthquakes within ten years,0,m2oie,0
+34,The town - were hit - by two moderate earthquakes within ten years,0,compactie,0
+34,surrounding villages - were hit - by two moderate earthquakes within ten years,0,compactie,0
+35,"She - received her Master Degree in - the field of Controls , Guidance and Instrumentation",2,reverb,1
+35,She - received - her Master Degree in the field of Controls,0,clausie,0
+35,She - received - her Master Degree in the field of Guidance,0,clausie,0
+35,She - received - her Master Degree in the field of Instrumentation,0,clausie,0
+35,She - received - her Master Degree from I.I.T Madras,0,clausie,0
+35,She - received - her Master Degree from Ph. d degree,0,clausie,0
+35,She - received - her Master Degree from the department of Aerospace engineering,0,clausie,0
+35,She - received - her Master Degree,1,clausie,1
+35,her - has - Master Degree,0,clausie,0
+35,She - received Master Degree in field of - Controls,0,minie,0
+35,She - received Master Degree in field of - Guidance,0,minie,0
+35,She - received Master Degree in field of - Instrumentation,0,minie,0
+35,She - received Master Degree from - I.I.T Madras,3,minie,1
+35,She - received Master Degree from - Ph.d degree,0,minie,0
+35,She - received Master Degree from department of - Aerospace engineering,0,minie,0
+35,She - received - Master Degree,1,minie,1
+35,her - has - Master Degree,0,minie,0
+35,"She - received - her Master Degree in the field of Controls , Guidance and Instrumentation from I.I.T Madras and Ph.d degree from the department of Aerospace engineering",0,imojie,0
+35,She - received - her Master Degree in the field of Controls from I.I.T Madras,0,openie6,0
+35,She - received - her Master Degree in the field of Instrumentation from I.I.T Madras,0,openie6,0
+35,She - received - her Master Degree in the field of Guidance from I.I.T Madras,0,openie6,0
+35,She - received - Ph.d degree from the department of Aerospace engineering,4,openie6,1
+35,"She - received - her Master Degree in the field of Controls , Guidance and Instrumentation from I.I.T Madras and Ph.d degree from the department of Aerospace engineering",0,m2oie,0
+35,She - received - Ph.d degree from the department of Aerospace engineering,4,compactie,1
+35,She - received - her Master Degree in the field of Controls from I.I.T Madras,0,compactie,0
+35,She - received - her Master Degree in the field of Guidance from I.I.T Madras,0,compactie,0
+35,She - received - her Master Degree in the field of Instrumentation from I.I.T Madras,0,compactie,0
+36,she - used in - her stage show,0,reverb,0
+36,she - used - in her stage show unique gimmicks,0,clausie,0
+36,she - used - unique gimmicks,2,clausie,1
+36,her - has - stage show,0,clausie,0
+36,The theatrical flourishes - went - beyond established burlesque routines like the fan dance,0,clausie,0
+36,The theatrical flourishes - went - beyond established burlesque routines like balloon dance,0,clausie,0
+36,unique gimmicks - went - beyond established burlesque routines like the fan dance,0,clausie,0
+36,unique gimmicks - went - beyond established burlesque routines like balloon dance,0,clausie,0
+36,The theatrical flourishes - went - beyond established burlesque routines,0,clausie,0
+36,unique gimmicks - went - beyond established burlesque routines,0,clausie,0
+36,fan dance - is - burlesque routine,7,minie,1
+36,balloon dance - is - burlesque routine,8,minie,1
+36,she - used in stage show - theatrical flourishes,3,minie,1
+36,she - used in stage show - unique gimmicks,4,minie,1
+36,she - used - theatrical flourishes,1,minie,1
+36,she - used - unique gimmicks,2,minie,1
+36,her - has - stage show,0,minie,0
+36,theatrical flourishes - went beyond established burlesque routines like - fan dance,0,minie,0
+36,theatrical flourishes - went beyond established burlesque routines like - balloon dance,0,minie,0
+36,unique gimmicks - went beyond established burlesque routines like - fan dance,0,minie,0
+36,unique gimmicks - went beyond established burlesque routines like - balloon dance,0,minie,0
+36,The theatrical flourishes and unique gimmicks - went - beyond established burlesque routines like the fan dance and balloon dance,0,imojie,0
+36,unique gimmicks - used - in her stage show,0,imojie,0
+36,The theatrical flourishes - used - in her stage show,0,openie6,0
+36,The theatrical flourishes she used in her stage show - went - beyond established burlesque routines like the fan dance,0,openie6,0
+36,The unique gimmicks she used in her stage show - went - beyond established burlesque routines like the fan dance,0,openie6,0
+36,The theatrical flourishes she used in her stage show - went - beyond established burlesque routines like the balloon dance,0,openie6,0
+36,The unique gimmicks she used in her stage show - went - beyond established burlesque routines like the balloon dance,0,openie6,0
+36,The theatrical flourishes and unique gimmicks she - used - in her stage show,0,m2oie,0
+36,The theatrical flourishes and unique gimmicks she used in her stage show - went - beyond established burlesque routines like the fan dance and balloon dance,0,m2oie,0
+36,The theatrical flourishes she - used - in her stage show,0,compactie,0
+36,her stage show - went - beyond established burlesque routines like the fan dance,0,compactie,0
+36,her stage show - went - beyond established burlesque routines like the balloon dance,0,compactie,0
+36,The unique gimmicks she - used - in her stage show,0,compactie,0
+37,The RIAA - lists - it,1,reverb,1
+37,The RIAA - lists - it as one of the Best Selling Albums of All Time,0,clausie,0
+37,The RIAA - lists - it,1,clausie,1
+37,the Best - be Selling - Albums of All Time,0,clausie,0
+37,RIAA - lists it as - one of Best Selling Albums of Time,0,minie,0
+37,RIAA - lists - it,1,minie,1
+37,The RIAA - lists - it as one of the Best Selling Albums of All Time,1,imojie,1
+37,The RIAA - lists - it as one of the Best Selling Albums of All Time,1,openie6,1
+37,The RIAA - lists - it of Time,0,m2oie,0
+37,The RIAA - lists - it as one of the Best Selling Albums of All Time,1,compactie,1
+38,the belfry - were thoroughly renovated from - 2006,5,reverb,1
+38,The Cathedral - were renovated - from 2006 to 2008 thoroughly,0,clausie,0
+38,the belfry - were renovated - from 2006 to 2008 thoroughly,0,clausie,0
+38,The Cathedral - were renovated - from 2006 to 2008,0,clausie,0
+38,the belfry - were renovated - from 2006 to 2008,0,clausie,0
+38,Cathedral - were renovated from - 2006 to 2008,0,minie,0
+38,belfry - were renovated from - 2006 to 2008,0,minie,0
+38,The Cathedral and the belfry - were thoroughly renovated - from 2006 to 2008,0,imojie,0
+38,the belfry - were thoroughly renovated - from 2006 to 2008,0,openie6,0
+38,The Cathedral - were thoroughly renovated - from 2006 to 2008,0,openie6,0
+38,The Cathedral and the belfry - were thoroughly renovated - from 2006 to 2008,0,m2oie,0
+38,The Cathedral - were thoroughly renovated - from 2006 to 2008,0,compactie,0
+38,the belfry - were thoroughly renovated - from 2006 to 2008,0,compactie,0
+39,Peter Bywaters - offers personal English as - a second language tuition,0,reverb,0
+39,the band - is not touring - When,0,clausie,0
+39,Peter Bywaters - offers - personal English When the band is not touring,0,clausie,0
+39,Peter Bywaters - offers - personal English as a second language tuition on a live-in basis at his home in Brighton,0,clausie,0
+39,Peter Bywaters - offers - personal English,0,clausie,0
+39,his - has - home in Brighton,0,clausie,0
+39,Peter Bywaters - offers personal English as - a second language tuition on live-in basis at home in Brighton,0,minie,0
+39,Peter Bywaters - offers - personal English,0,minie,0
+39,his - has home in - Brighton,0,minie,0
+39,Peter Bywaters - offers - personal English as a second language tuition on a live-in basis at his home in Brighton When the band is not touring,0,imojie,0
+39,Peter Bywaters - offers - personal English When the band is not touring,0,imojie,0
+39,Peter Bywaters - offers - personal English as a second language tuition on a live-in basis at his home in Brighton When the band is not touring,0,openie6,0
+39,Peter Bywaters - offers - personal English language tuition on basis at,0,m2oie,0
+39,Peter Bywaters - offers - personal English as a second language tuition on a live-in basis,0,compactie,0
+40,These screening activities - include - review of group-based data,1,clausie,1
+40,These screening activities - include - hearing screening,2,clausie,1
+40,These screening activities - include - hearing vision motor and speech\/language screening,0,clausie,0
+40,These screening activities - include - hearing motor and speech\/language screening,0,clausie,0
+40,These screening activities - include - hearing speech\/language screening,0,clausie,0
+40,These screening activities - include - review by the Special Education administration,7,clausie,1
+40,"These screening activities - include - review of group-based data hearing , vision , motor , and speech/language screening",0,imojie,0
+40,These screening activities - include - review of group-based data,1,openie6,1
+40,These screening activities - include - review by the Special Education administration,7,openie6,1
+40,These screening activities - include - speech/language screening,5.6,openie6,1
+40,These screening activities - include - hearing screening,2,openie6,1
+40,These screening activities - include - motor screening,4,openie6,1
+40,"These screening activities - include - : review of group-based data ; hearing , vision , motor , and speech/language screening ; and review by the Special Education administration",0,m2oie,0
+40,These screening activities - include - review of group-based data,1,compactie,1
+40,These screening activities - include review - by the Special Education administration,0,compactie,0
+40,These screening activities - include - hearing screening,2,compactie,1
+40,These screening activities - include - vision screening,3,compactie,1
+40,These screening activities - include - : motor screening,4,compactie,1
+40,These screening activities - include - : speech/language screening,5.6,compactie,1
+41,He - probably saw active service as - a soldier,2,reverb,1
+41,He - saw - active service probably,0,clausie,0
+41,He - saw - active service as a soldier for the Scottish forces in The Netherlands,0,clausie,0
+41,He - saw - active service in the later 1570s,0,clausie,0
+41,He - saw - active service although there is no certain documentary evidence of this,0,clausie,0
+41,He - saw - active service,1,clausie,1
+41,He - saw - active service,1,minie,1
+41,He - saw active service as soldier for Scottish forces in The Netherlands in - the later 1570s,0,minie,0
+41,He - probably saw - active service as a soldier for the Scottish forces in The Netherlands in the later 1570s,0,imojie,0
+41,He - probably saw - active service as a soldier for the Scottish forces in The Netherlands in the later 1570s,0,openie6,0
+41,He - probably - saw active service as a soldier for the Scottish forces in The Netherlands in the later 1570s,0,m2oie,0
+41,He - saw - active service a soldier for the Scottish forces in in,0,m2oie,0
+41,He - probably saw - active service as a soldier for the Scottish forces in The Netherlands in the later 1570s,0,compactie,0
+41,active - is - no certain documentary evidence of this,0,compactie,0
+42,The Nazis - did however permit - a single dress rehearsal,1,reverb,1
+42,an invited audience - could hear - the work,12,reverb,1
+42,The Nazis - did permit - a single dress rehearsal however,0,clausie,0
+42,The Nazis - did permit - a single dress rehearsal in Salzburg conducted by Clemens Krauss on 16 August in order that Strauss could hear the work performed,0,clausie,0
+42,The Nazis - did permit - a single dress rehearsal in Salzburg conducted by Clemens Krauss on 16 August in order that an invited audience could hear the work performed,0,clausie,0
+42,The Nazis - did permit - a single dress rehearsal,1,clausie,1
+42,Salzburg - be conducted - by Clemens Krauss on 16 August,0,clausie,0
+42,Salzburg - be conducted - by Clemens Krauss on 16,0,clausie,0
+42,Strauss - could hear - the work performed,8,clausie,1
+42,an invited audience - could hear - the work performed,12,clausie,1
+42,Nazis - did permit - single dress conducted by Clemens Krauss on 16 August in order,0,minie,0
+42,single dress in order - be conducted by Clemens Krauss on - 16 August,0,minie,0
+42,single dress in order - be conducted by - Clemens Krauss,0,minie,0
+42,Strauss - hear order - work performed,0,minie,0
+42,invited audience - hear order - work performed,0,minie,0
+42,The Nazis - did permit - a single dress rehearsal in Salzburg,1,imojie,1
+42,a single dress rehearsal in Salzburg - conducted - by Clemens Krauss on 16 August,0,imojie,0
+42,a single dress rehearsal in Salzburg - conducted - by Clemens Krauss on 16 August,0,openie6,0
+42,The Nazis - did however permit - a single dress rehearsal in Salzburg,1,openie6,1
+42,an invited audience - could hear - the work performed,12,openie6,1
+42,Strauss - could hear - the work performed,8,openie6,1
+42,"The Nazis - did - however permit a single dress rehearsal in Salzburg , conducted by Clemens Krauss on 16 August",0,m2oie,0
+42,"The Nazis - permit - a single dress rehearsal in Salzburg , conducted by Clemens Krauss on 16 August , in order that Strauss and an audience could",0,m2oie,0
+42,a single dress rehearsal in Salzburg - conducted - by Clemens Krauss 16 August,0,m2oie,0
+42,Strauss and an invited audience - could hear - the work performed,8,m2oie,1
+42,a single dress rehearsal in Salzburg - conducted - by Clemens Krauss on 16 August,0,compactie,0
+42,The Nazis - did permit - a single dress rehearsal in Salzburg,1,compactie,1
+42,an invited audience - could hear - the work,12,compactie,1
+43,This - is usually caused by - interacting inductive and capacitive elements,2,reverb,1
+43,This - is caused - by interacting inductive elements in the oscillator usually,0,clausie,0
+43,This - is caused - by interacting capacitive elements in the oscillator usually,0,clausie,0
+43,This - is caused - by interacting inductive elements in the oscillator,0,clausie,0
+43,This - is caused - by interacting capacitive elements in the oscillator,0,clausie,0
+43,This - is caused by interacting inductive elements in - oscillator,0,minie,0
+43,This - is caused by interacting capacitive elements in - oscillator,0,minie,0
+43,This - is caused - by interacting inductive and capacitive elements in the oscillator usually,0,imojie,0
+43,This - is caused - by interacting inductive elements in the oscillator usually,0,openie6,0
+43,This - is caused - by interacting capacitive elements in the oscillator usually,0,openie6,0
+43,This - is - usually caused by interacting inductive and capacitive elements in the oscillator,0,m2oie,0
+43,This - caused - usually by interacting inductive and capacitive elements in the oscillator,0,m2oie,0
+43,This - is usually caused - by interacting inductive elements in the oscillator,0,compactie,0
+43,This - caused - by interacting capacitive elements in the oscillator,0,compactie,0
+43,This - is usually - by interacting capacitive elements in the oscillator,0,compactie,0
+44,Sligo town - then became - an incorporated municipal borough,2,reverb,1
+44,Sligo town - became - an incorporated municipal borough with a Royal Charter issued by the British King James I in 1613\/14,0,clausie,0
+44,Sligo town - became - an incorporated municipal borough,2,clausie,1
+44,a Royal Charter - be issued - by the British King James I in 1613\/14,0,clausie,0
+44,James - is - King,0,minie,0
+44,Sligo town - became incorporated municipal borough with - Royal Charter issued by British James I in 1613/14,0,minie,0
+44,Royal Charter - be issued by British James I in - 1613/14,0,minie,0
+44,Royal Charter - be issued by - British James I,0,minie,0
+44,Sligo town - became - an incorporated municipal borough with a Royal Charter then,2,imojie,1
+44,a Royal Charter - issued - by the British King James I in 1613/14,0,imojie,0
+44,Sligo town - became - an incorporated municipal borough with a Royal Charter then,2,openie6,1
+44,a Royal Charter - issued - by the British King James I in 1613/14,0,openie6,0
+44,James I - is King of - British,6,openie6,1
+44,Sligo town - became - an incorporated municipal borough with a Royal Charter,2,m2oie,1
+44,a Royal Charter - issued - by the British King James I 1613/14,0,m2oie,0
+44,Sligo town - became - an incorporated municipal borough with a Royal Charter,2,compactie,1
+44,an - issued - by the British King James I in 1613/14,0,compactie,0
+45,Tom McMorran - joined the band in - 1994,2,reverb,1
+45,Tom McMorran - joined - the band in 1994,0,clausie,0
+45,Tom McMorran - joined - the band after Mark Portmann left,0,clausie,0
+45,Tom McMorran - joined - the band in August,0,clausie,0
+45,Tom McMorran - joined - the band,1,clausie,1
+45,the band - of that year released - Sahara,0,clausie,0
+45,Tom McMorran - joined band in - 1994,2,minie,1
+45,Tom McMorran - joined band in August of - year,0,minie,0
+45,Tom McMorran - joined - band,1,minie,1
+45,Tom McMorran - joined - the band in 1994 after Mark Portmann left,0,imojie,0
+45,the band - released - Sahara in August of that year,0,imojie,0
+45,Tom McMorran - joined - the band in 1994 after Mark Portmann left,0,openie6,0
+45,the band - released - Sahara `` in August of that year,5,openie6,1
+45,Tom McMorran - joined - the band,1,m2oie,1
+45,the band - released - Sahara,5,m2oie,1
+45,Tom McMorran - joined - the band in 1994,1,compactie,1
+46,she - reads - the articles,7,reverb,1
+46,she - also makes - veiled references,1,reverb,1
+46,she - reads - the articles,7,clausie,1
+46,she - makes - veiled references As she reads the articles,0,clausie,0
+46,she - makes - innuendo relating to the slang use of beaver As she reads the articles,0,clausie,0
+46,she - makes - veiled references also,0,clausie,0
+46,she - makes - innuendo relating to the slang use of beaver also,0,clausie,0
+46,she - makes - veiled references,1,clausie,1
+46,she - makes - innuendo relating to the slang use of beaver,4,clausie,1
+46,innuendo - be relating - to the slang use of beaver,0,clausie,0
+46,she - reads - articles,7,minie,1
+46,she - makes - veiled references relating to slang use of beaver,1,minie,1
+46,she - makes - innuendo,4,minie,1
+46,veiled references - be relating to slang use of - beaver,0,minie,0
+46,innuendo - be relating to slang use of - beaver,0,minie,0
+46,she - reads - the articles,7,imojie,1
+46,she - also makes - veiled references and innuendo relating to the slang use of `` beaver,0,imojie,0
+46,she - reads - the articles,7,openie6,1
+46,veiled references - relating - to the slang use of `` beaver,0,openie6,0
+46,she - makes - veiled references relating to the slang use of `` beaver ``,1,openie6,1
+46,veiled innuendo - relating - to the slang use of `` beaver ``,0,openie6,0
+46,she - makes - veiled innuendo relating to the slang use of `` beaver ``,4,openie6,1
+46,she - reads - the articles,7,m2oie,1
+46,she she - makes - veiled references and innuendo relating to the slang use of `` beaver,0,m2oie,0
+46,veiled references and innuendo - relating - to the slang use of `` beaver,0,m2oie,0
+46,she - reads - the articles,7,compactie,1
+46,she - also makes - veiled references relating to the slang use of `` beaver,1,compactie,1
+47,23.8 % of all households - were made up of - individuals,1,reverb,1
+47,13.0 % - had - someone,0,reverb,0
+47,someone - was - 65 years of age,0,reverb,0
+47,23.8 % of all households - were made up - of individuals,0,clausie,0
+47,23.8 % of all households - were made up - of 13.0 % had someone living alone,0,clausie,0
+47,13.0 % - be had - someone living alone,0,clausie,0
+47,13.0 % had someone living alone - was - 65 years of age,0,clausie,0
+47,13.0 % had someone living alone - was - 65 years of older,0,clausie,0
+47,13.0 % had someone living alone - was - 65 years,0,clausie,0
+47,23.8 % of households - were made up of - individuals had someone living alone,0,minie,0
+47,23.8 % of households - were made - 13.0 %,0,minie,0
+47,someone living alone - was 65 years of - age,0,minie,0
+47,someone living alone - was 65 years of - older,0,minie,0
+47,someone living alone - was - 65 years,0,minie,0
+47,23.8 % of all households - were made up - of individuals,0,imojie,0
+47,13.0 % - had - someone living alone who was 65 years of age or older,0,imojie,0
+47,23.8 % of all households - were made up - of individuals,0,openie6,0
+47,13.0 % - had - someone living alone who was 65 years of age,0,openie6,0
+47,someone living alone - was - 65 years of age,0,openie6,0
+47,13.0 % - had - someone living alone who was older,0,openie6,0
+47,someone living alone - was - older,0,openie6,0
+47,23.8 % of all households - were made up - of individuals and 13.0 %,0,m2oie,0
+47,had someone living alone - was - 65 years of age or older,0,m2oie,0
+47,23.8 - up - of individuals,0,compactie,0
+47,23.8 % of all households - were made - of individuals,0,compactie,0
+47,13.0 % - had - someone living alone,0,compactie,0
+48,Overseas teams - would not return to - Russia,1,reverb,1
+48,a youth tournament - was held in - Moscow,6,reverb,1
+48,Overseas teams - would not return - to Russia until 1998,0,clausie,0
+48,Overseas teams - would not return - to Russia when a youth tournament was held in Moscow,0,clausie,0
+48,Overseas teams - would not return - to Russia,0,clausie,0
+48,a youth tournament - was held - in Moscow when,0,clausie,0
+48,a youth tournament - was held - in Moscow,0,clausie,0
+48,Overseas teams - return to Russia until - 1998,0,minie,0
+48,Overseas teams - return to - Russia,8,minie,1
+48,youth tournament - was held in Moscow - 1998,0,minie,0
+48,youth tournament - was held - 1998,0,minie,0
+48,Overseas teams - would not return - to Russia until 1998,0,imojie,0
+48,a youth tournament - was held - in Moscow 1998,0,imojie,0
+48,Overseas teams - would not return - to Russia until 1998,0,openie6,0
+48,a youth tournament - was held - in Moscow 1998,0,openie6,0
+48,Overseas teams - would not return - to Russia,0,m2oie,0
+48,a youth tournament - was held - in Moscow,0,m2oie,0
+48,Overseas teams - would not return - to Russia until 1998,0,compactie,0
+48,a youth tournament - was held - in Moscow,0,compactie,0
+49,India - had led to - the responsibility,0,reverb,0
+49,The British Army - had been shown - to be overstretched by the Crimean War while the mutiny in India had led to the responsibility for providing a garrison in the subcontinent from the Honourable East India Company to the Crown forces,0,clausie,0
+49,the mutiny in India - had led - to the responsibility for providing a garrison in the subcontinent from the Honourable East India Company to the Crown forces,0,clausie,0
+49,the mutiny in India - had led - to the responsibility,0,clausie,0
+49,mutiny in India - had led to - responsibility for providing garrison in subcontinent from Honourable East India Company to Crown forces,0,minie,0
+49,the mutiny in India - had led - to the responsibility for providing a garrison in the subcontinent from the Honourable East India Company to the Crown forces,0,imojie,0
+49,The British Army - to be overstretched - by the Crimean War,0,imojie,0
+49,the mutiny in India - had led - to the responsibility for providing a garrison in the subcontinent from the Honourable East India Company to the Crown forces,0,openie6,0
+49,The British Army - to be overstretched - by the Crimean War,0,openie6,0
+49,The British Army - had been shown - be overstretched by the Crimean War,0,m2oie,0
+49,The British Army - to be overstretched - by the Crimean War,0,m2oie,0
+49,the mutiny in India - had led - to the responsibility for providing a garrison in the subcontinent from the Honourable East India Company to the Crown forces,0,m2oie,0
+49,The British Army - had - a garrison in the subcontinent from the Honourable East India Company to the Crown forces,0,compactie,0
+49,by the Crimean War - led - a garrison in the subcontinent from the Honourable East India Company to the Crown forces,0,compactie,0
+49,The British Army - had been shown - by the Crimean War,0,compactie,0
+49,The British Army - to be overstretched - by the Crimean War,0,compactie,0

@@ -1,0 +1,73 @@
+1	Chilly Gonzales	is	a Grammy-winning Canadian musician
+1	a Grammy-winning Canadian musician	resided in	Paris
+1	France	now lives in	Cologne
+2	he	is also	a producer and songwriter
+4	He	has written	several newspaper and magazine opinion pieces
+5	He	is the younger brother of	the prolific film composer Christophe Beck
+6	Gonzales	was born on	20 March 1972
+7	His parents	are	Ashkenazi Jews
+7	Ashkenazi Jews	had to flee from	Hungary
+8	his older brother Chris	began taking	lessons
+9	Gonzales	graduated from	Crescent School
+10	He	was classically trained as	a pianist
+10	he	began	both
+11	Tokyo	is the capital city of	Japan
+12	The Greater Tokyo Area	is the most populous metropolitan area in	the world
+13	It	is the seat of	the Emperor of Japan
+14	Tokyo	is in	the Kantō region
+14	the Kantō region	includes	the Izu Islands
+15	it	has been the de facto seat of	government
+15	Shogun Tokugawa Ieyasu	made	the city
+16	It	officially became	the capital
+16	Emperor Meiji	moved his seat to	the city
+16	Edo	was renamed	Tokyo
+17	Tokyo Metropolis	was formed in	1943
+18	Tokyo	is often referred to as	a city
+19	The Tokyo metropolitan government	administers	the 23 Special Wards of Tokyo
+19	the 23 Special Wards of Tokyo	cover	the area
+19	the area	was the City of	Tokyo
+19	it	became	the metropolitan prefecture
+20	The metropolitan government	also administers	39 municipalities
+21	The population of the special wards	is over	9 million people
+22	The prefecture	is part of	the world 's most populous metropolitan area
+23	the city	hosted	51 of the Fortune Global 500 companies
+24	Tokyo	ranked third in	the International Financial Centres Development IndexEdit
+25	The city	is also home to	various television networks
+26	the model	depends on	unobserved latent variables
+27	an expectation step	computes	parameters
+27	the expected log-likelihood	found on	the E step
+28	These parameter-estimates	are then used to determine the distribution of	the latent variables
+31	exponential families	was published by	Rolf Sundberg
+32	1977	generalized	the method
+32	1977	sketched	a convergence analysis
+33	the Journal of the Royal Statistical Society	received	an enthusiastic discussion
+34	The Dempster–Laird–Rubin paper	established	the EM method
+35	Finnish police	reprimanded	a man
+35	this	was breach of	the traffic code
+36	A police statement	did not name	the man
+36	effect	indicated	the traveler
+36	the traveler	was	State Secretary Samuli Virtanen
+36	State Secretary Samuli Virtanen	is also the deputy to	Foreign Minister Timo Soini
+37	The meeting	took place in	June
+37	Virtanen’s co-ruling Finns party	had elected	anti-immigration hardliners
+38	the following week	walked out of	the Finns party
+38	the following week	announced	they
+38	they	would form	a new group
+39	The Finns party	was thrown out of	the government
+39	the new “Blue Reform ” group	kept	its cabinet seat
+40	Virtanen	has not commented on	the case
+40	Blue Reform	said in	a blog
+40	a blog	climbed into	the boot
+42	economists	are predicting pretty much the same for	2018
+43	all	is pretty much on	track
+43	growth	will be stronger than in	2017
+44	Part of this	may come from	the fact
+44	forecasters	generally got	it
+45	The International Monetary Fund	saw	2017 global growth
+46	It	now reckons	them
+47	It	had	the euro zone
+48	It	now has	them
+50	This performance	has made	some economists optimistic
+52	Goldilock’s bears	do have	a habit
+54	let’s	go with just	three
+57	The third	is about	sudden market losses

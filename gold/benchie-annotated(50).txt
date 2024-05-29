@@ -1,0 +1,1532 @@
+sent_id:1	He served as the first Prime Minister of Australia and became a founding justice of the High Court of Australia .
+1--> Cluster 1:
+He --> served as --> [the] Prime Minister
+He --> served as [a] --> Prime Minister
+He --> served as --> [a] Prime Minister
+1--> Cluster 2:
+He --> served as [the] first Prime Minister of --> Australia
+He --> served as --> [the] first Prime Minister of Australia
+1--> Cluster 3:
+Australia --> has [had] --> [a] Prime Minister
+Australia --> has [had] [a] --> Prime Minister
+Australia --> had --> [a] Prime Minister
+Australia --> had [a] --> Prime Minister
+1--> Cluster 4:
+He --> became --> [a] founding justice
+He --> became [a] --> founding justice
+1--> Cluster 5:
+He --> became [a] founding justice of --> [the] High Court of Australia
+1--> Cluster 6:
+Australia --> has [had] --> [a] High Court
+Australia --> has [had] [a] --> High Court
+Australia --> had --> [a] High Court
+Australia --> had [a] --> High Court
+1--> Cluster 7:
+[the] High Court of Australia --> has [had] --> [a] founding justice
+[the] High Court of Australia --> has [had] [a] --> founding justice
+[the] High Court of Australia --> had --> [a] founding justice
+[the] High Court of Australia --> had [a] --> founding justice
+
+sent_id:2	Graner handcuffed him to the bars of a cell window and left him there , feet dangling off the floor , for nearly five hours .
+2--> Cluster 1:
+Graner --> handcuffed --> him
+2--> Cluster 2:
+Graner --> handcuffed him to --> [the] bars
+2--> Cluster 3:
+Graner --> handcuffed him to [the] bars of -->  [a] cell window
+Graner --> handcuffed him to [the] bars of [a] --> cell window
+Graner --> handcuffed him to -->  [a] cell window
+Graner --> handcuffed him to [a] --> cell window
+2--> Cluster 4:
+Graner --> left --> him [there]
+Graner --> left him --> there
+2--> Cluster 5:
+Graner --> left him --> [feet] dangling off [the] floor
+2--> Cluster 6:
+Graner --> left him [there] for --> [nearly] five hours
+2--> Cluster 7:
+him --> was [left] --> [feet] dangling off [the] floor
+he --> was [left] --> [feet] dangling off [the] floor
+his feet --> [were] dangling off --> [the] floor
+he --> was dangling off --> [the] floor
+2--> Cluster 8:
+him --> was [left] there for --> [nearly] five hours
+he --> was [left] there for --> [nearly] five hours
+
+sent_id:3	It deals with cases of fraud in relation to direct taxes and indirect taxes , tax credits , drug smuggling , and money laundering , cases involving United Nations trade sanctions , conflict diamonds and CITES .
+3--> Cluster 1:
+It --> deals with --> cases of fraud
+It --> deals with --> fraud
+It --> deals with cases of --> fraud
+3--> Cluster 2:
+It --> deals with cases of fraud in relation to --> direct taxes
+It --> deals with cases in relation to --> direct taxes
+It --> deals with --> direct taxes
+3--> Cluster 3:
+It --> deals with cases of fraud in relation to --> indirect taxes
+It --> deals with cases in relation to --> indirect taxes
+It --> deals with --> indirect taxes
+3--> Cluster 4:
+It --> deals with cases of fraud in relation to --> taxes
+It --> deals with cases in relation to --> taxes
+It --> deals with --> taxes
+3--> Cluster 5:
+It --> deals with cases of fraud in relation to --> tax credits
+It --> deals with cases in relation to --> tax credits
+It --> deals with --> tax credits
+3--> Cluster 6:
+It --> deals with cases of fraud in relation to --> drug smuggling
+It --> deals with cases in relation to --> drug smuggling
+It --> deals with --> drug smuggling
+3--> Cluster 7:
+It --> deals with cases of fraud in relation to --> money laundering
+It --> deals with cases in relation to --> money laundering
+It --> deals with --> money laundering
+3--> Cluster 8:
+It --> deals with cases involving --> [the] United Nations
+It --> deals with --> [the] United Nations
+3--> Cluster 9:
+It --> deals with cases involving --> United Nations trade sanctions
+It --> deals with --> United Nations trade sanctions
+It --> deals with cases involving United Nations --> trade sanctions
+It --> deals with United Nations --> trade sanctions
+3--> Cluster 10:
+It --> deals with cases involving --> conflict diamonds
+It --> deals with --> conflict diamonds
+3--> Cluster 11:
+It --> deals with cases involving --> CITES
+It --> deals with --> CITES
+3--> Cluster 12:
+cases --> [be] involving --> United Nations trade sanctions
+cases --> [are] involving --> United Nations trade sanctions
+3--> Cluster 13:
+cases --> [be] involving --> conflict diamonds
+cases --> [are] involving --> conflict diamonds
+3--> Cluster 14:
+cases --> [be] involving --> CITES
+cases --> [are] involving --> CITES
+
+sent_id:4	Because of this association , St. Michael was considered to be the patron saint of colonial Maryland , and as such was honored by the river being named for him .
+4--> Cluster 1:
+St. Michael --> was considered to be [the] patron saint of --> colonial Maryland
+St. Michael --> was considered as [the] patron saint of --> colonial Maryland
+St. Michael --> was considered to be --> [the] patron saint of colonial Maryland
+St. Michael --> was considered as --> [the] patron saint of colonial Maryland
+St. Michael --> was considered --> [the] patron saint of colonial Maryland
+4--> Cluster 2:
+St. Michael --> was considered to be [the] patron saint of colonial Maryland Because of --> [this] association
+St. Michael --> was considered as [the] patron saint of colonial Maryland Because of --> [this] association
+St. Michael --> was considered to be [the] patron saint of colonial Maryland because of --> [this] association
+St. Michael --> was considered as [the] patron saint of colonial Maryland because of --> [this] association
+St. Michael --> was considered [the] patron saint of colonial Maryland Because of --> [this] association
+St. Michael --> was considered [the] patron saint of colonial Maryland because of --> [this] association
+4--> Cluster 3:
+St. Michael --> was honored as --> [the] patron saint of colonial Maryland
+4--> Cluster 4:
+St. Michael --> was honored by --> the river being named for him
+St. Michael --> was honored by --> the river being named for St. Michael
+4--> Cluster 5:
+the river --> being named for --> St. Michael
+the river --> is named for --> St. Michael
+4--> Cluster 6:
+colonial Maryland --> has [a] --> patron saint
+colonial Maryland --> has --> [a] patron saint
+4--> Cluster 7:
+St. Michael --> was considered to be --> [the] patron saint
+St. Michael --> was considered to be --> [a] patron saint
+St. Michael --> was considered as --> [the] patron saint
+St. Michael --> was considered as --> [a] patron saint
+St. Michael --> was considered --> [the] patron saint
+St. Michael --> was considered --> [a] patron saint
+4--> Cluster 8:
+the river --> being named for St. Michael Because --> St. Michael was considered to be [the] patron saint of colonial Maryland
+the river --> is named for St. Michael Because --> St. Michael was considered to be [the] patron saint of colonial Maryland
+the river --> being named for St. Michael because --> St. Michael was considered to be [the] patron saint of colonial Maryland
+the river --> is named for St. Michael because --> St. Michael was considered to be [the] patron saint of colonial Maryland
+the river --> being named for St. Michael Because --> St. Michael was considered as [the] patron saint of colonial Maryland
+the river --> is named for St. Michael Because --> St. Michael was considered as [the] patron saint of colonial Maryland
+the river --> being named for St. Michael because --> St. Michael was considered as [the] patron saint of colonial Maryland
+the river --> is named for St. Michael because --> St. Michael was considered as [the] patron saint of colonial Maryland
+the river --> being named for St. Michael Because --> St. Michael was considered to be [the] patron saint of colonial Maryland
+the river --> is named for St. Michael Because --> St. Michael was considered to be [the] patron saint of colonial Maryland
+the river --> being named for St. Michael because --> St. Michael was considered to be [the] patron saint of colonial Maryland
+the river --> is named for St. Michael because --> St. Michael was considered to be [the] patron saint of colonial Maryland
+the river --> being named for St. Michael Because --> St. Michael was considered as [the] patron saint of colonial Maryland
+the river --> is named for St. Michael Because --> St. Michael was considered as [the] patron saint of colonial Maryland
+the river --> being named for St. Michael because --> St. Michael was considered as [the] patron saint of colonial Maryland
+the river --> is named for St. Michael because --> St. Michael was considered as [the] patron saint of colonial Maryland
+
+sent_id:5	The show was designed to appear as if the viewer was channel surfing through a multi-channel wasteland , happening upon spoof adverts , short sketches , and recurring show elements .
+5--> Cluster 1:
+[The] show --> [was] designed to --> appear as if [the] viewer was channel surfing
+[The] show --> [was] designed to appear as if --> [the] viewer was channel surfing
+5--> Cluster 2:
+[The] show --> [was] designed to appear as if [the] viewer was channel surfing through --> [a] multi-channel wasteland
+5--> Cluster 3:
+[The] show --> [was] designed to --> appear as if [the] viewer was happening upon [spoof] adverts
+[The] show --> [was] designed to appear as if --> [the] viewer was happening upon [spoof] adverts
+5--> Cluster 4:
+[The] show --> [was] designed to --> appear as if [the] viewer was happening upon [short] sketches
+[The] show --> [was] designed to appear as if --> [the] viewer was happening upon [short] sketches
+5--> Cluster 5:
+[The] show --> [was] designed to --> appear as if [the] viewer was happening upon recurring show elements
+[The] show --> [was] designed to appear as if --> [the] viewer was happening upon recurring show elements
+
+sent_id:6	Several years later the remaining trackage at Charles City was abandoned .
+6--> Cluster 1:
+Charles City --> has --> [the] [remaining] trackage
+Charles City --> had --> [the] [remaining] trackage
+[the] [remaining] trackage --> is in --> Charles City
+[the] [remaining] trackage --> was in --> Charles City
+6--> Cluster 2:
+[the] [remaining] trackage at Charles City --> was --> abandoned
+6--> Cluster 3:
+[the] [remaining] trackage at Charles City --> was abandoned --> [Several] years later
+
+sent_id:7	Dr. Jagan himself was personally involved in the organization of the strike , and helped to raise funds across the country to it .
+7--> Cluster 1:
+Jagan --> is [a] --> Dr.
+Jagan --> is --> [a] Dr.
+Jagan --> is [a] --> Doctor
+Jagan --> is --> [a] Doctor
+7--> Cluster 2:
+[Dr.] Jagan [himself] --> [was] [personally] involved in --> [the] organization of [the] strike
+[Dr.] Jagan [himself] --> [was] [personally] involved in [the] organization of -->  [the] strike
+7--> Cluster 3:
+[Dr.] Jagan [himself] --> helped to --> raise funds
+[Dr.] Jagan [himself] --> helped to raise --> funds
+7--> Cluster 4:
+[Dr.] Jagan [himself] --> helped [to] raise funds across --> [the] country
+[Dr.] Jagan [himself] --> raised funds across --> [the] country
+[Dr.] Jagan [himself] --> helped [to] raise funds in --> [the] country
+[Dr.] Jagan [himself] --> raised funds in --> [the] country
+[Dr.] Jagan [himself] --> helped [to] raise funds --> across [the] country
+[Dr.] Jagan [himself] --> raised funds --> across [the] country
+[Dr.] Jagan [himself] --> helped [to] raise funds --> in [the] country
+[Dr.] Jagan [himself] --> raised funds --> in [the] country
+7--> Cluster 5:
+[Dr.] Jagan [himself] --> helped [to] raise funds to --> [the] strike
+[Dr.] Jagan [himself] --> raised funds to --> [the] strike
+[Dr.] Jagan [himself] --> helped [to] raise funds for --> [the] strike
+[Dr.] Jagan [himself] --> raised funds for --> [the] strike
+7--> Cluster 6:
+funds --> were raised across --> [the] country
+funds --> were raised in --> [the] country
+7--> Cluster 7:
+funds --> were raised to --> [the] strike
+funds --> were raised for --> [the] strike
+7--> Cluster 8:
+[the] strike --> had [an] --> organization
+[the] strike --> had [a] --> organization
+[the] strike --> had --> [an] organization
+[the] strike --> had --> [a] organization
+[the] strike --> was --> organized
+
+sent_id:8	In 1918 , the municipality was renamed Jones in honor of American congressman William Jones , who authored the Philippine Autonomy Act of 1916 that provided for greater autonomy for the Philippines under American colonial rule .
+8--> Cluster 1:
+[the] municipality --> was renamed --> Jones
+8--> Cluster 2:
+[the] municipality --> was renamed [Jones] in honor of --> William Jones
+8--> Cluster 3:
+[the] municipality --> was renamed [Jones] In --> 1918
+[the] municipality --> was renamed [Jones] in --> 1918
+8--> Cluster 4:
+William Jones --> is --> [an] American
+8--> Cluster 5:
+William Jones --> is [a] --> congressman
+William Jones --> is --> [a] congressman
+8--> Cluster 6:
+William Jones --> authored --> [the] Philippine Autonomy Act
+William Jones --> is [the] author of --> [the] Philippine Autonomy Act
+William Jones --> authored --> [the] Philippine Autonomy Act of 1916
+William Jones --> is [the] author of --> [the] Philippine Autonomy Act of 1916
+8--> Cluster 7:
+[the] Philippine Autonomy Act --> is of --> 1916
+[the] Philippine Autonomy Act --> [was] written in --> 1916
+[the] Philippine Autonomy Act --> [was] authored in --> 1916
+[the] Philippine Autonomy Act --> [was] created in --> 1916
+8--> Cluster 8:
+[the] Philippine Autonomy Act --> provided for --> [greater] autonomy
+[the] Philippine Autonomy Act --> allowed --> [greater] autonomy
+[the] Philippine Autonomy Act of 1916 --> provided for --> [greater] autonomy
+[the] Philippine Autonomy Act of 1916 --> allowed --> [greater] autonomy
+8--> Cluster 9:
+[the] Philippine Autonomy Act --> provided for [greater] autonomy for --> [the] Philippines
+[the] Philippine Autonomy Act --> allowed [greater] autonomy for --> [the] Philippines
+[the] Philippine Autonomy Act of 1916 --> provided for [greater] autonomy for --> [the] Philippines
+[the] Philippine Autonomy Act of 1916 --> allowed [greater] autonomy for --> [the] Philippines
+8--> Cluster 10:
+[the] Philippine Autonomy Act --> provided for [greater] autonomy under --> American colonial rule
+[the] Philippine Autonomy Act --> allowed [greater] autonomy under --> American colonial rule
+[the] Philippine Autonomy Act of 1916 --> provided for [greater] autonomy under --> American colonial rule
+[the] Philippine Autonomy Act of 1916 --> allowed [greater] autonomy under --> American colonial rule
+[the] Philippine Autonomy Act --> provided for [greater] autonomy for [the] Philippines under --> American colonial rule
+[the] Philippine Autonomy Act --> allowed [greater] autonomy for [the] Philippines under --> American colonial rule
+[the] Philippine Autonomy Act of 1916 --> provided for [greater] autonomy for [the] Philippines under --> American colonial rule
+[the] Philippine Autonomy Act of 1916 --> allowed [greater] autonomy for [the] Philippines under --> American colonial rule
+8--> Cluster 11:
+[the] Philippines --> were under --> American colonial rule
+[the] Philippines --> was under --> American colonial rule
+[the] Philippines --> are under --> American colonial rule
+8--> Cluster 12:
+[the] Philippines --> were under American colonial rule In --> 1916
+[the] Philippines --> were under American colonial rule in --> 1916
+[the] Philippines --> was under American colonial rule In --> 1916
+[the] Philippines --> was under American colonial rule in --> 1916
+
+sent_id:9	Instead of ablating the tissue , the laser cuts a portion of the prostate , which is then cut into smaller pieces and flushed with irrigation fluid .
+9--> Cluster 1:
+[the] laser --> cuts --> [a] portion of [the] prostate
+[the] laser --> cuts [a] portion of --> [the] prostate
+[the] laser --> cuts --> [the] prostate
+9--> Cluster 2:
+[the] laser --> cuts [a] portion of [the] prostate Instead of --> ablating [the] tissue
+[the] laser --> cuts [the] prostate Instead of --> ablating [the] tissue
+[the] laser --> cuts [a] portion of [the] prostate instead of --> ablating [the] tissue
+[the] laser --> cuts [the] prostate instead of --> ablating [the] tissue
+[the] laser cuts [a] portion of [the] prostate --> Instead of --> ablating [the] tissue
+[the] laser cuts [the] prostate --> Instead of --> ablating [the] tissue
+[the] laser cuts [a] portion of [the] prostate --> instead of --> ablating [the] tissue
+[the] laser cuts [the] prostate --> instead of --> ablating [the] tissue
+9--> Cluster 3:
+[a] portion of [the] prostate --> is [then] --> cut
+9--> Cluster 4:
+[a] portion of [the] prostate --> is [then] cut into --> smaller pieces
+9--> Cluster 5:
+[a] portion of [the] prostate --> is [then] --> flushed
+9--> Cluster 6:
+[a] portion of [the] prostate --> is [then] flushed with --> irrigation fluid
+
+sent_id:10	`` Kormoran '' was the only Axis ship to conduct attacks in Australian waters during 1941 and the last Axis surface raider to enter Australian waters until 1943 .
+10--> Cluster 1:
+[`] [`] Kormoran [''] --> was [an] --> Axis [ship]
+[`] [`] Kormoran [''] --> was --> [an] Axis [ship]
+[`] [`] Kormoran [''] --> was [a] --> Axis [ship]
+[`] [`] Kormoran [''] --> was --> [a] Axis [ship]
+[`] [`] Kormoran [''] --> is [an] --> Axis [ship]
+[`] [`] Kormoran [''] --> is --> [an] Axis [ship]
+[`] [`] Kormoran [''] --> is [a] --> Axis [ship]
+[`] [`] Kormoran [''] --> is --> [a] Axis [ship]
+[`] [`] Kormoran [''] --> is --> Axis
+[`] [`] Kormoran [''] --> belongs to --> [the] Axis
+10--> Cluster 2:
+[`] [`] Kormoran [''] --> was [an] --> ship
+[`] [`] Kormoran [''] --> was --> [an] ship
+[`] [`] Kormoran [''] --> was [a] --> ship
+[`] [`] Kormoran [''] --> was --> [a] ship
+[`] [`] Kormoran [''] --> is [an] --> ship
+[`] [`] Kormoran [''] --> is --> [an] ship
+[`] [`] Kormoran [''] --> is [a] --> ship
+[`] [`] Kormoran [''] --> is --> [a] ship
+10--> Cluster 3:
+[`] [`] Kormoran [''] --> conduct --> attacks
+[`] [`] Kormoran [''] --> conducted --> attacks
+10--> Cluster 4:
+[`] [`] Kormoran [''] --> conduct attacks in --> Australian waters
+[`] [`] Kormoran [''] --> conduct attacks in --> Australia
+[`] [`] Kormoran [''] --> conducted attacks in --> Australian waters
+[`] [`] Kormoran [''] --> conducted attacks in --> Australia
+10--> Cluster 5:
+[`] [`] Kormoran [''] --> conduct attacks in Australian waters during --> 1941
+[`] [`] Kormoran [''] --> conduct attacks in Australia during --> 1941
+[`] [`] Kormoran [''] --> conducted attacks in Australian waters during --> 1941
+[`] [`] Kormoran [''] --> conducted attacks in Australia during --> 1941
+10--> Cluster 6:
+[`] [`] Kormoran [''] --> was [a] --> surface raider
+[`] [`] Kormoran [''] --> was --> [a] surface raider
+[`] [`] Kormoran [''] --> is [a] --> surface raider
+[`] [`] Kormoran [''] --> is --> [a] surface raider
+10--> Cluster 7:
+[`] [`] Kormoran [''] --> enter --> Australian waters
+[`] [`] Kormoran [''] --> entered --> Australian waters
+[`] [`] Kormoran [''] --> enter --> Australia
+[`] [`] Kormoran [''] --> entered --> Australia
+10--> Cluster 8:
+[`] [`] Kormoran [''] --> enter Australian waters during --> 1941
+[`] [`] Kormoran [''] --> enter Australian waters in --> 1941
+[`] [`] Kormoran [''] --> enter Australia during --> 1941
+[`] [`] Kormoran [''] --> enter Australia in --> 1941
+[`] [`] Kormoran [''] --> entered Australian waters during --> 1941
+[`] [`] Kormoran [''] --> entered Australian waters in --> 1941
+[`] [`] Kormoran [''] --> entered Australia during --> 1941
+[`] [`] Kormoran [''] --> entered Australia in --> 1941
+10--> Cluster 9:
+[`] [`] Kormoran [''] --> was [the] only Axis ship to --> conduct attacks in Australian waters during 1941
+10--> Cluster 10:
+[`] [`] Kormoran [''] --> was [the] last Axis surface raider to --> enter Australian waters until 1943
+10--> Cluster 11:
+Australia --> has --> waters
+Australia --> has --> water bodies
+10--> Cluster 12:
+attacks --> were --> conducted
+attacks --> were --> conduct
+10--> Cluster 13:
+attacks --> conducted in --> Australian waters
+attacks --> conduct in --> Australian waters
+attacks --> conducted in --> Australia
+attacks --> conduct in --> Australia
+10--> Cluster 14:
+attacks --> [were] conducted during --> 1941
+attacks --> [were] conducted in --> 1941
+attacks --> [were] conduct during --> 1941
+attacks --> [were] conduct in --> 1941
+
+sent_id:11	He and his friends were said to have made bombs for fun on the outskirts of Murray , Utah .
+11--> Cluster 1:
+He --> were said to have made --> bombs
+He --> were said to --> have made bombs
+He --> was said to have made --> bombs
+He --> was said to --> have made bombs
+11--> Cluster 2:
+his friends --> were said to have made --> bombs
+his friends --> were said to --> have made bombs
+11--> Cluster 3:
+He --> were said to have made bombs for --> fun
+He --> was said to have made bombs for --> fun
+11--> Cluster 4:
+his friends --> were said to have made bombs for --> fun
+11--> Cluster 5:
+He --> were said to have made bombs on --> [the] outskirts of Murray
+He --> was said to have made bombs on --> [the] outskirts of Murray
+He --> were said to have made bombs in --> Murray
+He --> was said to have made bombs in --> Murray
+11--> Cluster 6:
+his friends --> were said to have made bombs on --> [the] outskirts of Murray
+his friends --> were said to have made bombs in --> Murray
+11--> Cluster 7:
+He --> were said to have made bombs in --> Utah
+He --> was said to have made bombs in --> Utah
+11--> Cluster 8:
+his friends --> were said to have made bombs in --> Utah
+11--> Cluster 9:
+He --> has --> friends
+He --> had --> friends
+his --> has --> friends
+his --> had --> friends
+11--> Cluster 10:
+Murray --> has --> outskirts
+Murray --> had --> outskirts
+11--> Cluster 11:
+Murray --> is in --> Utah
+Murray --> was in --> Utah
+
+sent_id:12	A large gravestone was erected in 1866 , over 100 years after his death .
+12--> Cluster 1:
+[A] [large] gravestone --> was --> erected
+12--> Cluster 2:
+[A] [large] gravestone --> was erected in --> 1866
+12--> Cluster 3:
+[A] [large] gravestone --> was erected over -->  100 years after his death
+[A] [large] gravestone --> was erected -->  over 100 years after his death
+[A] [large] gravestone --> was erected --> after his death
+[A] [large] gravestone --> was erected after --> his death
+12--> Cluster 4:
+his death --> was over 100 years after --> 1866
+his death --> happened over 100 years after --> 1866
+12--> Cluster 5:
+his --> is --> dead
+his --> has --> death
+he --> is --> dead
+he --> has --> died
+
+sent_id:13	In 1879 , he was re-elected U.S. Senator and was tipped as a Presidential candidate , but died suddenly after giving a speech in Chicago .
+13--> Cluster 1:
+he --> was --> re-elected
+he --> was --> re [-] elected
+13--> Cluster 2:
+he --> [was] re-elected In --> 1879
+he --> [was] re-elected in --> 1879
+he --> [was] re [-] elected In --> 1879
+he --> [was] re [-] elected in --> 1879
+he --> [was] re-elected [as] [a] U.S. Senator in --> 1879
+he --> [was] re-elected [as] [a] U.S. Senator In --> 1879
+13--> Cluster 3:
+he --> [was] re-elected as [a] --> U.S. Senator
+he --> [was] re [-] elected as [a] --> U.S. Senator
+he --> [was] re-elected as --> [a] U.S. Senator
+he --> [was] re [-] elected as --> [a] U.S. Senator
+he --> [was] re-elected as [an] --> U.S. Senator
+he --> [was] re [-] elected as [an] --> U.S. Senator
+he --> [was] re-elected as --> [an] U.S. Senator
+he --> [was] re [-] elected as --> [an] U.S. Senator
+he --> [was] re-elected --> U.S. Senator
+13--> Cluster 4:
+he --> was [a] --> U.S. Senator
+he --> was [an] --> U.S. Senator
+he --> was --> [a] U.S. Senator
+he --> was --> [an] U.S. Senator
+13--> Cluster 5:
+he --> was U.S. Senator In --> 1879
+he --> was U.S. Senator in --> 1879
+13--> Cluster 6:
+he --> was tipped as --> [a] Presidential candidate
+he --> was tipped as [a] --> Presidential candidate
+13--> Cluster 7:
+he --> was tipped as [a] Presidential candidate In --> 1879
+he --> was tipped as [a] Presidential candidate in --> 1879
+13--> Cluster 8:
+he --> died --> suddenly
+13--> Cluster 9:
+he --> died In --> 1879
+he --> died in --> 1879
+13--> Cluster 10:
+he --> died after --> giving [a] speech
+13--> Cluster 11:
+he --> [was] giving [a] speech in --> Chicago
+he --> gave [a] speech in --> Chicago
+
+sent_id:14	This led morning show host Ryan Cameron to lobby for a frequency change for WHTA by putting together a petition from listeners at the risk of losing his job under Radio One 's management .
+14--> Cluster 1:
+This --> led Ryan Cameron to --> lobby
+14--> Cluster 2:
+This --> led Ryan Cameron to lobby for --> [a] frequency change
+This --> led Ryan Cameron to lobby for [a] --> frequency change
+14--> Cluster 3:
+This --> led Ryan Cameron to lobby for [a] frequency change for --> WHTA
+14--> Cluster 4:
+This --> led Ryan Cameron to lobby by --> putting together [a] petition
+14--> Cluster 5:
+This --> led Ryan Cameron to lobby by putting together [a] petition from --> listeners
+This --> led Ryan Cameron to lobby by putting together [a] petition from --> listeners of WHTA
+14--> Cluster 6:
+This --> led Ryan Cameron to lobby at [the] risk of --> losing his job
+14--> Cluster 7:
+This --> led Ryan Cameron to lobby at the risk of losing his job under --> Radio One ['s] management
+14--> Cluster 8:
+Ryan Cameron --> is [a] --> morning show host
+Ryan Cameron --> is --> [a] morning show host
+14--> Cluster 9:
+Ryan Cameron --> lobby for --> [a] frequency change
+Ryan Cameron --> [is] lobbying for --> [a] frequency change
+Ryan Cameron --> lobbied for --> [a] frequency change
+Ryan Cameron --> lobby for[a]  --> frequency change
+Ryan Cameron --> [is] lobbying for [a] --> frequency change
+Ryan Cameron --> lobbied for [a] --> frequency change
+14--> Cluster 10:
+Ryan Cameron --> lobby for [a] frequency change for --> WHTA
+Ryan Cameron --> [is] lobbying for [a] frequency change for --> WHTA
+Ryan Cameron --> lobbied for [a] frequency change for --> WHTA
+14--> Cluster 11:
+Ryan Cameron --> lobby by --> putting together [a] petition
+Ryan Cameron --> [is] lobbying by --> putting together [a] petition
+Ryan Cameron --> lobbied by --> putting together [a] petition
+14--> Cluster 12:
+Ryan Cameron --> lobby by putting together [a] petition from --> listeners
+Ryan Cameron --> lobby by putting together [a] petition from --> listeners of WHTA
+Ryan Cameron --> [is] lobbying by putting together [a] petition from --> listeners
+Ryan Cameron --> [is] lobbying by putting together [a] petition from --> listeners of WHTA
+Ryan Cameron --> lobbied by putting together [a] petition from --> listeners
+Ryan Cameron --> lobbied by putting together [a] petition from --> listeners of WHTA
+14--> Cluster 13:
+Ryan Cameron --> lobby at [the] risk of --> losing his job
+Ryan Cameron --> [is] lobbying at [the] risk of --> losing his job
+Ryan Cameron --> lobbied at [the] risk of --> losing his job
+14--> Cluster 14:
+Ryan Cameron --> lobby at [the] risk of losing [his] job under --> Radio One ['s] management
+Ryan Cameron --> [is] lobbying at [the] risk of losing [his] job under --> Radio One ['s] management
+Ryan Cameron --> lobbied at [the] risk of losing [his] job under --> Radio One ['s] management
+14--> Cluster 15:
+Ryan Cameron --> [has] had [a] --> job
+Ryan Cameron --> has [had] [a] --> job
+Ryan Cameron --> [has] had --> [a] job
+Ryan Cameron --> has [had] --> [a] job
+14--> Cluster 16:
+Ryan Cameron --> [has] had [a] job under --> Radio One ['s] management
+Ryan Cameron --> has [had] [a] job under --> Radio One ['s] management
+Ryan Cameron --> was working under --> Radio One
+Ryan Cameron --> was working for --> Radio One
+Ryan Cameron --> was managed by --> Radio One
+Radio One --> managed --> Ryan Cameron 
+14--> Cluster 17:
+WHTA --> was under --> Radio One ['s] management
+WHTA --> was managed by --> Radio One
+Radio One --> managed --> WHTA
+14--> Cluster 18:
+WHTA --> has [had] --> listeners
+WHTA --> [has] had --> listeners
+14--> Cluster 19:
+WHTA --> has [had] [a] --> frequency
+WHTA --> [has] had [a] --> frequency
+WHTA --> has [had] --> [a] frequency
+WHTA --> [has] had --> [a] frequency
+14--> Cluster 20:
+Radio One --> has [a] --> management
+Radio One --> has --> [a] management
+Radio One --> manages --> XXX
+14--> Cluster 21:
+Ryan Cameron --> is [a] --> show host
+Ryan Cameron --> is --> [a] show host
+
+sent_id:15	Each of the programs uses a combination of funding priorities and geographic requirements to select grants , described on the foundation 's web site .
+15--> Cluster 1:
+Each of the programs --> uses --> [a] combination of funding priorities
+Each of the programs --> uses --> funding priorities
+Each of the programs --> uses --> [a] combination of funding priorities and geographic requirements
+Each of the programs --> uses --> funding priorities and geographic requirements
+15--> Cluster 2:
+Each of the programs --> uses --> [a] combination of funding priorities and geographic requirements
+Each of the programs --> uses --> [a] combination of geographic requirements
+Each of the programs --> uses --> funding priorities and geographic requirements
+Each of the programs --> uses --> geographic requirements
+15--> Cluster 3:
+Each of the programs --> uses [a] combination of funding priorities and geographic requirements to --> select grants
+Each of the programs --> uses [a] combination of funding priorities and geographic requirements to select --> grants
+Each of the programs --> uses funding priorities and geographic requirements to --> select grants
+Each of the programs --> uses funding priorities and geographic requirements to select --> grants
+Each of the programs --> uses [a] combination of funding priorities to --> select grants
+Each of the programs --> uses [a] combination of funding priorities to select --> grants
+Each of the programs --> uses funding priorities to --> select grants
+Each of the programs --> uses funding priorities to select --> grants
+15--> Cluster 4:
+Each of the programs --> uses [a] combination of funding priorities and geographic requirements to --> select grants
+Each of the programs --> uses [a] combination of funding priorities and geographic requirements to select --> grants
+Each of the programs --> uses funding priorities and geographic requirements to --> select grants
+Each of the programs --> uses funding priorities and geographic requirements to select --> grants
+Each of the programs --> uses [a] combination of geographic requirements to --> select grants
+Each of the programs --> uses [a] combination of geographic requirements to select --> grants
+Each of the programs --> uses geographic requirements to --> select grants
+Each of the programs --> uses geographic requirements to select --> grants
+15--> Cluster 5:
+grants --> [are] described on --> [the] foundation ['s] web site
+grants --> [be] described on --> [the] foundation ['s] web site
+[the] foundation ['s] web site --> describes --> grants
+15--> Cluster 6:
+[the] foundation --> has [a] --> web site
+[the] foundation --> has --> [a] web site
+
+sent_id:16	The Institut Constant de Rebecque is a Swiss free-market , classical liberal and libertarian think tank founded in January 2005 in Lausanne , named after writer and political philosopher Benjamin Constant .
+16--> Cluster 1:
+[The] Institut Constant de Rebecque --> is --> Swiss
+16--> Cluster 2:
+[The] Institut Constant de Rebecque --> is --> [a] free-market think tank
+[The] Institut Constant de Rebecque --> is [a] --> free-market think tank
+[The] Institut Constant de Rebecque --> is about --> free-market
+16--> Cluster 3:
+[The] Institut Constant de Rebecque --> is --> [a] think tank
+[The] Institut Constant de Rebecque --> is [a] --> think tank
+16--> Cluster 4:
+[The] Institut Constant de Rebecque --> is --> [a] [classical] liberal think tank
+[The] Institut Constant de Rebecque --> is --> [a] [classical] liberal
+[The] Institut Constant de Rebecque --> is [a] --> [classical] liberal think tank
+[The] Institut Constant de Rebecque --> is [a] --> [classical] liberal
+[The] Institut Constant de Rebecque --> is [a] --> [classical] liberal think tank
+[The] Institut Constant de Rebecque --> is [a] --> [classical] liberal
+[The] Institut Constant de Rebecque --> is --> [classicaly] liberal
+16--> Cluster 5:
+[The] Institut Constant de Rebecque --> is --> [a] libertarian think tank
+[The] Institut Constant de Rebecque --> is [a] --> libertarian think tank
+[The] Institut Constant de Rebecque --> is --> libertarian
+16--> Cluster 6:
+[The] Institut Constant de Rebecque --> [is] founded in --> January 2005
+[The] Institut Constant de Rebecque --> [was] founded in --> January 2005
+16--> Cluster 7:
+[The] Institut Constant de Rebecque --> [is] founded in --> Lausanne
+[The] Institut Constant de Rebecque --> [was] founded in --> Lausanne
+16--> Cluster 8:
+[The] Institut Constant de Rebecque --> [is] named after --> Benjamin Constant
+[The] Institut Constant de Rebecque --> [was] named after --> Benjamin Constant
+16--> Cluster 9:
+Benjamin Constant --> is [a] --> writer
+Benjamin Constant --> is --> [a] writer
+16--> Cluster 10:
+Benjamin Constant --> is [a] --> [political] philosopher
+Benjamin Constant --> is --> [a] [political] philosopher
+Benjamin Constant --> is [a] --> political philosopher
+Benjamin Constant --> is --> [a] political philosopher
+16--> Cluster 11:
+Benjamin Constant --> is --> political
+Benjamin Constant --> is [a] --> political philosopher
+Benjamin Constant --> is --> [a] political philosopher
+16--> Cluster 12:
+Benjamin Constant --> lived before --> January 2005
+Benjamin Constant --> was alive before --> January 2005
+Benjamin Constant --> existed before --> January 2005
+
+sent_id:17	The main reason for this adoption over mainline gimp was its support for high bit depths which can be required for film work .
+17--> Cluster 1:
+[The] [main] reason for [this] adoption over mainline gimp --> was --> its support for high bit depths
+[The] [main] reason for [this] adoption over mainline gimp --> was --> it's support for high bit depths
+[The] [main] reason for [this] adoption over mainline gimp --> was --> it ['s] support for high bit depths
+[The] [main] reason for [this] adoption over mainline gimp --> was [its] support for --> high bit depths
+[The] [main] reason for [this] adoption over mainline gimp --> was it's support for --> high bit depths
+[The] [main] reason for [this] adoption over mainline gimp --> was it ['s] support for --> high bit depths
+17--> Cluster 2:
+high bit depths --> can be required for --> film work
+17--> Cluster 3:
+this adoption --> support --> high bit depths
+this adoption --> supports --> high bit depths
+17--> Cluster 4:
+this adoption --> was over --> mainline gimp
+this --> was adopted over --> mainline gimp
+
+sent_id:18	They have a large range of possible power supplies , and can be 380V , 1000V , or even higher .
+18--> Cluster 1:
+They --> have --> [a] large range of possible power supplies
+They --> have [a] --> large range of possible power supplies
+They --> have[a] large range of  --> possible power supplies
+They --> have [a] large range of --> possible power supplies
+They --> have[a] large range of  possible --> power supplies
+They --> have [a] large range of possible --> power supplies
+18--> Cluster 2:
+They --> can be --> 380V
+18--> Cluster 3:
+They --> can be --> 1000V
+18--> Cluster 4:
+They --> can be --> even higher
+They --> can be --> even higher than 1000V
+They --> can be even higher than --> 1000V
+
+sent_id:19	She began her film career in 1947 in the film `` A New Oath '' .
+19--> Cluster 1:
+She --> began --> [her] film career
+19--> Cluster 2:
+She --> began [her] film career in --> 1947
+19--> Cluster 3:
+She --> began [her] film career in --> [`] [`] A New Oath ['']
+19--> Cluster 4:
+[`] [`] A New Oath [''] --> is [a] --> film
+[`] [`] A New Oath [''] --> is --> [a] film
+
+sent_id:20	The brightest star in Serpens , Alpha Serpentis , or Unukalhai , is a red giant of spectral type K2III located approximately away which marks the snake 's heart .
+20--> Cluster 1:
+Alpha Serpentis --> is --> [The] brightest star in Serpens
+[The] brightest star in Serpens --> is --> Alpha Serpentis
+Unukalhai --> is --> [The] brightest star in Serpens
+[The] brightest star in Serpens --> is --> Unukalhai
+20--> Cluster 2:
+Alpha Serpentis --> is --> Unukalhai
+Alpha Serpentis --> is equal to --> Unukalhai
+Unukalhai --> is --> Alpha Serpentis
+Unukalhai --> is equal to --> Alpha Serpentis
+20--> Cluster 3:
+Alpha Serpentis --> is --> [a] red giant
+Alpha Serpentis --> is [a] --> red giant
+Unukalhai --> is --> [a] red giant
+Unukalhai --> is [a] --> red giant
+20--> Cluster 4:
+Alpha Serpentis --> is --> of [spectral] type K2III
+Alpha Serpentis --> is of --> [spectral] type K2III
+Unukalhai --> is --> of [spectral] type K2III
+Unukalhai --> is of --> [spectral] type K2III
+20--> Cluster 5:
+Alpha Serpentis --> is located --> [approximately] away
+Unukalhai --> is located --> [approximately] away
+20--> Cluster 6:
+Alpha Serpentis --> marks --> [the] snake ['s] heart
+Unukalhai --> marks --> [the] snake ['s] heart
+20--> Cluster 7:
+[the] snake --> has [a] --> heart
+[the] snake --> has --> [a] heart
+20--> Cluster 8:
+K2III --> is --> [a] spectral type
+K2III --> is [a] --> spectral type
+
+sent_id:21	This manual for warriors describes the necessity for understanding an opponent 's weaknesses , for using spies , and for striking in moments of weakness .
+21--> Cluster 1:
+This manual --> is for --> warriors
+This manual --> is --> for warriors
+21--> Cluster 2:
+This manual --> describes --> [the] necessity for understanding [an] opponent ['s] weaknesses
+This manual --> describes [the] necessity for --> understanding [an] opponent ['s] weaknesses
+21--> Cluster 3:
+This manual --> describes --> [the] necessity for using spies
+This manual --> describes [the] necessity for --> using spies
+21--> Cluster 4:
+This manual --> describes --> [the] necessity for striking in moments of weakness
+This manual --> describes [the] necessity for --> striking in moments of weakness
+
+sent_id:22	It was club policy to promote talent into the senior team that was adopted by Bill Dimovski .
+22--> Cluster 1:
+[the] senior team --> was adopted by --> Bill Dimovski
+22--> Cluster 2:
+club policy --> was [to] --> promote talent
+22--> Cluster 3:
+club policy --> was [to] promote talent into --> [the] senior team
+
+sent_id:23	Vaccinations against other viral diseases followed , including the successful rabies vaccination by Louis Pasteur in 1886 .
+23--> Cluster 1:
+Vaccinations against other viral diseases --> followed --> XXX
+23--> Cluster 2:
+Vaccinations against other viral diseases --> [are] including --> [the] [successful] rabies vaccination
+Vaccinations against other viral diseases --> included --> [the] [successful]rabies vaccination
+Vaccinations against other viral diseases --> include --> [the] [successful]rabies vaccination
+23--> Cluster 3:
+[the] [successful] rabies vaccination --> is by --> Louis Pasteur
+[the] [successful] rabies vaccination --> was [done] by --> Louis Pasteur
+Louis Pasteur --> did --> [the] [successful] rabies vaccination
+23--> Cluster 4:
+[the] [successful] rabies vaccination --> was [done] in --> 1886
+23--> Cluster 5:
+[the] rabies vaccination --> was --> successful
+[the] rabies vaccination --> is --> successful
+23--> Cluster 6:
+[the] [successful] rabies vaccination --> followed --> XXX
+23--> Cluster 7:
+rabies --> is [a] --> viral diseases
+rabies --> is --> [a] viral diseases
+rabies --> was [a] --> viral diseases
+rabies --> was --> [a] viral diseases
+
+sent_id:24	One major difference between the two models is that the Photographic Model follows more of a step-by-step process in the development of flashbulb accounts , whereas the Comprehensive Model demonstrates an interconnected relationship between the variables .
+24--> Cluster 1:
+[the] Photographic Model --> follows --> more of [a] step [-] by [-] step process
+[the] Photographic Model --> follows --> more of [a] step-by-step process
+[the] Photographic Model --> follows --> [a] step [-] by [-] step process
+[the] Photographic Model --> follows --> [a] step-by-step process
+24--> Cluster 2:
+[the] Photographic Model --> follows a step [-] by [-] step process in --> [the] development of flashbulb accounts
+[the] Photographic Model --> follows a step-by-step process in --> [the] development of flashbulb accounts
+[the] Photographic Model --> follows a step [-] by [-] step process in [the] development of --> flashbulb accounts
+[the] Photographic Model --> follows a step-by-step process in [the] development of --> flashbulb accounts
+24--> Cluster 3:
+[the] Comprehensive Model --> demonstrates --> [an] interconnected relationship
+24--> Cluster 4:
+[the] Comprehensive Model --> demonstrates [an] interconnected relationship between --> [the] variables
+24--> Cluster 5:
+[the] two models --> have --> One major difference
+One major difference --> is between --> [the] two models
+24--> Cluster 6:
+One major difference between [the] two models --> is [that] --> [the] Photographic Model follows a step [-] by [-] step process in [the] development of flashbulb accounts whereas [the] Comprehensive Model demonstrates an interconnected relationship between [the] variables
+One major difference between [the] two models --> is --> [that] [the] Photographic Model follows a step [-] by [-] step process in [the] development of flashbulb accounts whereas [the] Comprehensive Model demonstrates an interconnected relationship between [the] variables
+One major difference between [the] two models --> is [that] --> [the] Photographic Model follows a step-by-step process in [the] development of flashbulb accounts whereas [the] Comprehensive Model demonstrates an interconnected relationship between [the] variables
+One major difference between [the] two models --> is --> [that] [the] Photographic Model follows a step-by-step process in [the] development of flashbulb accounts whereas [the] Comprehensive Model demonstrates an interconnected relationship between [the] variables
+One major difference between [the] two models --> is [that] --> [the] Photographic Model follows a step [-] by [-] step process in [the] development of flashbulb accounts and [the] Comprehensive Model demonstrates an interconnected relationship between [the] variables
+One major difference between [the] two models --> is --> [that] [the] Photographic Model follows a step [-] by [-] step process in [the] development of flashbulb accounts and [the] Comprehensive Model demonstrates an interconnected relationship between [the] variables
+One major difference between [the] two models --> is [that] --> [the] Photographic Model follows a step-by-step process in [the] development of flashbulb accounts and [the] Comprehensive Model demonstrates an interconnected relationship between [the] variables
+One major difference between [the] two models --> is --> [that] [the] Photographic Model follows a step-by-step process in [the] development of flashbulb accounts and [the] Comprehensive Model demonstrates an interconnected relationship between [the] variables
+
+sent_id:25	That night , 300 soldiers of the 1st SS Battalion were able to reinforce the hotel and defeat several attacks on the building .
+25--> Cluster 1:
+300 soldiers --> [are] of --> [the] 1st SS Battalion
+300 soldiers --> belong to --> [the] 1st SS Battalion
+25--> Cluster 2:
+300 soldiers of [the] 1st SS Battalion --> were able to --> reinforce [the] hotel
+300 soldiers --> were able to --> reinforce [the] hotel
+300 soldiers of [the] 1st SS Battalion --> were able to reinforce --> [the] hotel
+300 soldiers --> were able to reinforce --> [the] hotel
+300 soldiers of [the] 1st SS Battalion --> reinforce --> [the] hotel
+300 soldiers --> reinforce --> [the] hotel
+300 soldiers --> reinforced --> [the] hotel
+25--> Cluster 3:
+300 soldiers of [the] 1st SS Battalion --> were able to --> defeat [several] attacks
+300 soldiers --> were able to --> defeat [several] attacks
+300 soldiers of [the] 1st SS Battalion --> were able to defeat --> [several] attacks
+300 soldiers --> were able to defeat --> [several] attacks
+300 soldiers of [the] 1st SS Battalion --> defeat --> [several] attacks
+300 soldiers --> defeat --> [several] attacks
+300 soldiers of [the] 1st SS Battalion --> defeated --> [several] attacks
+300 soldiers --> defeated --> [several] attacks
+25--> Cluster 4:
+300 soldiers of [the] 1st SS Battalion --> were able to defeat [several] attacks on --> [the] building
+300 soldiers --> were able to defeat [several] attacks on --> [the] building
+300 soldiers of [the] 1st SS Battalion --> defeat [several] attacks on --> [the] building
+300 soldiers --> defeat [several] attacks on --> [the] building
+300 soldiers of [the] 1st SS Battalion --> defeated [several] attacks on --> [the] building
+300 soldiers --> defeated [several] attacks on --> [the] building
+25--> Cluster 5:
+300 soldiers of [the] 1st SS Battalion --> were able to reinforce [the] hotel --> That night
+300 soldiers --> were able to reinforce [the] hotel --> That night
+300 soldiers of [the] 1st SS Battalion --> reinforce [the] hotel --> That night
+300 soldiers --> reinforce [the] hotel --> That night
+300 soldiers of [the] 1st SS Battalion --> reinforced [the] hotel --> That night
+300 soldiers --> reinforced [the] hotel --> That night
+25--> Cluster 6:
+300 soldiers of [the] 1st SS Battalion --> were able to defeat [several] attacks --> That night
+300 soldiers --> were able to defeat [several] attacks --> That night
+300 soldiers of [the] 1st SS Battalion --> defeat [several] attacks --> That night
+300 soldiers --> defeat [several] attacks --> That night
+300 soldiers of [the] 1st SS Battalion --> defeated [several] attacks --> That night
+300 soldiers --> defeated [several] attacks --> That night
+
+sent_id:26	His son , John Crozier , Jr. , was an early aviation pioneer who began building a human-powered flying machine in the 1890s , but was killed in a feud in Grainger County before he could complete it .
+26--> Cluster 1:
+John Crozier Jr. --> is --> His son
+His son --> is --> John Crozier Jr.
+John Crozier Jr. --> was --> His son
+His son --> was --> John Crozier Jr.
+26--> Cluster 2:
+John Crozier Jr. --> was --> [an] [early] aviation pioneer
+26--> Cluster 3:
+John Crozier Jr. --> began building --> [a] [human-powered] flying machine
+26--> Cluster 4:
+John Crozier Jr. --> began building [a] [human-powered] flying machine in --> [the] 1890s
+26--> Cluster 5:
+John Crozier Jr. --> was --> killed
+26--> Cluster 6:
+John Crozier Jr. --> was killed in --> [a] feud
+26--> Cluster 7:
+John Crozier Jr. --> was killed in --> Grainger County
+26--> Cluster 8:
+John Crozier Jr. --> was killed before --> he could complete [his] flying machine 
+John Crozier Jr. --> was killed before --> he could complete [the] flying machine 
+John Crozier Jr. --> was killed before --> he could complete [a] flying machine 
+John Crozier Jr. --> was killed before he could complete --> [his] flying machine 
+John Crozier Jr. --> was killed before he could complete --> [the] flying machine 
+John Crozier Jr. --> was killed before he could complete --> [a] flying machine 
+John Crozier Jr. --> was killed --> before he could complete [his] flying machine 
+John Crozier Jr. --> was killed --> before he could complete [the] flying machine 
+John Crozier Jr. --> was killed --> before he could complete [a] flying machine 
+
+sent_id:27	Arminius , leader of the Cherusci and allies , now had a free hand .
+27--> Cluster 1:
+Arminius --> is [a] --> leader
+Arminius --> is --> [a] leader
+Arminius --> is [the] --> leader
+Arminius --> is --> [the] leader
+27--> Cluster 2:
+Arminius --> is [the] leader of --> [the] Cherusci
+27--> Cluster 3:
+Arminius --> is [the] leader of --> [the] [Cherusci] allies
+Arminius --> is [the] leader of --> [the] allies of Cherusci
+27--> Cluster 4:
+Arminius --> [now] had --> [a] free hand
+Arminius --> [now] had [a] --> free hand
+
+sent_id:28	The culture of Bhutan is fully reflected in the capital city in respect of literature , religion , customs , and national dress code , the monastic practices of the monasteries , music , dance , literature and in the media .
+28--> Cluster 1:
+[The] culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+28--> Cluster 2:
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in respect of --> literature
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in --> literature
+[The] literature culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] culture of literature of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] literatury culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+28--> Cluster 3:
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in respect of --> religion
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in --> religion
+[The] religion culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] culture of religion of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] religious culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+28--> Cluster 4:
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in respect of --> customs
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in --> customs
+[The] customs culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] culture of customs of Bhutan --> is [fully] reflected in --> [the] capital [city]
+28--> Cluster 5:
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in respect of --> national dress code
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in --> national dress code
+[The] national dress code culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] culture of [the] national dress code of Bhutan --> is [fully] reflected in --> [the] capital [city]
+28--> Cluster 6:
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in respect of --> [the] monastic practices of [the] monasteries
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in --> [the] monastic practices of [the] monasteries
+[The] monastic practices of [the] monasteries culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] culture of monastic practices of [the] monasteries of Bhutan --> is [fully] reflected in --> [the] capital [city]
+28--> Cluster 7:
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in respect of --> music
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in --> music
+[The] music culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] culture of music of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] musical culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+28--> Cluster 8:
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in respect of --> dance
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in --> music
+[The] dance culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] culture of dance of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] dancing culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+28--> Cluster 9:
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in --> [the] media
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in respect of --> [the] media
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in respect of --> [the] media
+[The] culture of Bhutan --> is [fully] reflected in [the] capital [city] in --> media
+[The] media culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] culture of [the] media of Bhutan --> is [fully] reflected in --> [the] capital [city]
+[The] mediatic culture of Bhutan --> is [fully] reflected in --> [the] capital [city]
+28--> Cluster 10:
+Bhutan --> has [a] --> culture
+Bhutan --> has --> [a] culture
+28--> Cluster 11:
+monasteries --> have --> monastic practices
+
+sent_id:29	`` My Classical Way '' was released on 21 September 2010 on Marc 's own label , Frazzy Frog Music .
+29--> Cluster 1:
+[`] [`] My Classical Way [''] --> was --> released
+29--> Cluster 2:
+[`] [`] My Classical Way [''] --> was released on --> 21 September 2010
+29--> Cluster 3:
+[`] [`] My Classical Way [''] --> was released on --> Frazzy Frog Music
+29--> Cluster 4:
+Frazzy Frog Music --> is --> Marc ['s] own label
+Frazzy Frog Music --> is own label of --> Marc
+Frazzy Frog Music --> is owned by --> Marc
+Marc ['s] own label --> is --> Frazzy Frog Music
+29--> Cluster 5:
+Frazzy Frog Music --> is [a] --> label
+Frazzy Frog Music --> is --> [a] label
+29--> Cluster 6:
+Marc --> has [a] --> label
+Marc --> has --> [a] label
+Marc --> has --> [own] label
+Marc --> owns [a] --> label
+Marc --> owns --> [a] label
+
+sent_id:30	In England and Wales , as an `` attempt '' , attempted murder is an offence under section 1 of the Criminal Attempts Act 1981 and is an indictable offence which carries a maximum penalty of life imprisonment .
+30--> Cluster 1:
+attempted murder --> is --> [an] offence
+30--> Cluster 2:
+attempted murder --> is [an] offence In --> England
+attempted murder --> is [an] offence in --> England
+30--> Cluster 3:
+attempted murder --> is [an] offence In --> Wales
+attempted murder --> is [an] offence in --> Wales
+30--> Cluster 4:
+attempted murder --> as is [an] offence as --> [an] ` ` attempt ''
+30--> Cluster 5:
+attempted murder --> is [an] offence under --> section 1 of [the] Criminal Attempts Act 1981
+attempted murder --> is [an] offence under --> [the] Criminal Attempts Act 1981
+30--> Cluster 6:
+attempted murder --> is --> [an] indictable offence
+attempted murder --> is --> indictable
+30--> Cluster 7:
+attempted murder --> carries --> [a] [maximum] penalty of life imprisonment
+attempted murder --> carries[a] [maximum] penalty of  --> life imprisonment
+attempted murder --> carries --> [a] maximum penalty
+30--> Cluster 8:
+[an] indictable offence --> carries --> [a] [maximum] penalty of life imprisonment
+[an] indictable offence --> carries [a] [maximum] penalty of --> life imprisonment
+[an] indictable offence --> carries --> [a] maximum penalty
+30--> Cluster 9:
+[a] maximum penalty --> is [of] --> life imprisonment
+
+sent_id:31	Lugo and Lozano were released in 1993 and continue to reside in Venezuela .
+31--> Cluster 1:
+Lugo --> were --> released
+Lugo --> was --> released
+31--> Cluster 2:
+Lozano --> were --> released
+Lozano --> was --> released
+31--> Cluster 3:
+Lozano --> were released in --> 1993
+Lozano --> was released in --> 1993
+31--> Cluster 4:
+Lugo --> were released in --> 1993
+Lugo --> was released in --> 1993
+31--> Cluster 5:
+Lugo --> continue to reside in --> Venezuela
+Lugo --> continues to reside in --> Venezuela
+Lugo --> continue to --> reside in Venezuela
+Lugo --> continues to --> reside in Venezuela
+Lugo --> reside in --> Venezuela
+Lugo --> resides in --> Venezuela
+31--> Cluster 6:
+Lozano --> continue to reside in --> Venezuela
+Lozano --> continues to reside in --> Venezuela
+Lozano --> continue to --> reside in Venezuela
+Lozano --> continues to --> reside in Venezuela
+Lozano --> reside in --> Venezuela
+Lozano --> resides in --> Venezuela
+
+sent_id:32	Often , objects are so far away that they do not contribute significantly to the final image .
+32--> Cluster 1:
+objects --> Often are --> [so] far [away]
+objects --> are Often --> [so] far [away]
+objects --> often are --> [so] far [away]
+objects --> are often --> [so] far [away]
+32--> Cluster 2:
+objects --> [Often] do not --> contribute [significantly] to [the] final image
+objects --> [often] do not --> contribute [significantly] to [the] final image
+objects --> [Often] do not contribute [significantly] to --> [the] final image
+objects --> [often] do not contribute [significantly] to --> [the] final image
+32--> Cluster 3:
+objects --> [Often] are so far [away] that --> they do not contribute [significantly] to [the] final image
+objects --> are [Often] so far [away] that --> they do not contribute [significantly] to [the] final image
+objects --> [Often] are so far [away] that --> objects do not contribute [significantly] to [the] final image
+objects --> are [Often] so far [away] that --> objects do not contribute [significantly] to [the] final image
+objects --> [often] are so far [away] that --> they do not contribute [significantly] to [the] final image
+objects --> are [often] so far [away] that --> they do not contribute [significantly] to [the] final image
+objects --> [often] are so far [away] that --> objects do not contribute [significantly] to [the] final image
+objects --> are [often] so far [away] that --> objects do not contribute [significantly] to [the] final image
+objects --> [Often] do not contribute [significantly] to [the] final image because --> they are so far [away]
+objects --> [often] do not contribute [significantly] to [the] final image because --> they are so far [away]
+objects --> [Often] do not contribute [significantly] to [the] final image because --> objects are so far [away]
+objects --> [often] do not contribute [significantly] to [the] final image because --> objects are so far [away]
+
+sent_id:33	The school was founded in 1851 as the German-English Academy by a group of Milwaukee German Americans that included educationist Peter Engelmann and hardware wholesaler William Frankfurth .
+33--> Cluster 1:
+The school --> was --> founded
+33--> Cluster 2:
+The school --> [was] founded in --> 1851
+33--> Cluster 3:
+The school --> [was] founded as --> [the] German-English Academy
+33--> Cluster 4:
+The school --> [was] founded by --> [a] group of Milwaukee German Americans
+The school --> [was] founded by --> Milwaukee German Americans
+33--> Cluster 5:
+The school --> [was] founded by --> Peter Engelmann
+33--> Cluster 6:
+The school --> [was] founded by --> William Frankfurth
+33--> Cluster 7:
+[a] group of Milwaukee German Americans --> included --> Peter Engelmann
+Milwaukee German Americans --> included --> Peter Engelmann
+33--> Cluster 8:
+[a] group of Milwaukee German Americans --> included --> William Frankfurth
+Milwaukee German Americans --> included --> William Frankfurth
+33--> Cluster 9:
+Peter Engelmann --> is [an] --> educationist
+Peter Engelmann --> is --> [an] educationist
+Peter Engelmann --> is [a] --> educationist
+Peter Engelmann --> is --> [a] educationist
+33--> Cluster 10:
+William Frankfurth --> is [a] --> hardware wholesaler
+William Frankfurth --> is --> [a] hardware wholesaler
+William Frankfurth --> is [an] --> hardware wholesaler
+William Frankfurth --> is --> [an] hardware wholesaler
+
+sent_id:34	They held the first Triangle workshop in 1982 for thirty sculptors and painters from the US , the UK and Canada at Pine Plains , New York .
+34--> Cluster 1:
+They --> held --> [the] first Triangle workshop
+34--> Cluster 2:
+They --> held [the] first Triangle workshop in --> 1982
+34--> Cluster 3:
+They --> held [the] first Triangle workshop for --> thirty sculptors and painters
+34--> Cluster 4:
+They --> held [the] first Triangle workshop for [thirty] sculptors and painters from --> [the] US [,] [the] UK and Canada
+34--> Cluster 5:
+They --> held [the] first Triangle workshop at --> Pine Plains
+They --> held [the] first Triangle workshop in --> Pine Plains
+34--> Cluster 6:
+Pine Plains --> is [located] in --> New York
+34--> Cluster 7:
+They --> held [the] first Triangle workshop in --> New York
+34--> Cluster 8:
+They --> held [the] first Triangle workshop for sculptors from --> [the] US
+34--> Cluster 9:
+They --> held [the] first Triangle workshop for sculptors from --> [the] UK
+34--> Cluster 10:
+They --> held [the] first Triangle workshop for sculptors from --> Canada
+34--> Cluster 11:
+They --> held [the] first Triangle workshop for painters from --> [the] US
+34--> Cluster 12:
+They --> held [the] first Triangle workshop for painters from --> [the] UK
+34--> Cluster 13:
+They --> held [the] first Triangle workshop for painters from --> Canada
+34--> Cluster 14:
+They --> held [the] first Triangle workshop for --> sculptors
+34--> Cluster 15:
+They --> held [the] first Triangle workshop for --> painters
+
+sent_id:35	The town and surrounding villages were hit by two moderate earthquakes within ten years .
+35--> Cluster 1:
+The town --> were --> hit
+The town --> was --> hit
+35--> Cluster 2:
+The town --> were hit by --> two [moderate] earthquakes
+The town --> was hit by --> two [moderate] earthquakes
+35--> Cluster 3:
+The town --> were hit by two [moderate] earthquakes within --> ten years
+The town --> was hit by two [moderate] earthquakes within --> ten years
+35--> Cluster 4:
+[The] surrounding villages --> were --> hit
+[the] surrounding villages --> were --> hit
+35--> Cluster 5:
+[The] surrounding villages --> were hit by --> two [moderate] earthquakes
+[the] surrounding villages --> were hit by --> two [moderate] earthquakes
+35--> Cluster 6:
+[The] surrounding villages --> were hit by two [moderate] earthquakes within --> ten years
+[the] surrounding villages --> were hit by two [moderate] earthquakes within --> ten years
+35--> Cluster 7:
+The town --> has --> surrounding villages
+The town --> [is] surrounded by --> villages
+
+sent_id:36	She received her Master Degree in the field of Controls , Guidance and Instrumentation from I.I.T Madras and Ph.d degree from the department of Aerospace engineering .
+36--> Cluster 1:
+She --> received --> [her] Master Degree
+She --> received [her] --> Master Degree
+She --> has [a] --> Master Degree
+She --> has --> [a] Master Degree
+36--> Cluster 2:
+She --> received [her] Master Degree in [the] field of --> Controls [,] Guidance and Instrumentation
+She --> received [her] Master Degree in --> [the] field of Controls [,] Guidance and Instrumentation
+She --> received [her] Master Degree in --> Controls [,] Guidance and Instrumentation
+36--> Cluster 3:
+She --> received [her] Master Degree from --> I.I.T Madras
+36--> Cluster 4:
+She --> received [her] --> Ph.d degree
+She --> received --> [her] Ph.d degree
+36--> Cluster 5:
+She --> received [her] Ph.d degree from --> [the] department of Aerospace engineering
+She --> received [her] Ph.d degree from [the] department of --> Aerospace engineering
+
+sent_id:37	The theatrical flourishes and unique gimmicks she used in her stage show went beyond established burlesque routines like the fan dance and balloon dance .
+37--> Cluster 1:
+she --> used --> theatrical flourishes
+37--> Cluster 2:
+she --> used --> unique gimmicks
+37--> Cluster 3:
+she --> used theatrical flourishes in --> her [stage] show
+she --> used in [her] [stage] show --> theatrical flourishes 
+37--> Cluster 4:
+she --> used unique gimmicks in --> her [stage] show
+she --> used in [her] [stage] show --> unique gimmicks
+37--> Cluster 5:
+[The] theatrical flourishes she used in her [stage] show --> went beyond --> established burlesque routines like [the] fan dance and balloon dance
+[The] theatrical flourishes she used in her [stage] show --> went beyond --> established burlesque routines
+[The] theatrical flourishes she used --> went beyond --> established burlesque routines like [the] fan dance and balloon dance
+[The] theatrical flourishes she used --> went beyond --> established burlesque routines
+[The] theatrical flourishes --> went beyond --> established burlesque routines like [the] fan dance and balloon dance
+[The] theatrical flourishes --> went beyond --> established burlesque routines
+37--> Cluster 6:
+[The] unique gimmicks she used in her [stage] show --> went beyond --> established burlesque routines like [the] fan dance and balloon dance
+[The] unique gimmicks she used in her [stage] show --> went beyond --> established burlesque routines
+[The] unique gimmicks she used --> went beyond --> established burlesque routines like [the] fan dance and balloon dance
+[The] unique gimmicks she used --> went beyond --> established burlesque routines
+[The] unique gimmicks --> went beyond --> established burlesque routines like [the] fan dance and balloon dance
+[The] unique gimmicks --> went beyond --> established burlesque routines
+37--> Cluster 7:
+[the] fan dance --> is [an] --> [established] burlesque routines
+[the] fan dance --> is [an] --> [established] burlesque routine
+[the] fan dance --> are [an] --> [established] burlesque routines
+[the] fan dance --> is --> [an] [established] burlesque routines
+[the] fan dance --> is --> [an] [established] burlesque routine
+[the] fan dance --> are --> [an] [established] burlesque routines
+[the] fan dance --> is [a] --> [established] burlesque routines
+[the] fan dance --> is [a] --> [established] burlesque routine
+[the] fan dance --> are [a] --> [established] burlesque routines
+[the] fan dance --> is --> [a] [established] burlesque routines
+[the] fan dance --> is --> [a] [established] burlesque routine
+[the] fan dance --> are --> [a] [established] burlesque routines
+37--> Cluster 8:
+[the] balloon dance --> is [an] --> [established] burlesque routines
+[the] balloon dance --> is [an] --> [established] burlesque routine
+[the] balloon dance --> are [an] --> [established] burlesque routines
+[the] balloon dance --> is --> [an] [established] burlesque routines
+[the] balloon dance --> is --> [an] [established] burlesque routine
+[the] balloon dance --> are --> [an] [established] burlesque routines
+[the] balloon dance --> is [a] --> [established] burlesque routines
+[the] balloon dance --> is [a] --> [established] burlesque routine
+[the] balloon dance --> are [a] --> [established] burlesque routines
+[the] balloon dance --> is --> [a] [established] burlesque routines
+[the] balloon dance --> is --> [a] [established] burlesque routine
+[the] balloon dance --> are --> [a] [established] burlesque routines
+37--> Cluster 9:
+she --> has --> [a] [stage] show 
+she --> made --> [a] [stage] show 
+she --> has [a] --> [stage] show 
+she --> made [a] --> [stage] show
+
+sent_id:38	The RIAA lists it as one of the Best Selling Albums of All Time .
+38--> Cluster 1:
+[The] RIAA --> lists --> it
+38--> Cluster 2:
+[The] RIAA --> lists it as --> one of [the] Best Selling Albums of All Time
+
+sent_id:39	The Cathedral and the belfry were thoroughly renovated from 2006 to 2008 .
+39--> Cluster 1:
+[The] Cathedral --> were --> [thoroughly] renovated
+[The] Cathedral --> was --> [thoroughly] renovated
+39--> Cluster 2:
+[The] Cathedral --> were [thoroughly] renovated from --> 2006
+[The] Cathedral --> was [thoroughly] renovated from --> 2006
+39--> Cluster 3:
+[The] Cathedral --> were [thoroughly] renovated to --> 2008
+[The] Cathedral --> was [thoroughly] renovated to --> 2008
+39--> Cluster 4:
+[the] belfry --> were --> [thoroughly] renovated
+[the] belfry --> was --> [thoroughly] renovated
+39--> Cluster 5:
+[the] belfry --> were [thoroughly] renovated from --> 2006
+[the] belfry --> was [thoroughly] renovated from --> 2006
+39--> Cluster 6:
+[the] belfry --> were [thoroughly] renovated to --> 2008
+[the] belfry --> was [thoroughly] renovated to --> 2008
+
+sent_id:40	When the band is not touring , Peter Bywaters offers personal English as a second language tuition on a live-in basis at his home in Brighton .
+40--> Cluster 1:
+Peter Bywaters --> offers --> second language tuition
+40--> Cluster 2:
+Peter Bywaters --> offers second language tuition in --> English
+Peter Bywaters --> offers tuition in --> English
+40--> Cluster 3:
+Peter Bywaters --> offers second language tuition When --> [the] band is not touring
+Peter Bywaters --> offers tuition When --> [the] band is not touring
+Peter Bywaters --> offers second language tuition when --> [the] band is not touring
+Peter Bywaters --> offers tuition when --> [the] band is not touring
+40--> Cluster 4:
+Peter Bywaters --> offers second language tuition on --> [a] live-in basis
+Peter Bywaters --> offers second language tuition on [a] --> live-in basis
+Peter Bywaters --> offers tuition on --> [a] live-in basis
+Peter Bywaters --> offers tuition on [a] --> live-in basis
+40--> Cluster 5:
+Peter Bywaters --> offers second language tuition at --> his home
+Peter Bywaters --> offers second language tuition at --> Peter Bywaters ['s] home
+40--> Cluster 6:
+his home --> is in --> Brighton
+Peter Bywaters ['s] home --> is in --> Brighton
+Peter Bywaters --> has [a] home in --> Brighton
+
+sent_id:41	These screening activities include : review of group-based data ; hearing , vision , motor , and speech/language screening ; and review by the Special Education administration .
+41--> Cluster 1:
+[These] screening activities --> include --> review of group-based data
+[These] screening activities --> include review of --> group-based data
+[These] screening activities --> include --> review of group [-] based data
+[These] screening activities --> include review of --> group [-] based data
+41--> Cluster 2:
+[These] screening activities --> include --> hearing screening
+41--> Cluster 3:
+[These] screening activities --> include --> vision screening
+41--> Cluster 4:
+[These] screening activities --> include --> motor screening
+41--> Cluster 5:
+[These] screening activities --> include --> speech screening
+[These] screening activities --> include --> speech / language screening
+[These] screening activities --> include --> speech/language screening
+41--> Cluster 6:
+[These] screening activities --> include --> language screening
+[These] screening activities --> include --> speech / language screening
+[These] screening activities --> include --> speech/language screening
+41--> Cluster 7:
+[These] screening activities --> include --> review by [the] Special Education administration
+[These] screening activities --> include review by --> [the] Special Education administration
+
+sent_id:42	He probably saw active service as a soldier for the Scottish forces in The Netherlands in the later 1570s , although there is no certain documentary evidence of this .
+42--> Cluster 1:
+He --> [probably] saw --> active service
+42--> Cluster 2:
+He --> [probably] saw active service as --> [a] soldier
+He --> [probably] saw active service as [a] --> soldier
+42--> Cluster 3:
+He --> [probably] saw active service for --> [the] Scottish forces
+42--> Cluster 4:
+He --> [probably] saw active service in --> [The] Netherlands
+42--> Cluster 5:
+He --> [probably] saw active service in --> [the] [later] 1570s
+42--> Cluster 6:
+He --> [probably] saw active service although --> there is no [certain] documentary evidence of this
+He --> [probably] saw active service although there is --> no [certain] documentary evidence of this
+He --> [probably] saw active service although there is no --> [certain] documentary evidence of this
+He --> [probably] saw active service although --> there is no [certain] documentary evidence of him seeing active service
+He --> [probably] saw active service although there is --> no [certain] documentary evidence of him seeing active service
+He --> [probably] saw active service although there is no --> [certain] documentary evidence of him seeing active service
+He --> [probably] saw active service although --> there is no [certain] documentary evidence of He seeing active service
+He --> [probably] saw active service although there is --> no [certain] documentary evidence of He seeing active service
+He --> [probably] saw active service although there is no --> [certain] documentary evidence of He seeing active service
+there --> is no --> [certain] documentary evidence of him seeing active service
+there --> is --> no [certain] documentary evidence of him seeing active service
+there --> is no --> [certain] documentary evidence of He seeing active service
+there --> is --> no [certain] documentary evidence of He seeing active service
+no [certain] documentary evidence --> is of --> He seeing active service
+no [certain] documentary evidence --> is of --> him seeing active service
+no [certain] documentary evidence --> exists of --> He seeing active service
+no [certain] documentary evidence --> exists of --> him seeing active service
+42--> Cluster 7:
+Scottish forces --> were in --> The Netherlands
+42--> Cluster 8:
+Scottish forces --> were in The Netherlands in --> [the] [later] 1570s
+
+sent_id:43	The Nazis did however permit a single dress rehearsal in Salzburg , conducted by Clemens Krauss on 16 August , in order that Strauss and an invited audience could hear the work performed .
+43--> Cluster 1:
+[The] Nazis --> [did] [however] permit --> [a] [single] dress rehearsal
+[a] [single] dress rehearsal --> [was] permitted by --> [The] Nazis
+43--> Cluster 2:
+[The] Nazis --> [did] [however] permit [a] [single] dress rehearsal in --> Salzburg
+43--> Cluster 3:
+[The] Nazis --> [did] [however] permit [a] [single] dress rehearsal conducted by --> Clemens Krauss
+43--> Cluster 4:
+[The] Nazis --> [did] [however] permit [a] [single] dress rehearsal on --> 16 August
+[The] Nazis --> [did] [however] permit [a] [single] dress rehearsal on --> August 16
+43--> Cluster 5:
+[The] Nazis --> [did] [however] permit [a] [single] dress rehearsal in order that --> Strauss could hear [the] work [performed]
+43--> Cluster 6:
+[The] Nazis --> [did] [however] permit [a] [single] dress rehearsal in order that --> [an] [invited] audience could hear [the] work [performed]
+43--> Cluster 7:
+[an] audience --> was invited to --> [a] [single] dress rehearsal
+[an] audience --> was invited to --> [the] [single] dress rehearsal
+43--> Cluster 8:
+Strauss --> could hear --> [the] work [performed]
+43--> Cluster 9:
+Strauss --> could hear [the] work [performed] in --> Salzburg
+43--> Cluster 10:
+Strauss --> could hear [the] work conducted by --> Clemens Krauss
+43--> Cluster 11:
+Strauss --> could hear [the] work [performed] on --> 16 August
+Strauss --> could hear [the] work [performed] on --> August 16
+43--> Cluster 12:
+[an] [invited] audience --> could hear --> [the] work [performed]
+43--> Cluster 13:
+[an] [invited] audience --> could hear [the] work [performed] in --> Salzburg
+43--> Cluster 14:
+[an] [invited] audience --> could hear [the] work conducted by --> Clemens Krauss
+43--> Cluster 15:
+[an] [invited] audience --> could hear [the] work [performed] on --> 16 August
+[an] [invited] audience --> could hear [the] work [performed] on --> August 16
+43--> Cluster 16:
+Clemens Krauss --> conducted --> [a] [single] dress rehearsal
+[a] [single] dress rehearsal --> [was] conducted by --> Clemens Krauss
+43--> Cluster 17:
+Clemens Krauss --> conducted [a] [single] dress rehearsal in --> Salzburg
+43--> Cluster 18:
+Clemens Krauss --> conducted [a] [single] dress rehearsal on --> 16 August
+Clemens Krauss --> conducted [a] [single] dress rehearsal on --> August 16
+43--> Cluster 19:
+Clemens Krauss --> conducted [a] [single] dress rehearsal in order that --> Strauss could hear [the] work [performed]
+43--> Cluster 20:
+Clemens Krauss --> conducted [a] [single] dress rehearsal in order that --> [an] [invited] audience could hear [the] work [performed]
+43--> Cluster 21:
+[a] [single] dress rehearsal --> was preformed --> XXX
+[a] [single] dress rehearsal --> was --> preformed
+[a] [single] dress rehearsal --> was --> contucted
+43--> Cluster 22:
+[a] [single] dress rehearsal --> was conducted by --> Clemens Krauss
+43--> Cluster 23:
+[a] [single] dress rehearsal --> was [performed] on --> 16 August
+[a] [single] dress rehearsal --> was [performed] on --> August 16
+[a] [single] dress rehearsal --> was [performed] on --> 16 August
+[a] [single] dress rehearsal --> was [performed] on --> August 16
+43--> Cluster 24:
+[a] [single] dress rehearsal --> was [performed] in --> Salzburg
+[a] [single] dress rehearsal --> was conducted in --> Salzburg
+43--> Cluster 25:
+[a] [single] dress rehearsal --> was [performed] in order that --> Strauss could hear [the] work [performed]
+[a] [single] dress rehearsal --> was conducted in order that --> Strauss could hear [the] work [performed]
+43--> Cluster 26:
+[a] [single] dress rehearsal --> was [performed] in order that --> [an] [invited] audience could hear [the] work [performed]
+[a] [single] dress rehearsal --> was conducted in order that --> [an] [invited] audience could hear [the] work [performed]
+
+sent_id:44	This is usually caused by interacting inductive and capacitive elements in the oscillator .
+44--> Cluster 1:
+This --> is [usually] caused by --> interacting elements
+44--> Cluster 2:
+This --> is [usually] caused by --> interacting inductive and capacitive elements
+This --> is [usually] caused by interacting --> inductive and capacitive elements
+44--> Cluster 3:
+This --> is [usually] caused by interacting inductive and capacitive elements in --> [the] oscillator
+This --> is [usually] caused by interacting elements in --> [the] oscillator
+
+sent_id:45	Sligo town then became an incorporated municipal borough with a Royal Charter issued by the British King James I in 1613/14 .
+45--> Cluster 1:
+Sligo --> is [a] --> town
+Sligo --> is --> [a] town
+45--> Cluster 2:
+Sligo [town] --> [then] became --> [an] incorporated municipal borough
+45--> Cluster 3:
+Sligo [town] --> [then] became [an] [incorporated] municipal borough with --> [a] Royal Charter
+a Royal Charter --> made Sligo [town] --> [an] [incorporated] municipal borough
+45--> Cluster 4:
+Sligo [town] --> [then] became [an] [incorporated] municipal borough with [a] Royal Charter issued by --> James I
+James I --> issued a Royal Charter that made Sligo [town] --> [an] [incorporated] municipal borough
+45--> Cluster 5:
+Sligo [town] --> became [an] [incorporated] municipal borough in --> 1613/14
+Sligo [town] --> became [an] [incorporated] municipal borough in --> 1613 / 14
+45--> Cluster 6:
+[the] British King --> was --> James I
+James I --> was --> [the] British King
+James I --> is king of --> [the] British
+James I --> is King of --> [the] British
+45--> Cluster 7:
+[the] British King --> was James I in --> 1613/14
+[the] British King --> was James I in --> 1613 / 14
+James I --> was [the] British King in --> 1613/14
+James I --> was [the] British King in --> 1613 / 14
+45--> Cluster 8:
+James I --> issued --> a Royal Charter
+[a] Royal Charter --> [be] issued by --> James I
+45--> Cluster 9:
+James I --> issued a Royal Charter in --> 1613/14
+James I --> issued a Royal Charter in --> 1613 / 14
+[a] Royal Charter --> [be] issued by James I in --> 1613/14
+[a] Royal Charter --> [be] issued by James I in --> 1613 / 14
+
+sent_id:46	Tom McMorran joined the band in 1994 after Mark Portmann left and in August of that year the band released `` Sahara '' .
+46--> Cluster 1:
+Tom McMorran --> joined --> [the] band
+46--> Cluster 2:
+Tom McMorran --> joined [the] band in --> 1994
+46--> Cluster 3:
+Tom McMorran --> joined [the] band after --> Mark Portmann left
+Mark Portmann --> left [the] band before --> Tom McMorran joined
+Tom McMorran --> joined [the] band after --> Mark Portmann left [the] band
+Mark Portmann --> left [the] band before --> Tom McMorran joined [the] band
+46--> Cluster 4:
+Mark Portmann --> left --> [the] band
+46--> Cluster 5:
+[the] band --> released --> [`] [`] Sahara ['']
+[`] [`] Sahara [''] --> was released by --> [the] band
+46--> Cluster 6:
+[the] band --> released [`] [`] Sahara [''] in --> 1994 August
+[`] [`] Sahara [''] --> was released in --> 1994 August
+[the] band --> released [`] [`] Sahara [''] in --> August [of] 1994
+[`] [`] Sahara [''] --> was released in --> August [of] 1994
+
+sent_id:47	As she reads the articles , she also makes veiled references and innuendo relating to the slang use of `` beaver '' .
+47--> Cluster 1:
+she --> [also] makes --> veiled references
+47--> Cluster 2:
+she --> [also] makes [veiled] references As --> she reads [the] articles
+she --> [also] makes [veiled] references as --> she reads [the] articles
+47--> Cluster 3:
+she --> [also] makes [veiled] references relating to --> [the] slang use of [`] [`] beaver ['']
+47--> Cluster 4:
+she --> [also] makes --> innuendo
+47--> Cluster 5:
+she --> [also] makes [veiled] innuendo As --> she reads [the] articles
+she --> [also] makes [veiled] innuendo as --> she reads [the] articles
+47--> Cluster 6:
+she --> [also] makes [veiled] innuendo relating to --> [the] slang use of [`] [`] beaver ['']
+47--> Cluster 7:
+she --> reads --> [the] articles
+she --> read --> [the] articles
+
+sent_id:48	23.8 % of all households were made up of individuals and 13.0 % had someone living alone who was 65 years of age or older .
+48--> Cluster 1:
+23.8 % of [all] households --> were made up of --> individuals
+48--> Cluster 2:
+13.0 % of [all] households --> had someone living alone who was --> 65 years of age or older
+13.0 % of [all] households --> had someone living alone who was --> 65 years or older
+13.0 % of [all] households --> had --> someone living alone who was 65 years or older
+
+sent_id:49	Overseas teams would not return to Russia until 1998 , when a youth tournament was held in Moscow .
+49--> Cluster 1:
+Overseas teams --> would not --> return to Russia
+Overseas teams --> would not return to --> Russia
+49--> Cluster 2:
+Overseas teams --> would not return to Russia until --> 1998
+Overseas teams --> return to Russia in --> 1998
+Overseas teams --> returned to Russia in --> 1998
+49--> Cluster 3:
+Overseas teams --> would not return to Russia until --> [a] youth tournament was held
+Overseas teams --> return to Russia when --> [a] youth tournament was held
+Overseas teams --> returned to Russia when --> [a] youth tournament was held
+49--> Cluster 4:
+Overseas teams --> would not return to Russia until [a] youth tournament was held in --> Moscow
+49--> Cluster 5:
+[a] youth tournament --> was --> held
+49--> Cluster 6:
+[a] youth tournament --> was held in --> Moscow
+49--> Cluster 7:
+[a] youth tournament --> was held in --> 1998
+49--> Cluster 8:
+Overseas teams --> return to --> Russia
+Overseas teams --> returned to --> Russia
+
+sent_id:50	The British Army had been shown to be overstretched by the Crimean War , while the mutiny in India had led to the responsibility for providing a garrison in the subcontinent from the Honourable East India Company to the Crown forces .
+50--> Cluster 1:
+[The] British Army --> had been shown to be --> overstretched
+[The] British Army --> had been --> overstretched
+50--> Cluster 2:
+[The] British Army --> had been shown to be overstretched by --> [the] Crimean War
+[The] British Army --> had been overstretched by --> [the] Crimean War
+50--> Cluster 3:
+[the] mutiny in India --> [had] led to [the] responsibility for providing [a] garrison in [the] subcontinent to --> [the] Crown forces
+[the] mutiny in India --> [had] led to [the] responsibilities for providing [a] garrison in [the] subcontinent to --> [the] Crown forces
+[the] mutiny in India --> [had] led to [the] responsibility for providing [a] garrison to --> [the] Crown forces
+[the] mutiny in India --> [had] led to [the] responsibilities for providing [a] garrison to --> [the] Crown forces
+[the] mutiny in India --> [had] led to [the] responsibility to --> [the] Crown forces
+[the] mutiny in India --> [had] led to [the] responsibilities to --> [the] Crown forces
+50--> Cluster 4:
+[the] mutiny in India --> [had] led to [the] responsibility for providing [a] garrison in [the] subcontinent from --> [the] Honourable East India Company
+[the] mutiny in India --> [had] led to [the] responsibilities for providing [a] garrison in [the] subcontinent from --> [the] Honourable East India Company
+[the] mutiny in India --> [had] led to [the] responsibility for providing [a] garrison from --> [the] Honourable East India Company
+[the] mutiny in India --> [had] led to [the] responsibilities for providing [a] garrison from --> [the] Honourable East India Company
+[the] mutiny in India --> [had] led to [the] responsibility from --> [the] Honourable East India Company
+[the] mutiny in India --> [had] led to [the] responsibilities from --> [the] Honourable East India Company
+50--> Cluster 5:
+[the] mutiny in India --> [had] led to --> [the] responsibility
+[the] mutiny in India --> [had] led to --> [the] responsibilities
+50--> Cluster 6:
+[the] mutiny in India --> [had] led to [the] responsibility for --> providing [a] garrison
+[the] mutiny in India --> [had] led to [the] responsibilities for --> providing [a] garrison
+50--> Cluster 7:
+[the] mutiny in India --> [had] led to [the] responsibility for providing [a] garrison in --> [the] subcontinent
+[the] mutiny in India --> [had] led to [the] responsibilities for providing [a] garrison in --> [the] subcontinent
+[the] mutiny in India --> [had] led to [the] responsibility in --> [the] subcontinent
+[the] mutiny in India --> [had] led to [the] responsibilities in --> [the] subcontinent
