@@ -6,10 +6,11 @@ You can find the details about the benchmark in our paper (ref) .
 ## Table of contents
 
   - [Requirements](#requirements)
-  - [Running the benchmark](#running_the_benchmark)
+  - [Running the benchmark](#running-the-benchmark)
   - [Data formats](#data-formats)
     - [Annotations](#annotations)
     - [OIE system extractions](#oie-system-extractions)
+  - [Guidelines] (#guidelines)
   - [License](#license)
   - [Citing](#citing)
 
@@ -133,9 +134,13 @@ Note that `sent_id` should match `sent_id` from the golden extractions. For exam
 ```
 This means that this particular OIE triple will be evaluated w.r.t. the sentence with `sent_id=19` in the golden annotations file. 
 
+## Guidelines
+
+Guidelines presented in the paper are distributed for both annotation of sentences and matching of extraction-annotation pairs.
+
 ## License
 
-The software framework is licensed according to the license for academic or non-profit organization noncommercial research use only. Details are provided in the [license file](ref) and in the header of each source code file. The data is under the non-restrictive [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+The software framework is licensed according to the license for academic or non-profit organization noncommercial research use only. Details are provided in the [license file](https://github.com/rali-udem/benchie_fl/blob/main/LICENSE.txt) and in the header of each source code file. The data is under the non-restrictive [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Citing
 If you use BenchIE for your research, please cite the following paper:
