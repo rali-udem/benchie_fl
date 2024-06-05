@@ -1,5 +1,5 @@
 # BenchIE^FL: A Manually Re-Annotated Fact-Based Open Information Extraction Benchmark
-BenchIE^FL is an Open Information Extraction (OIE) reference, Measuring Precision, Recall and F1 of OIE systems based on a set of manual (gold) annotations. It is based on the previously released BenchIE benchmark (ref) but improves on the quality of the annotations and on the matching function used in scoring systems, resulting in a fairer evaluation.
+BenchIE^FL is an Open Information Extraction (OIE) reference, Measuring Precision, Recall and F1 of OIE systems based on a set of manual (gold) annotations. It is based on the previously released BenchIE benchmark (https://github.com/gkiril/benchie) but improves on the quality of the annotations and on the matching function used in scoring systems, resulting in a fairer evaluation.
 
 You can find the details about the benchmark in our paper (ref) .
 
