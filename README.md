@@ -10,7 +10,7 @@ More details about the annotations, guidelines and implementation can be found i
   - [Data formats](#data-formats)
     - [Annotations](#annotations)
     - [OIE system extractions](#oie-system-extractions)
-  - [Guidelines] (#guidelines)
+  - [Guidelines](#guidelines)
   - [License](#license)
   - [Citing](#citing)
 
@@ -50,7 +50,7 @@ to different (BenchIE formatted) extractions and annotation files. The BenchIE f
 
 ## Data formats
 
-The data in BenchIE^FL follows the exact same data format as BenchIE. We directly use their explaination of the data formats:
+The data in BenchIE^FL follows the exact same data format as BenchIE. We directly use their explaination of the data formats, which can be found on their github page:
 
 The data in BenchIE^FL (and BenchIE) is split in two majour groups:
 
@@ -136,7 +136,7 @@ This means that this particular OIE triple will be evaluated w.r.t. the sentence
 
 ## Guidelines
 
-Guidelines presented in the paper are distributed for both annotation of sentences and matching of extraction-annotation pairs.
+Guidelines presented in the paper are distributed for both annotation of sentences and matching of extraction-annotation pairs in the `/guidelines` folder.
 
 ## License
 
