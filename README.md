@@ -146,7 +146,13 @@ The software framework is licensed according to the license for academic or non-
 If you use BenchIE for your research, please cite the following paper:
 
 ```
-Bibtex
+@inproceedings{lamarche2024benchie,
+  title={BenchIE\^{} FL: A Manually Re-Annotated Fact-Based Open Information Extraction Benchmark},
+  author={Lamarche, Fabrice and Langlais, Philippe},
+  booktitle={Findings of the Association for Computational Linguistics ACL 2024},
+  pages={8372--8394},
+  year={2024}
+}
 ```
 
 
